@@ -1,0 +1,23 @@
+1733566195.4810038 [INFO] [launch]: All log files can be found below /home/abc/.ros/log/2024-12-07-15-39-55-480148-i4-OptiPlex-9020-184371
+1733566195.4811454 [INFO] [launch]: Default logging verbosity is set to INFO
+1733566195.6927402 [INFO] [ruby $(which gz) sim-1]: process started with pid [184372]
+1733566195.6929336 [INFO] [joint_state_publisher_gui-2]: process started with pid [184374]
+1733566195.6930320 [INFO] [robot_state_publisher-3]: process started with pid [184377]
+1733566195.6931200 [INFO] [rviz2-4]: process started with pid [184389]
+1733566195.6932535 [INFO] [parameter_bridge-5]: process started with pid [184394]
+1733566195.7488136 [robot_state_publisher-3] [1;31mError [Converter.cc:156][0m Unable to convert from SDF version 1.10 to 1.9
+1733566195.7713711 [robot_state_publisher-3] [WARN] [1733566195.771065000] [kdl_parser]: The root link base_link has an inertia specified in the URDF, but KDL does not support a root link with an inertia.  As a workaround, you can add an extra dummy link to your URDF.
+1733566195.7764316 [robot_state_publisher-3] [INFO] [1733566195.776178046] [robot_state_publisher]: got segment base_link
+1733566195.7768226 [robot_state_publisher-3] [INFO] [1733566195.776278121] [robot_state_publisher]: got segment front_left_wheel
+1733566195.7769470 [robot_state_publisher-3] [INFO] [1733566195.776285896] [robot_state_publisher]: got segment front_right_wheel
+1733566195.7770493 [robot_state_publisher-3] [INFO] [1733566195.776291345] [robot_state_publisher]: got segment rear_left_wheel
+1733566195.7771549 [robot_state_publisher-3] [INFO] [1733566195.776296196] [robot_state_publisher]: got segment rear_right_wheel
+1733566265.2107141 [WARNING] [launch]: user interrupted with ctrl-c (SIGINT)
+1733566265.2189808 [robot_state_publisher-3] [INFO] [1733566265.209681232] [rclcpp]: signal_handler(signum=2)
+1733566265.2532248 [ERROR] [joint_state_publisher_gui-2]: process has died [pid 184374, exit code -2, cmd '/opt/ros/humble/lib/joint_state_publisher_gui/joint_state_publisher_gui /home/abc/Firebird-VI/install/robot_description/share/robot_description/models/firebird_vi/model.sdf --ros-args -r __node:=joint_state_publisher_gui'].
+1733566265.3343222 [INFO] [robot_state_publisher-3]: process has finished cleanly [pid 184377]
+1733566265.5943911 [INFO] [rviz2-4]: process has finished cleanly [pid 184389]
+1733566266.2063844 [ERROR] [ruby $(which gz) sim-1]: process has died [pid 184372, exit code -2, cmd 'ruby $(which gz) sim /home/abc/Firebird-VI/install/mapping_gazebo/share/mapping_gazebo/worlds/empty.sdf --force-version 7'].
+1733566270.2171872 [ERROR] [parameter_bridge-5]: process[parameter_bridge-5] failed to terminate '5' seconds after receiving 'SIGINT', escalating to 'SIGTERM'
+1733566270.2180703 [INFO] [parameter_bridge-5]: sending signal 'SIGTERM' to process[parameter_bridge-5]
+1733566270.3356650 [INFO] [parameter_bridge-5]: process has finished cleanly [pid 184394]

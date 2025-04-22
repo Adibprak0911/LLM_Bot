@@ -1,0 +1,102 @@
+[INFO] [1733566214.877260094] [controller_server]: 
+	controller_server lifecycle node launched. 
+	Waiting on external lifecycle transitions to activate
+	See https://design.ros2.org/articles/node_lifecycle.html for more information.
+[INFO] [1733566214.883088140] [controller_server]: Creating controller server
+[INFO] [1733566214.918097017] [local_costmap.local_costmap]: 
+	local_costmap lifecycle node launched. 
+	Waiting on external lifecycle transitions to activate
+	See https://design.ros2.org/articles/node_lifecycle.html for more information.
+[INFO] [1733566214.919967192] [local_costmap.local_costmap]: Creating Costmap
+[INFO] [1733566216.171906605] [controller_server]: Configuring controller interface
+[INFO] [1733566216.172218266] [controller_server]: getting goal checker plugins..
+[INFO] [1733566216.173060814] [controller_server]: Controller frequency set to 20.0000Hz
+[INFO] [1733566216.173150423] [local_costmap.local_costmap]: Configuring
+[INFO] [1733566216.182963137] [local_costmap.local_costmap]: Using plugin "voxel_layer"
+[INFO] [1733566216.191817939] [local_costmap.local_costmap]: Subscribed to Topics: scan
+[INFO] [1733566216.217566872] [local_costmap.local_costmap]: Initialized plugin "voxel_layer"
+[INFO] [1733566216.218113216] [local_costmap.local_costmap]: Using plugin "inflation_layer"
+[INFO] [1733566216.223659610] [local_costmap.local_costmap]: Initialized plugin "inflation_layer"
+[INFO] [1733566216.257727623] [controller_server]: Created progress_checker : progress_checker of type nav2_controller::SimpleProgressChecker
+[INFO] [1733566216.261031870] [controller_server]: Created goal checker : general_goal_checker of type nav2_controller::SimpleGoalChecker
+[INFO] [1733566216.263567183] [controller_server]: Controller Server has general_goal_checker  goal checkers available.
+[INFO] [1733566216.266769311] [controller_server]: Created controller : FollowPath of type dwb_core::DWBLocalPlanner
+[INFO] [1733566216.272621399] [controller_server]: Setting transform_tolerance to 0.200000
+[INFO] [1733566216.319366161] [controller_server]: Using critic "RotateToGoal" (dwb_critics::RotateToGoalCritic)
+[INFO] [1733566216.325283331] [controller_server]: Critic plugin initialized
+[INFO] [1733566216.326746707] [controller_server]: Using critic "Oscillation" (dwb_critics::OscillationCritic)
+[INFO] [1733566216.332254084] [controller_server]: Critic plugin initialized
+[INFO] [1733566216.333974488] [controller_server]: Using critic "BaseObstacle" (dwb_critics::BaseObstacleCritic)
+[INFO] [1733566216.336597063] [controller_server]: Critic plugin initialized
+[INFO] [1733566216.339893637] [controller_server]: Using critic "GoalAlign" (dwb_critics::GoalAlignCritic)
+[INFO] [1733566216.344521020] [controller_server]: Critic plugin initialized
+[INFO] [1733566216.345992510] [controller_server]: Using critic "PathAlign" (dwb_critics::PathAlignCritic)
+[INFO] [1733566216.348845371] [controller_server]: Critic plugin initialized
+[INFO] [1733566216.350423164] [controller_server]: Using critic "PathDist" (dwb_critics::PathDistCritic)
+[INFO] [1733566216.353052781] [controller_server]: Critic plugin initialized
+[INFO] [1733566216.355144995] [controller_server]: Using critic "GoalDist" (dwb_critics::GoalDistCritic)
+[INFO] [1733566216.359172814] [controller_server]: Critic plugin initialized
+[INFO] [1733566216.360056381] [controller_server]: Controller Server has FollowPath  controllers available.
+[INFO] [1733566217.203735594] [controller_server]: Activating
+[INFO] [1733566217.203775008] [local_costmap.local_costmap]: Activating
+[INFO] [1733566217.203792260] [local_costmap.local_costmap]: Checking transform
+[INFO] [1733566217.203814461] [local_costmap.local_costmap]: Timed out waiting for transform from base_link to odom to become available, tf error: Invalid frame ID "odom" passed to canTransform argument target_frame - frame does not exist
+[INFO] [1733566217.703904256] [local_costmap.local_costmap]: Timed out waiting for transform from base_link to odom to become available, tf error: Invalid frame ID "odom" passed to canTransform argument target_frame - frame does not exist
+[INFO] [1733566218.203920088] [local_costmap.local_costmap]: Timed out waiting for transform from base_link to odom to become available, tf error: Invalid frame ID "odom" passed to canTransform argument target_frame - frame does not exist
+[INFO] [1733566218.703906789] [local_costmap.local_costmap]: Timed out waiting for transform from base_link to odom to become available, tf error: Invalid frame ID "odom" passed to canTransform argument target_frame - frame does not exist
+[INFO] [1733566219.203892311] [local_costmap.local_costmap]: Timed out waiting for transform from base_link to odom to become available, tf error: Invalid frame ID "odom" passed to canTransform argument target_frame - frame does not exist
+[INFO] [1733566219.703928096] [local_costmap.local_costmap]: Timed out waiting for transform from base_link to odom to become available, tf error: Invalid frame ID "odom" passed to canTransform argument target_frame - frame does not exist
+[INFO] [1733566220.203886075] [local_costmap.local_costmap]: Timed out waiting for transform from base_link to odom to become available, tf error: Invalid frame ID "odom" passed to canTransform argument target_frame - frame does not exist
+[INFO] [1733566220.703897583] [local_costmap.local_costmap]: Timed out waiting for transform from base_link to odom to become available, tf error: Invalid frame ID "odom" passed to canTransform argument target_frame - frame does not exist
+[INFO] [1733566221.204026613] [local_costmap.local_costmap]: start
+[INFO] [1733566221.255332999] [controller_server]: Creating bond (controller_server) to lifecycle manager.
+[INFO] [1733566230.509105638] [controller_server]: Received a goal, begin computing control effort.
+[WARN] [1733566230.509155684] [controller_server]: No goal checker was specified in parameter 'current_goal_checker'. Server will use only plugin loaded general_goal_checker . This warning will appear once.
+[INFO] [1733566231.559363364] [controller_server]: Passing new path to controller.
+[INFO] [1733566232.559351834] [controller_server]: Passing new path to controller.
+[INFO] [1733566233.609339065] [controller_server]: Passing new path to controller.
+[INFO] [1733566234.659357150] [controller_server]: Passing new path to controller.
+[INFO] [1733566235.659389375] [controller_server]: Passing new path to controller.
+[INFO] [1733566236.709353275] [controller_server]: Passing new path to controller.
+[INFO] [1733566237.709355073] [controller_server]: Passing new path to controller.
+[INFO] [1733566238.759335352] [controller_server]: Passing new path to controller.
+[INFO] [1733566239.809340365] [controller_server]: Passing new path to controller.
+[ERROR] [1733566240.509398086] [controller_server]: Failed to make progress
+[WARN] [1733566240.509473675] [controller_server]: [follow_path] [ActionServer] Aborting handle.
+[INFO] [1733566240.528606204] [local_costmap.local_costmap]: Received request to clear entirely the local_costmap
+[INFO] [1733566240.532169895] [controller_server]: Received a goal, begin computing control effort.
+[WARN] [1733566240.615866567] [controller_server]: Control loop missed its desired rate of 20.0000Hz
+[INFO] [1733566240.832482258] [controller_server]: Passing new path to controller.
+[INFO] [1733566241.832487511] [controller_server]: Passing new path to controller.
+[INFO] [1733566242.882462165] [controller_server]: Passing new path to controller.
+[INFO] [1733566243.882473318] [controller_server]: Passing new path to controller.
+[INFO] [1733566244.932527192] [controller_server]: Passing new path to controller.
+[INFO] [1733566245.982512030] [controller_server]: Passing new path to controller.
+[INFO] [1733566246.982466962] [controller_server]: Passing new path to controller.
+[INFO] [1733566248.032481489] [controller_server]: Passing new path to controller.
+[INFO] [1733566249.032462451] [controller_server]: Passing new path to controller.
+[INFO] [1733566250.082449898] [controller_server]: Passing new path to controller.
+[ERROR] [1733566250.636609012] [controller_server]: Failed to make progress
+[WARN] [1733566250.636703303] [controller_server]: [follow_path] [ActionServer] Aborting handle.
+[INFO] [1733566250.648336072] [local_costmap.local_costmap]: Received request to clear entirely the local_costmap
+[INFO] [1733566250.988745946] [controller_server]: Received a goal, begin computing control effort.
+[INFO] [1733566252.039529977] [controller_server]: Passing new path to controller.
+[INFO] [1733566253.089531126] [controller_server]: Passing new path to controller.
+[INFO] [1733566254.089524991] [controller_server]: Passing new path to controller.
+[INFO] [1733566255.139542600] [controller_server]: Passing new path to controller.
+[INFO] [1733566256.139507591] [controller_server]: Passing new path to controller.
+[INFO] [1733566257.189533521] [controller_server]: Passing new path to controller.
+[INFO] [1733566258.189518820] [controller_server]: Passing new path to controller.
+[INFO] [1733566259.239507992] [controller_server]: Passing new path to controller.
+[INFO] [1733566260.289501973] [controller_server]: Passing new path to controller.
+[INFO] [1733566260.583224640] [rclcpp]: signal_handler(signum=2)
+[INFO] [1733566260.583429153] [controller_server]: Running Nav2 LifecycleNode rcl preshutdown (controller_server)
+[INFO] [1733566260.583480100] [controller_server]: Deactivating
+[WARN] [1733566260.583492597] [controller_server]: [follow_path] [ActionServer] Requested to deactivate server but goal is still executing. Should check if action server is running before deactivating.
+[WARN] [1733566260.589529039] [controller_server]: [follow_path] [ActionServer] Stopping the thread per request.
+[WARN] [1733566260.589572821] [controller_server]: [follow_path] [ActionServer] Aborting handle.
+[INFO] [1733566260.589838586] [local_costmap.local_costmap]: Deactivating
+[INFO] [1733566260.606266914] [controller_server]: Destroying bond (controller_server) to lifecycle manager.
+[INFO] [1733566260.616957607] [controller_server]: Cleaning up
+[INFO] [1733566260.617262497] [local_costmap.local_costmap]: Cleaning up
+[INFO] [1733566260.669410036] [controller_server]: Destroying bond (controller_server) to lifecycle manager.

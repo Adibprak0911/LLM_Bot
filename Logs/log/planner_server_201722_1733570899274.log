@@ -1,0 +1,75 @@
+[INFO] [1733570899.681359759] [planner_server]: 
+	planner_server lifecycle node launched. 
+	Waiting on external lifecycle transitions to activate
+	See https://design.ros2.org/articles/node_lifecycle.html for more information.
+[INFO] [1733570899.710545727] [planner_server]: Creating
+[INFO] [1733570899.830596129] [global_costmap.global_costmap]: 
+	global_costmap lifecycle node launched. 
+	Waiting on external lifecycle transitions to activate
+	See https://design.ros2.org/articles/node_lifecycle.html for more information.
+[INFO] [1733570899.833275367] [global_costmap.global_costmap]: Creating Costmap
+[INFO] [1733570900.617775223] [planner_server]: Configuring
+[INFO] [1733570900.617811908] [global_costmap.global_costmap]: Configuring
+[INFO] [1733570900.624050783] [global_costmap.global_costmap]: Using plugin "static_layer"
+[INFO] [1733570900.627896121] [global_costmap.global_costmap]: Subscribing to the map topic (/map) with transient local durability
+[INFO] [1733570900.629754923] [global_costmap.global_costmap]: Initialized plugin "static_layer"
+[INFO] [1733570900.629787750] [global_costmap.global_costmap]: Using plugin "obstacle_layer"
+[INFO] [1733570900.631237212] [global_costmap.global_costmap]: Subscribed to Topics: scan
+[INFO] [1733570900.641644131] [global_costmap.global_costmap]: Initialized plugin "obstacle_layer"
+[INFO] [1733570900.641695071] [global_costmap.global_costmap]: Using plugin "inflation_layer"
+[INFO] [1733570900.646399065] [global_costmap.global_costmap]: Initialized plugin "inflation_layer"
+[INFO] [1733570900.669500094] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 393 X 248 at 0.050000 m/pix
+[INFO] [1733570900.669728931] [planner_server]: Created global planner plugin GridBased of type nav2_navfn_planner/NavfnPlanner
+[INFO] [1733570900.669754965] [planner_server]: Configuring plugin GridBased of type NavfnPlanner
+[INFO] [1733570900.673545721] [planner_server]: Planner Server has GridBased  planners available.
+[INFO] [1733570901.552704900] [planner_server]: Activating
+[INFO] [1733570901.552747945] [global_costmap.global_costmap]: Activating
+[INFO] [1733570901.552760135] [global_costmap.global_costmap]: Checking transform
+[INFO] [1733570901.552865484] [global_costmap.global_costmap]: Timed out waiting for transform from base_link to map to become available, tf error: Lookup would require extrapolation into the past.  Requested time 1.226000 but the earliest data is at time 1.253000, when looking up transform from frame [base_link] to frame [map]
+[INFO] [1733570902.052930124] [global_costmap.global_costmap]: start
+[INFO] [1733570902.103698436] [planner_server]: Activating plugin GridBased of type NavfnPlanner
+[INFO] [1733570902.104595658] [planner_server]: Creating bond (planner_server) to lifecycle manager.
+[INFO] [1733570935.055005545] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 393 X 247 at 0.050000 m/pix
+[INFO] [1733570938.055048654] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 393 X 248 at 0.050000 m/pix
+[INFO] [1733570942.055005369] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 392 X 248 at 0.050000 m/pix
+[INFO] [1733570945.055024909] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 392 X 248 at 0.050000 m/pix
+[INFO] [1733570946.611122312] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[WARN] [1733570947.068528218] [planner_server]: Planner loop missed its desired rate of 20.0000 Hz. Current loop rate is 2.2122 Hz
+[INFO] [1733570948.055017441] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 392 X 249 at 0.050000 m/pix
+[INFO] [1733570951.055002581] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 392 X 249 at 0.050000 m/pix
+[INFO] [1733570957.055016849] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 392 X 249 at 0.050000 m/pix
+[INFO] [1733570966.055137248] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 393 X 248 at 0.050000 m/pix
+[INFO] [1733570972.055028083] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 393 X 248 at 0.050000 m/pix
+[INFO] [1733570975.055131250] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 393 X 248 at 0.050000 m/pix
+[INFO] [1733571012.427319975] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[WARN] [1733571013.069320362] [planner_server]: Planner loop missed its desired rate of 20.0000 Hz. Current loop rate is 1.5591 Hz
+[INFO] [1733571078.418782026] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[WARN] [1733571079.061476922] [planner_server]: Planner loop missed its desired rate of 20.0000 Hz. Current loop rate is 1.5601 Hz
+[INFO] [1733571110.055017837] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 393 X 248 at 0.050000 m/pix
+[INFO] [1733571164.620470951] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[WARN] [1733571165.062410827] [planner_server]: Planner loop missed its desired rate of 20.0000 Hz. Current loop rate is 2.2681 Hz
+[INFO] [1733571194.055023711] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 393 X 248 at 0.050000 m/pix
+[INFO] [1733571214.055026780] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 393 X 248 at 0.050000 m/pix
+[INFO] [1733571221.055097039] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 393 X 248 at 0.050000 m/pix
+[INFO] [1733571230.390212301] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[WARN] [1733571231.066856029] [planner_server]: Planner loop missed its desired rate of 20.0000 Hz. Current loop rate is 1.4852 Hz
+[INFO] [1733571263.055025293] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 393 X 248 at 0.050000 m/pix
+[INFO] [1733571284.055023269] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 393 X 248 at 0.050000 m/pix
+[INFO] [1733571296.399922566] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[WARN] [1733571297.062543114] [planner_server]: Planner loop missed its desired rate of 20.0000 Hz. Current loop rate is 1.5123 Hz
+[INFO] [1733571345.055036200] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 393 X 248 at 0.050000 m/pix
+[INFO] [1733571349.055151374] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 393 X 248 at 0.050000 m/pix
+[INFO] [1733571368.055613565] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 393 X 248 at 0.050000 m/pix
+[INFO] [1733571382.637682900] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[WARN] [1733571383.059628949] [planner_server]: Planner loop missed its desired rate of 20.0000 Hz. Current loop rate is 2.3747 Hz
+[INFO] [1733571405.889160335] [rclcpp]: signal_handler(signum=2)
+[INFO] [1733571405.890572918] [planner_server]: Running Nav2 LifecycleNode rcl preshutdown (planner_server)
+[INFO] [1733571405.922710056] [planner_server]: Deactivating
+[INFO] [1733571405.943105938] [global_costmap.global_costmap]: Deactivating
+[INFO] [1733571406.055026989] [planner_server]: Deactivating plugin GridBased of type NavfnPlanner
+[INFO] [1733571406.055067114] [planner_server]: Destroying bond (planner_server) to lifecycle manager.
+[INFO] [1733571406.055138819] [planner_server]: Cleaning up
+[INFO] [1733571406.084951292] [global_costmap.global_costmap]: Cleaning up
+[INFO] [1733571406.122047694] [planner_server]: Cleaning up plugin GridBased of type NavfnPlanner
+[INFO] [1733571406.122125722] [planner_server]: Destroying plugin GridBased of type NavfnPlanner
+[INFO] [1733571406.126668370] [planner_server]: Destroying bond (planner_server) to lifecycle manager.

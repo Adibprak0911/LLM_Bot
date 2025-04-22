@@ -1,0 +1,23 @@
+1733549556.3163011 [INFO] [launch]: All log files can be found below /home/abc/.ros/log/2024-12-07-11-02-36-315509-i4-OptiPlex-9020-107671
+1733549556.3164423 [INFO] [launch]: Default logging verbosity is set to INFO
+1733549556.5011978 [INFO] [static_transform_publisher-1]: process started with pid [107672]
+1733549556.5016444 [INFO] [static_transform_publisher-2]: process started with pid [107674]
+1733549556.5018623 [INFO] [odometry-3]: process started with pid [107676]
+1733549556.5024190 [odometry-3] Publishing Odometry Transform!!!
+1733549556.5026689 [static_transform_publisher-1] [WARN] [1733549556.494562390] []: Old-style arguments are deprecated; see --help for new-style arguments
+1733549556.5074983 [static_transform_publisher-2] [WARN] [1733549556.492775525] []: Old-style arguments are deprecated; see --help for new-style arguments
+1733549556.5175881 [static_transform_publisher-1] [INFO] [1733549556.517328354] [static_transform_publisher_JEZHrateMMXHkBiR]: Spinning until stopped - publishing transform
+1733549556.5177433 [static_transform_publisher-1] translation: ('0.133300', '0.000000', '0.260720')
+1733549556.5178115 [static_transform_publisher-1] rotation: ('-0.500000', '0.500000', '-0.500000', '0.500000')
+1733549556.5178721 [static_transform_publisher-1] from 'base_link' to 'firebird_vi/OakD-Lite/base_link/IMX214'
+1733549556.8556578 [static_transform_publisher-2] [INFO] [1733549556.855295935] [static_transform_publisher_FEdusVA9CmYCRIYi]: Spinning until stopped - publishing transform
+1733549556.8558269 [static_transform_publisher-2] translation: ('0.133300', '0.000000', '0.260720')
+1733549556.8559201 [static_transform_publisher-2] rotation: ('-0.500000', '0.500000', '-0.500000', '0.500000')
+1733549556.8561401 [static_transform_publisher-2] from 'base_link' to 'firebird_vi/OakD-Lite/base_link/StereoOV7251'
+1733553750.3617849 [WARNING] [launch]: user interrupted with ctrl-c (SIGINT)
+1733553750.3787715 [odometry-3] [INFO] [1733553750.361556361] [rclcpp]: signal_handler(signum=2)
+1733553750.3798850 [static_transform_publisher-1] [INFO] [1733553750.361594077] [rclcpp]: signal_handler(signum=2)
+1733553750.3808153 [static_transform_publisher-2] [INFO] [1733553750.361679706] [rclcpp]: signal_handler(signum=2)
+1733553750.4861860 [INFO] [static_transform_publisher-1]: process has finished cleanly [pid 107672]
+1733553750.4901538 [INFO] [odometry-3]: process has finished cleanly [pid 107676]
+1733553750.5020494 [INFO] [static_transform_publisher-2]: process has finished cleanly [pid 107674]

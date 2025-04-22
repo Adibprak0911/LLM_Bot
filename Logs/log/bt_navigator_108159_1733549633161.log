@@ -1,0 +1,691 @@
+[INFO] [1733549633.273775537] [bt_navigator]: 
+	bt_navigator lifecycle node launched. 
+	Waiting on external lifecycle transitions to activate
+	See https://design.ros2.org/articles/node_lifecycle.html for more information.
+[INFO] [1733549633.273941861] [bt_navigator]: Creating
+[INFO] [1733549634.657782591] [bt_navigator]: Configuring
+[INFO] [1733549637.551631311] [bt_navigator]: Activating
+[INFO] [1733549637.733065507] [bt_navigator]: Creating bond (bt_navigator) to lifecycle manager.
+[INFO] [1733549675.649223514] [bt_navigator]: Begin navigating from current location (0.00, -0.00) to (4.00, 0.00)
+[WARN] [1733549675.664866568] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733549676.649425066] [bt_navigator]: Received goal preemption request
+[INFO] [1733549676.649875025] [bt_navigator]: Begin navigating from current location (0.00, 0.00) to (4.00, 0.00)
+[INFO] [1733549677.649455220] [bt_navigator]: Received goal preemption request
+[INFO] [1733549677.649588711] [bt_navigator]: Begin navigating from current location (0.02, 0.00) to (4.00, 0.00)
+[INFO] [1733549678.659533231] [bt_navigator]: Received goal preemption request
+[INFO] [1733549678.659898799] [bt_navigator]: Begin navigating from current location (0.03, 0.00) to (4.00, 0.00)
+[INFO] [1733549679.659445696] [bt_navigator]: Received goal preemption request
+[INFO] [1733549679.659596945] [bt_navigator]: Begin navigating from current location (0.06, 0.00) to (4.00, 0.00)
+[INFO] [1733549680.650807656] [bt_navigator]: Received goal preemption request
+[INFO] [1733549680.650979105] [bt_navigator]: Begin navigating from current location (0.07, 0.00) to (4.00, 0.00)
+[WARN] [1733549681.330009767] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733549681.649435151] [bt_navigator]: Received goal preemption request
+[INFO] [1733549681.649536328] [bt_navigator]: Begin navigating from current location (0.09, 0.00) to (4.00, 0.00)
+[INFO] [1733549682.662752615] [bt_navigator]: Received goal preemption request
+[INFO] [1733549682.663003621] [bt_navigator]: Begin navigating from current location (0.11, 0.00) to (4.00, 0.00)
+[INFO] [1733549683.649438375] [bt_navigator]: Received goal preemption request
+[INFO] [1733549683.649678005] [bt_navigator]: Begin navigating from current location (0.14, 0.00) to (4.00, 0.00)
+[INFO] [1733549684.649477476] [bt_navigator]: Received goal preemption request
+[INFO] [1733549684.649621217] [bt_navigator]: Begin navigating from current location (0.15, 0.00) to (4.00, 0.00)
+[INFO] [1733549685.661136302] [bt_navigator]: Received goal preemption request
+[INFO] [1733549685.661551326] [bt_navigator]: Begin navigating from current location (0.17, 0.00) to (4.00, 0.00)
+[INFO] [1733549686.660737740] [bt_navigator]: Received goal preemption request
+[INFO] [1733549686.661013991] [bt_navigator]: Begin navigating from current location (0.20, 0.00) to (4.00, 0.00)
+[INFO] [1733549687.649353876] [bt_navigator]: Received goal preemption request
+[INFO] [1733549687.649485546] [bt_navigator]: Begin navigating from current location (0.21, 0.00) to (4.00, 0.00)
+[INFO] [1733549688.649397359] [bt_navigator]: Received goal preemption request
+[INFO] [1733549688.649514457] [bt_navigator]: Begin navigating from current location (0.24, 0.00) to (4.00, 0.00)
+[INFO] [1733549689.659402195] [bt_navigator]: Received goal preemption request
+[INFO] [1733549689.659582610] [bt_navigator]: Begin navigating from current location (0.26, 0.00) to (4.00, 0.00)
+[INFO] [1733549690.649378216] [bt_navigator]: Received goal preemption request
+[INFO] [1733549690.649485826] [bt_navigator]: Begin navigating from current location (0.28, 0.00) to (4.00, 0.00)
+[INFO] [1733549691.649911133] [bt_navigator]: Received goal preemption request
+[INFO] [1733549691.650058731] [bt_navigator]: Begin navigating from current location (0.30, 0.00) to (4.00, 0.00)
+[INFO] [1733549692.659470009] [bt_navigator]: Received goal preemption request
+[INFO] [1733549692.659881140] [bt_navigator]: Begin navigating from current location (0.32, 0.00) to (4.00, 0.00)
+[INFO] [1733549693.649608182] [bt_navigator]: Received goal preemption request
+[INFO] [1733549693.651002673] [bt_navigator]: Begin navigating from current location (0.34, 0.00) to (4.00, 0.00)
+[INFO] [1733549694.659635772] [bt_navigator]: Received goal preemption request
+[INFO] [1733549694.659975210] [bt_navigator]: Begin navigating from current location (0.36, 0.00) to (4.00, 0.00)
+[INFO] [1733549695.653443362] [bt_navigator]: Received goal preemption request
+[INFO] [1733549695.653653624] [bt_navigator]: Begin navigating from current location (0.38, 0.00) to (4.00, 0.00)
+[INFO] [1733549696.649556703] [bt_navigator]: Received goal preemption request
+[INFO] [1733549696.649726848] [bt_navigator]: Begin navigating from current location (0.40, 0.00) to (4.00, 0.00)
+[INFO] [1733549697.650186419] [bt_navigator]: Received goal preemption request
+[INFO] [1733549697.650346927] [bt_navigator]: Begin navigating from current location (0.42, 0.00) to (4.00, 0.00)
+[INFO] [1733549698.649517704] [bt_navigator]: Received goal preemption request
+[INFO] [1733549698.649756891] [bt_navigator]: Begin navigating from current location (0.44, 0.00) to (4.00, 0.00)
+[INFO] [1733549699.649433452] [bt_navigator]: Received goal preemption request
+[INFO] [1733549699.649561077] [bt_navigator]: Begin navigating from current location (0.46, 0.00) to (4.00, 0.00)
+[INFO] [1733549700.660203193] [bt_navigator]: Received goal preemption request
+[INFO] [1733549700.660923737] [bt_navigator]: Begin navigating from current location (0.48, 0.00) to (4.00, 0.00)
+[INFO] [1733549701.659568703] [bt_navigator]: Received goal preemption request
+[INFO] [1733549701.659999936] [bt_navigator]: Begin navigating from current location (0.50, 0.00) to (4.00, 0.00)
+[INFO] [1733549702.653745762] [bt_navigator]: Received goal preemption request
+[INFO] [1733549702.656310655] [bt_navigator]: Begin navigating from current location (0.52, 0.00) to (4.00, 0.00)
+[INFO] [1733549703.659441787] [bt_navigator]: Received goal preemption request
+[INFO] [1733549703.659584950] [bt_navigator]: Begin navigating from current location (0.55, 0.00) to (4.00, 0.00)
+[INFO] [1733549704.649444100] [bt_navigator]: Received goal preemption request
+[INFO] [1733549704.649715776] [bt_navigator]: Begin navigating from current location (0.56, 0.00) to (4.00, 0.00)
+[INFO] [1733549705.649678672] [bt_navigator]: Received goal preemption request
+[INFO] [1733549705.649795402] [bt_navigator]: Begin navigating from current location (0.58, 0.00) to (4.00, 0.00)
+[INFO] [1733549706.652873454] [bt_navigator]: Received goal preemption request
+[INFO] [1733549706.653371472] [bt_navigator]: Begin navigating from current location (0.61, 0.00) to (4.00, 0.00)
+[INFO] [1733549707.651132028] [bt_navigator]: Received goal preemption request
+[INFO] [1733549707.651293042] [bt_navigator]: Begin navigating from current location (0.62, 0.00) to (4.00, 0.00)
+[INFO] [1733549708.659439787] [bt_navigator]: Received goal preemption request
+[INFO] [1733549708.659623953] [bt_navigator]: Begin navigating from current location (0.65, 0.00) to (4.00, 0.00)
+[INFO] [1733549709.659501760] [bt_navigator]: Received goal preemption request
+[INFO] [1733549709.659838577] [bt_navigator]: Begin navigating from current location (0.66, 0.00) to (4.00, 0.00)
+[INFO] [1733549710.659467601] [bt_navigator]: Received goal preemption request
+[INFO] [1733549710.659665158] [bt_navigator]: Begin navigating from current location (0.68, 0.00) to (4.00, 0.00)
+[INFO] [1733549711.649418494] [bt_navigator]: Received goal preemption request
+[INFO] [1733549711.649559269] [bt_navigator]: Begin navigating from current location (0.71, 0.00) to (4.00, 0.00)
+[INFO] [1733549712.649367993] [bt_navigator]: Received goal preemption request
+[INFO] [1733549712.649504127] [bt_navigator]: Begin navigating from current location (0.73, 0.00) to (4.00, 0.00)
+[INFO] [1733549713.619706723] [bt_navigator]: Received goal preemption request
+[INFO] [1733549713.620421747] [bt_navigator]: Begin navigating from current location (0.75, 0.00) to (2.36, 0.72)
+[INFO] [1733549713.649560821] [bt_navigator]: Received goal preemption request
+[INFO] [1733549713.649726723] [bt_navigator]: Begin navigating from current location (0.75, 0.00) to (4.00, 0.00)
+[INFO] [1733549714.659429337] [bt_navigator]: Received goal preemption request
+[INFO] [1733549714.659596790] [bt_navigator]: Begin navigating from current location (0.77, 0.00) to (4.00, 0.00)
+[INFO] [1733549715.659441966] [bt_navigator]: Received goal preemption request
+[INFO] [1733549715.659646543] [bt_navigator]: Begin navigating from current location (0.79, 0.00) to (4.00, 0.00)
+[INFO] [1733549716.649383943] [bt_navigator]: Received goal preemption request
+[INFO] [1733549716.649539539] [bt_navigator]: Begin navigating from current location (0.81, 0.00) to (4.00, 0.00)
+[INFO] [1733549717.649437703] [bt_navigator]: Received goal preemption request
+[INFO] [1733549717.649573411] [bt_navigator]: Begin navigating from current location (0.83, 0.00) to (4.00, 0.00)
+[INFO] [1733549718.649370589] [bt_navigator]: Received goal preemption request
+[INFO] [1733549718.649507015] [bt_navigator]: Begin navigating from current location (0.84, 0.00) to (4.00, 0.00)
+[INFO] [1733549719.649433465] [bt_navigator]: Received goal preemption request
+[INFO] [1733549719.649791487] [bt_navigator]: Begin navigating from current location (0.84, 0.00) to (4.00, 0.00)
+[INFO] [1733549720.649397754] [bt_navigator]: Received goal preemption request
+[INFO] [1733549720.649573144] [bt_navigator]: Begin navigating from current location (0.84, 0.01) to (4.00, 0.00)
+[INFO] [1733549721.649553370] [bt_navigator]: Received goal preemption request
+[INFO] [1733549721.649664568] [bt_navigator]: Begin navigating from current location (0.84, 0.01) to (4.00, 0.00)
+[INFO] [1733549722.653976685] [bt_navigator]: Received goal preemption request
+[INFO] [1733549722.654174761] [bt_navigator]: Begin navigating from current location (0.83, 0.02) to (4.00, 0.00)
+[INFO] [1733549723.659397912] [bt_navigator]: Received goal preemption request
+[INFO] [1733549723.659631758] [bt_navigator]: Begin navigating from current location (0.83, 0.02) to (4.00, 0.00)
+[INFO] [1733549724.649431653] [bt_navigator]: Received goal preemption request
+[INFO] [1733549724.649652849] [bt_navigator]: Begin navigating from current location (0.83, 0.03) to (4.00, 0.00)
+[INFO] [1733549725.661133747] [bt_navigator]: Received goal preemption request
+[INFO] [1733549725.661320984] [bt_navigator]: Begin navigating from current location (0.83, 0.04) to (4.00, 0.00)
+[INFO] [1733549726.650914647] [bt_navigator]: Received goal preemption request
+[INFO] [1733549726.651087552] [bt_navigator]: Begin navigating from current location (0.82, 0.04) to (4.00, 0.00)
+[INFO] [1733549727.659447665] [bt_navigator]: Received goal preemption request
+[INFO] [1733549727.659676917] [bt_navigator]: Begin navigating from current location (0.82, 0.05) to (4.00, 0.00)
+[INFO] [1733549728.649499917] [bt_navigator]: Received goal preemption request
+[INFO] [1733549728.649628285] [bt_navigator]: Begin navigating from current location (0.82, 0.05) to (4.00, 0.00)
+[INFO] [1733549729.659460426] [bt_navigator]: Received goal preemption request
+[INFO] [1733549729.659823295] [bt_navigator]: Begin navigating from current location (0.82, 0.05) to (4.00, 0.00)
+[INFO] [1733549730.649432215] [bt_navigator]: Received goal preemption request
+[INFO] [1733549730.649560534] [bt_navigator]: Begin navigating from current location (0.81, 0.06) to (4.00, 0.00)
+[INFO] [1733549731.649443602] [bt_navigator]: Received goal preemption request
+[INFO] [1733549731.649564058] [bt_navigator]: Begin navigating from current location (0.81, 0.06) to (4.00, 0.00)
+[INFO] [1733549732.649460360] [bt_navigator]: Received goal preemption request
+[INFO] [1733549732.649653110] [bt_navigator]: Begin navigating from current location (0.82, 0.06) to (4.00, 0.00)
+[INFO] [1733549733.649823892] [bt_navigator]: Received goal preemption request
+[INFO] [1733549733.649943717] [bt_navigator]: Begin navigating from current location (0.82, 0.07) to (4.00, 0.00)
+[INFO] [1733549734.649513467] [bt_navigator]: Received goal preemption request
+[INFO] [1733549734.649672109] [bt_navigator]: Begin navigating from current location (0.84, 0.08) to (4.00, 0.00)
+[INFO] [1733549735.659451835] [bt_navigator]: Received goal preemption request
+[INFO] [1733549735.659624799] [bt_navigator]: Begin navigating from current location (0.86, 0.09) to (4.00, 0.00)
+[INFO] [1733549736.649429331] [bt_navigator]: Received goal preemption request
+[INFO] [1733549736.649568051] [bt_navigator]: Begin navigating from current location (0.88, 0.10) to (4.00, 0.00)
+[INFO] [1733549737.649445403] [bt_navigator]: Received goal preemption request
+[INFO] [1733549737.649623451] [bt_navigator]: Begin navigating from current location (0.90, 0.10) to (4.00, 0.00)
+[INFO] [1733549738.649424364] [bt_navigator]: Received goal preemption request
+[INFO] [1733549738.649591872] [bt_navigator]: Begin navigating from current location (0.92, 0.11) to (4.00, 0.00)
+[INFO] [1733549739.649422530] [bt_navigator]: Received goal preemption request
+[INFO] [1733549739.649554764] [bt_navigator]: Begin navigating from current location (0.95, 0.12) to (4.00, 0.00)
+[INFO] [1733549740.649925972] [bt_navigator]: Received goal preemption request
+[INFO] [1733549740.650159385] [bt_navigator]: Begin navigating from current location (0.97, 0.12) to (4.00, 0.00)
+[INFO] [1733549741.650793464] [bt_navigator]: Received goal preemption request
+[INFO] [1733549741.650926833] [bt_navigator]: Begin navigating from current location (0.99, 0.12) to (4.00, 0.00)
+[INFO] [1733549742.649390867] [bt_navigator]: Received goal preemption request
+[INFO] [1733549742.649524618] [bt_navigator]: Begin navigating from current location (1.02, 0.15) to (4.00, 0.00)
+[INFO] [1733549743.659442420] [bt_navigator]: Received goal preemption request
+[INFO] [1733549743.659631201] [bt_navigator]: Begin navigating from current location (1.04, 0.15) to (4.00, 0.00)
+[INFO] [1733549744.649370721] [bt_navigator]: Received goal preemption request
+[INFO] [1733549744.649495540] [bt_navigator]: Begin navigating from current location (1.06, 0.15) to (4.00, 0.00)
+[INFO] [1733549745.659446945] [bt_navigator]: Received goal preemption request
+[INFO] [1733549745.659622713] [bt_navigator]: Begin navigating from current location (1.08, 0.15) to (4.00, 0.00)
+[INFO] [1733549746.663828604] [bt_navigator]: Received goal preemption request
+[INFO] [1733549746.664000035] [bt_navigator]: Begin navigating from current location (1.10, 0.16) to (4.00, 0.00)
+[INFO] [1733549747.649427884] [bt_navigator]: Received goal preemption request
+[INFO] [1733549747.649557583] [bt_navigator]: Begin navigating from current location (1.12, 0.17) to (4.00, 0.00)
+[INFO] [1733549748.649384878] [bt_navigator]: Received goal preemption request
+[INFO] [1733549748.649525355] [bt_navigator]: Begin navigating from current location (1.14, 0.17) to (4.00, 0.00)
+[INFO] [1733549749.649393343] [bt_navigator]: Received goal preemption request
+[INFO] [1733549749.649536856] [bt_navigator]: Begin navigating from current location (1.15, 0.18) to (4.00, 0.00)
+[INFO] [1733549750.649369203] [bt_navigator]: Received goal preemption request
+[INFO] [1733549750.649514617] [bt_navigator]: Begin navigating from current location (1.18, 0.19) to (4.00, 0.00)
+[INFO] [1733549751.659452920] [bt_navigator]: Received goal preemption request
+[INFO] [1733549751.659698823] [bt_navigator]: Begin navigating from current location (1.19, 0.20) to (4.00, 0.00)
+[INFO] [1733549752.649414671] [bt_navigator]: Received goal preemption request
+[INFO] [1733549752.649535433] [bt_navigator]: Begin navigating from current location (1.21, 0.21) to (4.00, 0.00)
+[INFO] [1733549753.659403749] [bt_navigator]: Received goal preemption request
+[INFO] [1733549753.659571705] [bt_navigator]: Begin navigating from current location (1.23, 0.22) to (4.00, 0.00)
+[INFO] [1733549754.651084888] [bt_navigator]: Received goal preemption request
+[INFO] [1733549754.651413348] [bt_navigator]: Begin navigating from current location (1.23, 0.22) to (4.00, 0.00)
+[INFO] [1733549755.649483726] [bt_navigator]: Received goal preemption request
+[INFO] [1733549755.649800559] [bt_navigator]: Begin navigating from current location (1.23, 0.22) to (4.00, 0.00)
+[INFO] [1733549756.649417384] [bt_navigator]: Received goal preemption request
+[INFO] [1733549756.649557540] [bt_navigator]: Begin navigating from current location (1.22, 0.22) to (4.00, 0.00)
+[INFO] [1733549757.649361888] [bt_navigator]: Received goal preemption request
+[INFO] [1733549757.649493797] [bt_navigator]: Begin navigating from current location (1.22, 0.21) to (4.00, 0.00)
+[INFO] [1733549757.999530672] [bt_navigator]: Received goal preemption request
+[INFO] [1733549758.000084348] [bt_navigator]: Begin navigating from current location (1.21, 0.21) to (0.66, -0.73)
+[INFO] [1733549758.649409179] [bt_navigator]: Received goal preemption request
+[INFO] [1733549758.649574200] [bt_navigator]: Begin navigating from current location (1.21, 0.21) to (4.00, 0.00)
+[INFO] [1733549759.659400702] [bt_navigator]: Received goal preemption request
+[INFO] [1733549759.659566611] [bt_navigator]: Begin navigating from current location (1.21, 0.21) to (4.00, 0.00)
+[INFO] [1733549760.649392524] [bt_navigator]: Received goal preemption request
+[INFO] [1733549760.649527592] [bt_navigator]: Begin navigating from current location (1.20, 0.21) to (4.00, 0.00)
+[INFO] [1733549761.659396985] [bt_navigator]: Received goal preemption request
+[INFO] [1733549761.659575024] [bt_navigator]: Begin navigating from current location (1.20, 0.21) to (4.00, 0.00)
+[INFO] [1733549762.649410302] [bt_navigator]: Received goal preemption request
+[INFO] [1733549762.649748537] [bt_navigator]: Begin navigating from current location (1.20, 0.21) to (4.00, 0.00)
+[INFO] [1733549763.659401026] [bt_navigator]: Received goal preemption request
+[INFO] [1733549763.659681475] [bt_navigator]: Begin navigating from current location (1.20, 0.21) to (4.00, 0.00)
+[INFO] [1733549764.649433483] [bt_navigator]: Received goal preemption request
+[INFO] [1733549764.649582877] [bt_navigator]: Begin navigating from current location (1.21, 0.22) to (4.00, 0.00)
+[INFO] [1733549765.649423546] [bt_navigator]: Received goal preemption request
+[INFO] [1733549765.649566332] [bt_navigator]: Begin navigating from current location (1.23, 0.22) to (4.00, 0.00)
+[INFO] [1733549766.649471359] [bt_navigator]: Received goal preemption request
+[INFO] [1733549766.649607216] [bt_navigator]: Begin navigating from current location (1.25, 0.23) to (4.00, 0.00)
+[INFO] [1733549767.649625471] [bt_navigator]: Received goal preemption request
+[INFO] [1733549767.649821377] [bt_navigator]: Begin navigating from current location (1.27, 0.24) to (4.00, 0.00)
+[INFO] [1733549768.649440452] [bt_navigator]: Received goal preemption request
+[INFO] [1733549768.649570022] [bt_navigator]: Begin navigating from current location (1.29, 0.25) to (4.00, 0.00)
+[INFO] [1733549769.659540917] [bt_navigator]: Received goal preemption request
+[INFO] [1733549769.660070606] [bt_navigator]: Begin navigating from current location (1.31, 0.26) to (4.00, 0.00)
+[INFO] [1733549770.659401560] [bt_navigator]: Received goal preemption request
+[INFO] [1733549770.659686689] [bt_navigator]: Begin navigating from current location (1.32, 0.27) to (4.00, 0.00)
+[INFO] [1733549771.649434688] [bt_navigator]: Received goal preemption request
+[INFO] [1733549771.649612313] [bt_navigator]: Begin navigating from current location (1.34, 0.28) to (4.00, 0.00)
+[INFO] [1733549772.649372685] [bt_navigator]: Received goal preemption request
+[INFO] [1733549772.649550276] [bt_navigator]: Begin navigating from current location (1.36, 0.29) to (4.00, 0.00)
+[INFO] [1733549773.659511231] [bt_navigator]: Received goal preemption request
+[INFO] [1733549773.659830859] [bt_navigator]: Begin navigating from current location (1.37, 0.30) to (4.00, 0.00)
+[INFO] [1733549774.649389632] [bt_navigator]: Received goal preemption request
+[INFO] [1733549774.649589841] [bt_navigator]: Begin navigating from current location (1.39, 0.30) to (4.00, 0.00)
+[INFO] [1733549775.649430165] [bt_navigator]: Received goal preemption request
+[INFO] [1733549775.649608573] [bt_navigator]: Begin navigating from current location (1.41, 0.32) to (4.00, 0.00)
+[INFO] [1733549776.649389557] [bt_navigator]: Received goal preemption request
+[INFO] [1733549776.649531095] [bt_navigator]: Begin navigating from current location (1.43, 0.32) to (4.00, 0.00)
+[INFO] [1733549777.649402021] [bt_navigator]: Received goal preemption request
+[INFO] [1733549777.649567450] [bt_navigator]: Begin navigating from current location (1.45, 0.33) to (4.00, 0.00)
+[INFO] [1733549778.659460362] [bt_navigator]: Received goal preemption request
+[INFO] [1733549778.659634158] [bt_navigator]: Begin navigating from current location (1.45, 0.36) to (4.00, 0.00)
+[INFO] [1733549779.659504888] [bt_navigator]: Received goal preemption request
+[INFO] [1733549779.659789631] [bt_navigator]: Begin navigating from current location (1.47, 0.36) to (4.00, 0.00)
+[INFO] [1733549780.649406635] [bt_navigator]: Received goal preemption request
+[INFO] [1733549780.649577292] [bt_navigator]: Begin navigating from current location (1.50, 0.37) to (4.00, 0.00)
+[INFO] [1733549781.652026140] [bt_navigator]: Received goal preemption request
+[INFO] [1733549781.652203886] [bt_navigator]: Begin navigating from current location (1.51, 0.37) to (4.00, 0.00)
+[INFO] [1733549782.653619247] [bt_navigator]: Received goal preemption request
+[INFO] [1733549782.653784682] [bt_navigator]: Begin navigating from current location (1.53, 0.38) to (4.00, 0.00)
+[INFO] [1733549783.659462959] [bt_navigator]: Received goal preemption request
+[INFO] [1733549783.659644347] [bt_navigator]: Begin navigating from current location (1.55, 0.38) to (4.00, 0.00)
+[INFO] [1733549784.649424159] [bt_navigator]: Received goal preemption request
+[INFO] [1733549784.649569941] [bt_navigator]: Begin navigating from current location (1.56, 0.36) to (4.00, 0.00)
+[INFO] [1733549785.659438831] [bt_navigator]: Received goal preemption request
+[INFO] [1733549785.659996592] [bt_navigator]: Begin navigating from current location (1.57, 0.36) to (4.00, 0.00)
+[INFO] [1733549786.659510648] [bt_navigator]: Received goal preemption request
+[INFO] [1733549786.659944370] [bt_navigator]: Begin navigating from current location (1.56, 0.36) to (4.00, 0.00)
+[INFO] [1733549787.659474035] [bt_navigator]: Received goal preemption request
+[INFO] [1733549787.659877786] [bt_navigator]: Begin navigating from current location (1.56, 0.36) to (4.00, 0.00)
+[INFO] [1733549788.649515007] [bt_navigator]: Received goal preemption request
+[INFO] [1733549788.649975351] [bt_navigator]: Begin navigating from current location (1.56, 0.37) to (4.00, 0.00)
+[INFO] [1733549789.649932246] [bt_navigator]: Received goal preemption request
+[INFO] [1733549789.650100571] [bt_navigator]: Begin navigating from current location (1.56, 0.37) to (4.00, 0.00)
+[INFO] [1733549790.649806260] [bt_navigator]: Received goal preemption request
+[INFO] [1733549790.649976590] [bt_navigator]: Begin navigating from current location (1.55, 0.38) to (4.00, 0.00)
+[INFO] [1733549791.652279593] [bt_navigator]: Received goal preemption request
+[INFO] [1733549791.655158934] [bt_navigator]: Begin navigating from current location (1.55, 0.38) to (4.00, 0.00)
+[INFO] [1733549792.650527371] [bt_navigator]: Received goal preemption request
+[INFO] [1733549792.650823930] [bt_navigator]: Begin navigating from current location (1.55, 0.39) to (4.00, 0.00)
+[INFO] [1733549793.649438070] [bt_navigator]: Received goal preemption request
+[INFO] [1733549793.649585332] [bt_navigator]: Begin navigating from current location (1.54, 0.40) to (4.00, 0.00)
+[WARN] [1733549794.512955238] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733549794.659541866] [bt_navigator]: Received goal preemption request
+[INFO] [1733549794.660072582] [bt_navigator]: Begin navigating from current location (1.54, 0.40) to (4.00, 0.00)
+[INFO] [1733549795.650668532] [bt_navigator]: Received goal preemption request
+[INFO] [1733549795.650809914] [bt_navigator]: Begin navigating from current location (1.53, 0.40) to (4.00, 0.00)
+[INFO] [1733549796.649432797] [bt_navigator]: Received goal preemption request
+[INFO] [1733549796.649571363] [bt_navigator]: Begin navigating from current location (1.53, 0.40) to (4.00, 0.00)
+[INFO] [1733549797.659663250] [bt_navigator]: Received goal preemption request
+[INFO] [1733549797.659861902] [bt_navigator]: Begin navigating from current location (1.52, 0.40) to (4.00, 0.00)
+[INFO] [1733549798.650111387] [bt_navigator]: Received goal preemption request
+[INFO] [1733549798.650416926] [bt_navigator]: Begin navigating from current location (1.53, 0.41) to (4.00, 0.00)
+[INFO] [1733549799.659604926] [bt_navigator]: Received goal preemption request
+[INFO] [1733549799.660007335] [bt_navigator]: Begin navigating from current location (1.53, 0.42) to (4.00, 0.00)
+[INFO] [1733549800.653718787] [bt_navigator]: Received goal preemption request
+[INFO] [1733549800.653999763] [bt_navigator]: Begin navigating from current location (1.54, 0.43) to (4.00, 0.00)
+[INFO] [1733549801.659430748] [bt_navigator]: Received goal preemption request
+[INFO] [1733549801.659617610] [bt_navigator]: Begin navigating from current location (1.56, 0.44) to (4.00, 0.00)
+[INFO] [1733549802.649494152] [bt_navigator]: Received goal preemption request
+[INFO] [1733549802.649656794] [bt_navigator]: Begin navigating from current location (1.58, 0.46) to (4.00, 0.00)
+[INFO] [1733549803.649455882] [bt_navigator]: Received goal preemption request
+[INFO] [1733549803.649747640] [bt_navigator]: Begin navigating from current location (1.59, 0.47) to (4.00, 0.00)
+[INFO] [1733549804.649489781] [bt_navigator]: Received goal preemption request
+[INFO] [1733549804.649638740] [bt_navigator]: Begin navigating from current location (1.61, 0.48) to (4.00, 0.00)
+[INFO] [1733549805.649609834] [bt_navigator]: Received goal preemption request
+[INFO] [1733549805.649808913] [bt_navigator]: Begin navigating from current location (1.64, 0.49) to (4.00, 0.00)
+[INFO] [1733549806.649439121] [bt_navigator]: Received goal preemption request
+[INFO] [1733549806.649589587] [bt_navigator]: Begin navigating from current location (1.65, 0.49) to (4.00, 0.00)
+[INFO] [1733549807.649829893] [bt_navigator]: Received goal preemption request
+[INFO] [1733549807.650126017] [bt_navigator]: Begin navigating from current location (1.68, 0.50) to (4.00, 0.00)
+[INFO] [1733549808.661132635] [bt_navigator]: Received goal preemption request
+[INFO] [1733549808.661389675] [bt_navigator]: Begin navigating from current location (1.70, 0.51) to (4.00, 0.00)
+[INFO] [1733549809.659565143] [bt_navigator]: Received goal preemption request
+[INFO] [1733549809.659772849] [bt_navigator]: Begin navigating from current location (1.71, 0.51) to (4.00, 0.00)
+[INFO] [1733549810.649554114] [bt_navigator]: Received goal preemption request
+[INFO] [1733549810.649793948] [bt_navigator]: Begin navigating from current location (1.74, 0.52) to (4.00, 0.00)
+[INFO] [1733549811.659485523] [bt_navigator]: Received goal preemption request
+[INFO] [1733549811.659728970] [bt_navigator]: Begin navigating from current location (1.76, 0.52) to (4.00, 0.00)
+[INFO] [1733549812.659436567] [bt_navigator]: Received goal preemption request
+[INFO] [1733549812.659676789] [bt_navigator]: Begin navigating from current location (1.78, 0.52) to (4.00, 0.00)
+[INFO] [1733549813.649673884] [bt_navigator]: Received goal preemption request
+[INFO] [1733549813.649893271] [bt_navigator]: Begin navigating from current location (1.80, 0.53) to (4.00, 0.00)
+[INFO] [1733549814.652705749] [bt_navigator]: Received goal preemption request
+[INFO] [1733549814.652902782] [bt_navigator]: Begin navigating from current location (1.83, 0.56) to (4.00, 0.00)
+[INFO] [1733549815.659454903] [bt_navigator]: Received goal preemption request
+[INFO] [1733549815.659926264] [bt_navigator]: Begin navigating from current location (1.85, 0.56) to (4.00, 0.00)
+[INFO] [1733549816.650511399] [bt_navigator]: Received goal preemption request
+[INFO] [1733549816.656662035] [bt_navigator]: Begin navigating from current location (1.87, 0.56) to (4.00, 0.00)
+[INFO] [1733549817.650129573] [bt_navigator]: Received goal preemption request
+[INFO] [1733549817.650293960] [bt_navigator]: Begin navigating from current location (1.89, 0.56) to (4.00, 0.00)
+[INFO] [1733549818.663146547] [bt_navigator]: Received goal preemption request
+[INFO] [1733549818.663464269] [bt_navigator]: Begin navigating from current location (1.91, 0.56) to (4.00, 0.00)
+[INFO] [1733549819.649490287] [bt_navigator]: Received goal preemption request
+[INFO] [1733549819.649684687] [bt_navigator]: Begin navigating from current location (1.92, 0.56) to (4.00, 0.00)
+[INFO] [1733549820.650684349] [bt_navigator]: Received goal preemption request
+[INFO] [1733549820.650979364] [bt_navigator]: Begin navigating from current location (1.92, 0.56) to (4.00, 0.00)
+[INFO] [1733549821.659456866] [bt_navigator]: Received goal preemption request
+[INFO] [1733549821.659680349] [bt_navigator]: Begin navigating from current location (1.92, 0.56) to (4.00, 0.00)
+[INFO] [1733549822.649576645] [bt_navigator]: Received goal preemption request
+[INFO] [1733549822.649759881] [bt_navigator]: Begin navigating from current location (1.92, 0.56) to (4.00, 0.00)
+[INFO] [1733549823.659441610] [bt_navigator]: Received goal preemption request
+[INFO] [1733549823.659694153] [bt_navigator]: Begin navigating from current location (1.91, 0.56) to (4.00, 0.00)
+[INFO] [1733549824.649543047] [bt_navigator]: Received goal preemption request
+[INFO] [1733549824.649717214] [bt_navigator]: Begin navigating from current location (1.91, 0.56) to (4.00, 0.00)
+[INFO] [1733549825.649616901] [bt_navigator]: Received goal preemption request
+[INFO] [1733549825.649818349] [bt_navigator]: Begin navigating from current location (1.90, 0.56) to (4.00, 0.00)
+[INFO] [1733549826.659419431] [bt_navigator]: Received goal preemption request
+[INFO] [1733549826.659678516] [bt_navigator]: Begin navigating from current location (1.90, 0.56) to (4.00, 0.00)
+[INFO] [1733549827.649836521] [bt_navigator]: Received goal preemption request
+[INFO] [1733549827.650103292] [bt_navigator]: Begin navigating from current location (1.89, 0.56) to (4.00, 0.00)
+[INFO] [1733549828.649505668] [bt_navigator]: Received goal preemption request
+[INFO] [1733549828.649690333] [bt_navigator]: Begin navigating from current location (1.89, 0.56) to (4.00, 0.00)
+[INFO] [1733549829.649684356] [bt_navigator]: Received goal preemption request
+[INFO] [1733549829.650076122] [bt_navigator]: Begin navigating from current location (1.90, 0.56) to (4.00, 0.00)
+[INFO] [1733549830.650617985] [bt_navigator]: Received goal preemption request
+[INFO] [1733549830.651002042] [bt_navigator]: Begin navigating from current location (1.89, 0.54) to (4.00, 0.00)
+[INFO] [1733549831.649514745] [bt_navigator]: Received goal preemption request
+[INFO] [1733549831.649751384] [bt_navigator]: Begin navigating from current location (1.91, 0.54) to (4.00, 0.00)
+[INFO] [1733549832.649740963] [bt_navigator]: Received goal preemption request
+[INFO] [1733549832.649940649] [bt_navigator]: Begin navigating from current location (1.93, 0.54) to (4.00, 0.00)
+[INFO] [1733549833.655998829] [bt_navigator]: Received goal preemption request
+[INFO] [1733549833.656497540] [bt_navigator]: Begin navigating from current location (1.95, 0.54) to (4.00, 0.00)
+[INFO] [1733549834.649470427] [bt_navigator]: Received goal preemption request
+[INFO] [1733549834.649632871] [bt_navigator]: Begin navigating from current location (1.97, 0.54) to (4.00, 0.00)
+[INFO] [1733549835.650030838] [bt_navigator]: Received goal preemption request
+[INFO] [1733549835.650322324] [bt_navigator]: Begin navigating from current location (2.00, 0.54) to (4.00, 0.00)
+[INFO] [1733549836.652592830] [bt_navigator]: Received goal preemption request
+[INFO] [1733549836.652888321] [bt_navigator]: Begin navigating from current location (2.01, 0.54) to (4.00, 0.00)
+[INFO] [1733549837.659822028] [bt_navigator]: Received goal preemption request
+[INFO] [1733549837.660233325] [bt_navigator]: Begin navigating from current location (2.03, 0.54) to (4.00, 0.00)
+[INFO] [1733549838.649387783] [bt_navigator]: Received goal preemption request
+[INFO] [1733549838.649557643] [bt_navigator]: Begin navigating from current location (2.05, 0.54) to (4.00, 0.00)
+[INFO] [1733549839.650667369] [bt_navigator]: Received goal preemption request
+[INFO] [1733549839.650960780] [bt_navigator]: Begin navigating from current location (2.04, 0.60) to (4.00, 0.00)
+[INFO] [1733549840.650141862] [bt_navigator]: Received goal preemption request
+[INFO] [1733549840.650544031] [bt_navigator]: Begin navigating from current location (2.10, 0.54) to (4.00, 0.00)
+[INFO] [1733549841.650473996] [bt_navigator]: Received goal preemption request
+[INFO] [1733549841.650641951] [bt_navigator]: Begin navigating from current location (2.11, 0.54) to (4.00, 0.00)
+[INFO] [1733549842.659462759] [bt_navigator]: Received goal preemption request
+[INFO] [1733549842.659971712] [bt_navigator]: Begin navigating from current location (2.13, 0.54) to (4.00, 0.00)
+[INFO] [1733549843.649382543] [bt_navigator]: Received goal preemption request
+[INFO] [1733549843.649557329] [bt_navigator]: Begin navigating from current location (2.16, 0.55) to (4.00, 0.00)
+[INFO] [1733549844.649390111] [bt_navigator]: Received goal preemption request
+[INFO] [1733549844.649559087] [bt_navigator]: Begin navigating from current location (2.18, 0.55) to (4.00, 0.00)
+[INFO] [1733549845.659567930] [bt_navigator]: Received goal preemption request
+[INFO] [1733549845.660588770] [bt_navigator]: Begin navigating from current location (2.20, 0.55) to (4.00, 0.00)
+[INFO] [1733549846.659451124] [bt_navigator]: Received goal preemption request
+[INFO] [1733549846.659662147] [bt_navigator]: Begin navigating from current location (2.22, 0.55) to (4.00, 0.00)
+[INFO] [1733549847.649772745] [bt_navigator]: Received goal preemption request
+[INFO] [1733549847.650000681] [bt_navigator]: Begin navigating from current location (2.24, 0.55) to (4.00, 0.00)
+[INFO] [1733549848.649782576] [bt_navigator]: Received goal preemption request
+[INFO] [1733549848.650199612] [bt_navigator]: Begin navigating from current location (2.26, 0.55) to (4.00, 0.00)
+[INFO] [1733549849.649735219] [bt_navigator]: Received goal preemption request
+[INFO] [1733549849.650598615] [bt_navigator]: Begin navigating from current location (2.28, 0.55) to (4.00, 0.00)
+[INFO] [1733549850.649610144] [bt_navigator]: Received goal preemption request
+[INFO] [1733549850.649796044] [bt_navigator]: Begin navigating from current location (2.28, 0.55) to (4.00, 0.00)
+[INFO] [1733549851.649528899] [bt_navigator]: Received goal preemption request
+[INFO] [1733549851.650387741] [bt_navigator]: Begin navigating from current location (2.29, 0.55) to (4.00, 0.00)
+[INFO] [1733549852.649725009] [bt_navigator]: Received goal preemption request
+[INFO] [1733549852.649907820] [bt_navigator]: Begin navigating from current location (2.29, 0.55) to (4.00, 0.00)
+[INFO] [1733549853.649433548] [bt_navigator]: Received goal preemption request
+[INFO] [1733549853.649602229] [bt_navigator]: Begin navigating from current location (2.29, 0.56) to (4.00, 0.00)
+[INFO] [1733549854.662222298] [bt_navigator]: Received goal preemption request
+[INFO] [1733549854.662458470] [bt_navigator]: Begin navigating from current location (2.28, 0.57) to (4.00, 0.00)
+[INFO] [1733549855.649785323] [bt_navigator]: Received goal preemption request
+[INFO] [1733549855.653165955] [bt_navigator]: Begin navigating from current location (2.28, 0.57) to (4.00, 0.00)
+[INFO] [1733549856.649443249] [bt_navigator]: Received goal preemption request
+[INFO] [1733549856.649678165] [bt_navigator]: Begin navigating from current location (2.28, 0.58) to (4.00, 0.00)
+[INFO] [1733549857.649369734] [bt_navigator]: Received goal preemption request
+[INFO] [1733549857.649536902] [bt_navigator]: Begin navigating from current location (2.28, 0.59) to (4.00, 0.00)
+[INFO] [1733549858.649420663] [bt_navigator]: Received goal preemption request
+[INFO] [1733549858.649600399] [bt_navigator]: Begin navigating from current location (2.28, 0.59) to (4.00, 0.00)
+[INFO] [1733549859.649435357] [bt_navigator]: Received goal preemption request
+[INFO] [1733549859.649906415] [bt_navigator]: Begin navigating from current location (2.27, 0.60) to (4.00, 0.00)
+[INFO] [1733549860.650994775] [bt_navigator]: Received goal preemption request
+[INFO] [1733549860.651441703] [bt_navigator]: Begin navigating from current location (2.26, 0.61) to (4.00, 0.00)
+[INFO] [1733549861.649503862] [bt_navigator]: Received goal preemption request
+[INFO] [1733549861.649916863] [bt_navigator]: Begin navigating from current location (2.26, 0.62) to (4.00, 0.00)
+[INFO] [1733549862.660251628] [bt_navigator]: Received goal preemption request
+[INFO] [1733549862.660776509] [bt_navigator]: Begin navigating from current location (2.25, 0.62) to (4.00, 0.00)
+[INFO] [1733549863.649450325] [bt_navigator]: Received goal preemption request
+[INFO] [1733549863.649618846] [bt_navigator]: Begin navigating from current location (2.25, 0.62) to (4.00, 0.00)
+[INFO] [1733549864.651052999] [bt_navigator]: Received goal preemption request
+[INFO] [1733549864.651336495] [bt_navigator]: Begin navigating from current location (2.25, 0.62) to (4.00, 0.00)
+[INFO] [1733549865.649706706] [bt_navigator]: Received goal preemption request
+[INFO] [1733549865.649981499] [bt_navigator]: Begin navigating from current location (2.26, 0.63) to (4.00, 0.00)
+[INFO] [1733549866.649431048] [bt_navigator]: Received goal preemption request
+[INFO] [1733549866.649614850] [bt_navigator]: Begin navigating from current location (2.27, 0.64) to (4.00, 0.00)
+[INFO] [1733549867.659577029] [bt_navigator]: Received goal preemption request
+[INFO] [1733549867.659891386] [bt_navigator]: Begin navigating from current location (2.29, 0.65) to (4.00, 0.00)
+[INFO] [1733549868.649421280] [bt_navigator]: Received goal preemption request
+[INFO] [1733549868.649592794] [bt_navigator]: Begin navigating from current location (2.31, 0.66) to (4.00, 0.00)
+[INFO] [1733549869.649390995] [bt_navigator]: Received goal preemption request
+[INFO] [1733549869.649555198] [bt_navigator]: Begin navigating from current location (2.33, 0.67) to (4.00, 0.00)
+[INFO] [1733549870.659721120] [bt_navigator]: Received goal preemption request
+[INFO] [1733549870.661179380] [bt_navigator]: Begin navigating from current location (2.35, 0.68) to (4.00, 0.00)
+[INFO] [1733549871.660389646] [bt_navigator]: Received goal preemption request
+[INFO] [1733549871.660787530] [bt_navigator]: Begin navigating from current location (2.37, 0.68) to (4.00, 0.00)
+[INFO] [1733549872.649590261] [bt_navigator]: Received goal preemption request
+[INFO] [1733549872.649837583] [bt_navigator]: Begin navigating from current location (2.39, 0.69) to (4.00, 0.00)
+[INFO] [1733549873.649395194] [bt_navigator]: Received goal preemption request
+[INFO] [1733549873.649641435] [bt_navigator]: Begin navigating from current location (2.41, 0.68) to (4.00, 0.00)
+[INFO] [1733549874.649437513] [bt_navigator]: Received goal preemption request
+[INFO] [1733549874.649619702] [bt_navigator]: Begin navigating from current location (2.44, 0.69) to (4.00, 0.00)
+[INFO] [1733549875.659572084] [bt_navigator]: Received goal preemption request
+[INFO] [1733549875.660253179] [bt_navigator]: Begin navigating from current location (2.46, 0.69) to (4.00, 0.00)
+[INFO] [1733549876.649361824] [bt_navigator]: Received goal preemption request
+[INFO] [1733549876.649528664] [bt_navigator]: Begin navigating from current location (2.48, 0.69) to (4.00, 0.00)
+[ERROR] [1733549883.769388716] [bt_navigator]: Goal failed
+[WARN] [1733549883.769447053] [bt_navigator]: [navigate_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733549918.459211743] [bt_navigator]: Begin navigating from current location (2.63, 0.67) to (3.14, 1.13)
+[WARN] [1733549918.761190724] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733549967.416852671] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733549968.931714936] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733550006.745091657] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733550014.364910893] [bt_navigator]: Received goal preemption request
+[INFO] [1733550014.366995495] [bt_navigator]: Begin navigating from current location (3.73, 0.88) to (2.75, 1.06)
+[WARN] [1733550014.773556671] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733550036.062855309] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733550057.854043842] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[ERROR] [1733550128.332903979] [bt_navigator_navigate_to_pose_rclcpp_node]: Failed to get result for compute_path_to_pose in node halt!
+[WARN] [1733550128.333259320] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[ERROR] [1733550128.333298003] [bt_navigator]: Goal failed
+[WARN] [1733550128.333318541] [bt_navigator]: [navigate_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733550211.011066493] [bt_navigator]: Begin navigating from current location (4.89, 1.55) to (2.18, -1.46)
+[WARN] [1733550219.323202546] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733550261.915603514] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733550304.961269994] [bt_navigator]: Received goal preemption request
+[INFO] [1733550304.961605475] [bt_navigator]: Begin navigating from current location (5.59, 2.44) to (2.24, -2.65)
+[ERROR] [1733550310.522316866] [bt_navigator_navigate_to_pose_rclcpp_node]: Failed to get result for compute_path_to_pose in node halt!
+[WARN] [1733550310.523491162] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733550348.365898602] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733550355.766350436] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733550356.129943987] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733550361.647803930] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733550384.868418034] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733550402.465949887] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[ERROR] [1733550411.763573131] [bt_navigator]: Goal failed
+[WARN] [1733550411.763628747] [bt_navigator]: [navigate_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733550496.363932812] [bt_navigator]: Begin navigating from current location (6.72, 2.67) to (2.16, -2.01)
+[WARN] [1733550509.864854740] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733550515.455054585] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733550516.606427786] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733550544.468868012] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733550554.747991751] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733550571.916117985] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733550601.466264571] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[ERROR] [1733550611.216396066] [bt_navigator_navigate_to_pose_rclcpp_node]: Failed to get result for compute_path_to_pose in node halt!
+[WARN] [1733550611.217922100] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733550612.158151204] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733550632.578027695] [bt_navigator]: Received goal preemption request
+[INFO] [1733550632.578366160] [bt_navigator]: Begin navigating from current location (8.03, 2.11) to (0.53, -2.26)
+[WARN] [1733550645.768572457] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733550669.248682557] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733550683.088807710] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733550685.938961542] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[ERROR] [1733550693.758045636] [bt_navigator]: Goal failed
+[WARN] [1733550693.758149882] [bt_navigator]: [navigate_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733550702.795418831] [bt_navigator]: Begin navigating from current location (8.35, 1.46) to (1.74, -2.82)
+[WARN] [1733550718.266965726] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733550733.475979452] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733550741.362045146] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733550758.688535333] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733550758.716337068] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733550782.536966542] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733550788.155895809] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733550790.705952981] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733550792.136010225] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733550792.168716925] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733550807.166681025] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733550808.976725099] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733550820.707296233] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733550820.885841413] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733550843.767641403] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[ERROR] [1733550863.666031267] [bt_navigator]: Goal failed
+[WARN] [1733550863.666179278] [bt_navigator]: [navigate_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733551557.251533871] [bt_navigator]: Begin navigating from current location (6.43, -1.13) to (5.62, 2.04)
+[WARN] [1733551559.352078087] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733551563.642176155] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733551577.172809308] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733551585.775172753] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733551590.394269468] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733551596.863488783] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733551601.073504529] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733551633.579948616] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733551643.923186746] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733551645.171934023] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733551666.796324131] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733551671.176539337] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733551671.873046536] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733551686.646506404] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[ERROR] [1733551718.671673105] [bt_navigator]: Goal failed
+[WARN] [1733551718.671727269] [bt_navigator]: [navigate_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733551852.339981439] [bt_navigator]: Begin navigating from current location (5.83, -0.58) to (3.19, 5.46)
+[WARN] [1733551856.670191554] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733551857.953004534] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733551858.324564436] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733551861.901224787] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733551877.678224633] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733551879.650265340] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733551899.740225693] [bt_navigator]: Received goal preemption request
+[INFO] [1733551899.740363878] [bt_navigator]: Begin navigating from current location (5.66, -0.34) to (4.60, -2.61)
+[WARN] [1733551923.181048464] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733551930.060515251] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733551936.320536050] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733551937.800424641] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733551942.562448997] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733551944.470160208] [bt_navigator]: Received goal preemption request
+[INFO] [1733551944.470331822] [bt_navigator]: Begin navigating from current location (5.42, -0.45) to (0.77, -3.82)
+[WARN] [1733551963.971334342] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733552000.300234366] [bt_navigator]: Received goal preemption request
+[INFO] [1733552000.300437503] [bt_navigator]: Begin navigating from current location (5.23, -0.58) to (-0.88, -3.45)
+[WARN] [1733552031.261168469] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[ERROR] [1733552031.872426771] [bt_navigator_navigate_to_pose_rclcpp_node]: Failed to get result for compute_path_to_pose in node halt!
+[WARN] [1733552031.873193453] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733552036.684041463] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733552050.643204771] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[ERROR] [1733552067.553634330] [bt_navigator]: Goal failed
+[WARN] [1733552067.553698732] [bt_navigator]: [navigate_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733552232.726499742] [bt_navigator]: Begin navigating from current location (5.16, -0.54) to (5.82, 1.47)
+[WARN] [1733552245.082413287] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733552263.484506246] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733552278.377190360] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733552281.879999308] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733552291.767096464] [bt_navigator]: Received goal preemption request
+[INFO] [1733552291.767316178] [bt_navigator]: Begin navigating from current location (4.88, -0.50) to (3.73, -1.73)
+[WARN] [1733552319.681917321] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733552335.677797149] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733552340.180266063] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733552344.667402869] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733552344.688342183] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733552362.918918533] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733552368.084054430] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733552376.289231534] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733552377.278469021] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733552382.680677790] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733552383.537352026] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733552389.679789653] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733552391.360585457] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733552395.779131067] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733552402.584375171] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733552414.448583572] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733552425.150604660] [bt_navigator]: Received goal preemption request
+[INFO] [1733552425.150786565] [bt_navigator]: Begin navigating from current location (4.18, 0.49) to (3.60, -1.90)
+[WARN] [1733552428.388712669] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733552428.779848803] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733552429.199376692] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733552429.658852003] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733552440.231627222] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733552446.638789997] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733552448.689740631] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733552448.992355245] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[ERROR] [1733552450.788790506] [bt_navigator]: Goal failed
+[WARN] [1733552450.788845682] [bt_navigator]: [navigate_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733552492.655270693] [bt_navigator]: Begin navigating from current location (3.95, 0.72) to (3.78, -1.77)
+[WARN] [1733552492.677255920] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733552492.756206062] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733552497.857815384] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733552500.485701858] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733552502.489724053] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733552515.855468536] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733552525.465608729] [bt_navigator]: Received goal preemption request
+[INFO] [1733552525.465804488] [bt_navigator]: Begin navigating from current location (3.84, 0.96) to (4.23, -1.52)
+[WARN] [1733552545.118243856] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733552549.835357804] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733552562.808639597] [bt_navigator]: Received goal preemption request
+[INFO] [1733552562.808887353] [bt_navigator]: Begin navigating from current location (3.65, 1.25) to (1.84, -3.61)
+[WARN] [1733552565.751147341] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733552570.957202866] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733552599.586092050] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733552602.036095117] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733552604.087333652] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733552606.881864714] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733552612.886076762] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733552615.359719536] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733552618.549740067] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733552637.585788484] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733552665.408115676] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733552693.359033642] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[ERROR] [1733552701.278926402] [bt_navigator_navigate_to_pose_rclcpp_node]: Failed to get result for compute_path_to_pose in node halt!
+[WARN] [1733552701.279376683] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[ERROR] [1733552701.279454501] [bt_navigator]: Goal failed
+[WARN] [1733552701.279506176] [bt_navigator]: [navigate_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733552813.094014406] [bt_navigator]: Begin navigating from current location (3.12, 2.51) to (2.12, 0.24)
+[WARN] [1733552823.589215033] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733552826.689092977] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733552828.684621735] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733552835.285958223] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733552851.107841245] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733552853.555586249] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733552882.768314000] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[ERROR] [1733552882.805217434] [bt_navigator_navigate_to_pose_rclcpp_node]: Failed to get result for compute_path_to_pose in node halt!
+[WARN] [1733552882.806176403] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733552892.987069747] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733552903.771042336] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733552904.146433036] [bt_navigator]: Received goal preemption request
+[INFO] [1733552904.147859234] [bt_navigator]: Begin navigating from current location (3.27, 3.25) to (0.24, 0.91)
+[WARN] [1733552905.679204573] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733552905.690413709] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733552905.700573231] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733552906.493157442] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733552906.577789062] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733552907.178213371] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733552918.789163355] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733552938.047987253] [bt_navigator]: Received goal preemption request
+[INFO] [1733552938.048155622] [bt_navigator]: Begin navigating from current location (3.25, 3.36) to (0.05, -0.57)
+[ERROR] [1733552951.439667300] [bt_navigator_navigate_to_pose_rclcpp_node]: Failed to get result for compute_path_to_pose in node halt!
+[WARN] [1733552951.442854741] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[ERROR] [1733552953.362959994] [bt_navigator]: Goal failed
+[WARN] [1733552953.363032294] [bt_navigator]: [navigate_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733553107.520578507] [bt_navigator]: Begin navigating from current location (3.16, 2.41) to (0.83, 0.25)
+[WARN] [1733553110.392800065] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733553117.400885907] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733553118.272757870] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733553130.860879401] [bt_navigator]: Received goal preemption request
+[INFO] [1733553130.861375515] [bt_navigator]: Begin navigating from current location (3.22, 2.76) to (0.49, 1.80)
+[INFO] [1733553167.181050534] [bt_navigator]: Received goal preemption request
+[INFO] [1733553167.181300330] [bt_navigator]: Begin navigating from current location (2.89, 2.97) to (1.88, 0.47)
+[INFO] [1733553183.001796926] [bt_navigator]: Received goal preemption request
+[INFO] [1733553183.002325846] [bt_navigator]: Begin navigating from current location (2.73, 3.02) to (2.09, 1.75)
+[WARN] [1733553222.191848234] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733553231.222709516] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733553236.740827083] [bt_navigator]: Received goal preemption request
+[INFO] [1733553236.741036473] [bt_navigator]: Begin navigating from current location (2.08, 2.96) to (3.47, -1.75)
+[INFO] [1733553244.041156183] [bt_navigator]: Received goal preemption request
+[INFO] [1733553244.041322131] [bt_navigator]: Begin navigating from current location (1.96, 2.91) to (3.64, -1.11)
+[INFO] [1733553273.610883037] [bt_navigator]: Received goal preemption request
+[INFO] [1733553273.613090659] [bt_navigator]: Begin navigating from current location (1.59, 2.85) to (3.45, -0.60)
+[WARN] [1733553290.451319506] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733553301.400737037] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[ERROR] [1733553302.550744424] [bt_navigator]: Goal failed
+[WARN] [1733553302.552781568] [bt_navigator]: [navigate_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733553307.872790566] [bt_navigator]: Begin navigating from current location (1.05, 2.83) to (2.90, 0.29)
+[INFO] [1733553349.903737786] [bt_navigator]: Received goal preemption request
+[INFO] [1733553349.904271314] [bt_navigator]: Begin navigating from current location (0.52, 3.01) to (1.89, 0.09)
+[INFO] [1733553362.373136555] [bt_navigator]: Received goal preemption request
+[INFO] [1733553362.378488796] [bt_navigator]: Begin navigating from current location (0.48, 3.04) to (2.08, 0.99)
+[INFO] [1733553391.543072036] [bt_navigator]: Received goal preemption request
+[INFO] [1733553391.543288665] [bt_navigator]: Begin navigating from current location (0.17, 3.16) to (2.20, 0.51)
+[INFO] [1733553443.413216737] [bt_navigator]: Received goal preemption request
+[INFO] [1733553443.413427649] [bt_navigator]: Begin navigating from current location (-0.38, 3.27) to (1.66, 0.68)
+[WARN] [1733553464.712987920] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733553474.243125854] [bt_navigator]: Received goal preemption request
+[INFO] [1733553474.243317215] [bt_navigator]: Begin navigating from current location (-0.71, 3.33) to (1.24, 0.31)
+[ERROR] [1733553485.874895816] [bt_navigator_navigate_to_pose_rclcpp_node]: Failed to get result for compute_path_to_pose in node halt!
+[WARN] [1733553485.875090156] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[ERROR] [1733553485.875117199] [bt_navigator]: Goal failed
+[WARN] [1733553485.875132789] [bt_navigator]: [navigate_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733553491.804603368] [bt_navigator]: Begin navigating from current location (-0.94, 3.36) to (0.34, 1.40)
+[WARN] [1733553518.851030740] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733553538.135694838] [bt_navigator]: Received goal preemption request
+[INFO] [1733553538.135967822] [bt_navigator]: Begin navigating from current location (-1.45, 3.07) to (0.23, 2.69)
+[WARN] [1733553542.786607059] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733553561.605627951] [bt_navigator]: Received goal preemption request
+[INFO] [1733553561.605831629] [bt_navigator]: Begin navigating from current location (-1.54, 2.86) to (1.91, -0.03)
+[ERROR] [1733553563.926221616] [bt_navigator_navigate_to_pose_rclcpp_node]: Failed to get result for compute_path_to_pose in node halt!
+[WARN] [1733553563.927646580] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733553571.068915876] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733553575.708174264] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733553580.439378405] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733553612.591921471] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733553616.299454901] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733553625.088400158] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733553629.450175127] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733553660.451028157] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733553660.451783883] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733553670.987841020] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[ERROR] [1733553675.197740507] [bt_navigator]: Goal failed
+[WARN] [1733553675.197802961] [bt_navigator]: [navigate_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733553700.475241331] [bt_navigator]: Begin navigating from current location (-1.75, 1.64) to (1.14, 0.36)
+[INFO] [1733553715.585448405] [bt_navigator]: Received goal preemption request
+[INFO] [1733553715.585601272] [bt_navigator]: Begin navigating from current location (-1.76, 1.35) to (0.32, -0.24)
+[WARN] [1733553728.136307084] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733553730.285430417] [bt_navigator]: Goal succeeded
+[INFO] [1733553737.252891380] [rclcpp]: signal_handler(signum=2)
+[INFO] [1733553737.301960344] [bt_navigator]: Running Nav2 LifecycleNode rcl preshutdown (bt_navigator)
+[INFO] [1733553737.302187541] [bt_navigator]: Deactivating
+[INFO] [1733553737.302276308] [bt_navigator]: Destroying bond (bt_navigator) to lifecycle manager.
+[INFO] [1733553737.344825895] [bt_navigator]: Cleaning up
+[INFO] [1733553737.798857636] [bt_navigator]: Completed Cleaning up
+[INFO] [1733553737.798918131] [bt_navigator]: Destroying bond (bt_navigator) to lifecycle manager.

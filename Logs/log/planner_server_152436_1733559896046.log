@@ -1,0 +1,775 @@
+[INFO] [1733559896.576237626] [planner_server]: 
+	planner_server lifecycle node launched. 
+	Waiting on external lifecycle transitions to activate
+	See https://design.ros2.org/articles/node_lifecycle.html for more information.
+[INFO] [1733559896.614281846] [planner_server]: Creating
+[INFO] [1733559896.833277600] [global_costmap.global_costmap]: 
+	global_costmap lifecycle node launched. 
+	Waiting on external lifecycle transitions to activate
+	See https://design.ros2.org/articles/node_lifecycle.html for more information.
+[INFO] [1733559896.834075418] [global_costmap.global_costmap]: Creating Costmap
+[INFO] [1733559897.912455869] [planner_server]: Configuring
+[INFO] [1733559897.912513275] [global_costmap.global_costmap]: Configuring
+[INFO] [1733559897.928762813] [global_costmap.global_costmap]: Using plugin "static_layer"
+[INFO] [1733559897.935145375] [global_costmap.global_costmap]: Subscribing to the map topic (/map) with transient local durability
+[INFO] [1733559897.938700606] [global_costmap.global_costmap]: Initialized plugin "static_layer"
+[INFO] [1733559897.940352783] [global_costmap.global_costmap]: Using plugin "obstacle_layer"
+[INFO] [1733559897.947885735] [global_costmap.global_costmap]: Subscribed to Topics: scan
+[INFO] [1733559897.963463916] [global_costmap.global_costmap]: Initialized plugin "obstacle_layer"
+[INFO] [1733559897.964150459] [global_costmap.global_costmap]: Using plugin "inflation_layer"
+[INFO] [1733559897.968475919] [global_costmap.global_costmap]: Initialized plugin "inflation_layer"
+[INFO] [1733559898.001871714] [planner_server]: Created global planner plugin GridBased of type nav2_navfn_planner/NavfnPlanner
+[INFO] [1733559898.001918201] [planner_server]: Configuring plugin GridBased of type NavfnPlanner
+[INFO] [1733559898.005404774] [planner_server]: Planner Server has GridBased  planners available.
+[INFO] [1733559898.029517113] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 101 X 110 at 0.050000 m/pix
+[INFO] [1733559898.941141871] [planner_server]: Activating
+[INFO] [1733559898.941219241] [global_costmap.global_costmap]: Activating
+[INFO] [1733559898.941237549] [global_costmap.global_costmap]: Checking transform
+[INFO] [1733559898.941317645] [global_costmap.global_costmap]: Timed out waiting for transform from base_link to map to become available, tf error: Lookup would require extrapolation into the past.  Requested time 7.480000 but the earliest data is at time 7.522000, when looking up transform from frame [base_link] to frame [map]
+[INFO] [1733559899.441457012] [global_costmap.global_costmap]: Timed out waiting for transform from base_link to map to become available, tf error: Lookup would require extrapolation into the past.  Requested time 7.520000 but the earliest data is at time 7.522000, when looking up transform from frame [base_link] to frame [map]
+[INFO] [1733559899.941392680] [global_costmap.global_costmap]: start
+[INFO] [1733559899.992384001] [planner_server]: Activating plugin GridBased of type NavfnPlanner
+[INFO] [1733559899.997312254] [planner_server]: Creating bond (planner_server) to lifecycle manager.
+[WARN] [1733559931.173390632] [planner_server]: Planner loop missed its desired rate of 20.0000 Hz. Current loop rate is 9.7394 Hz
+[INFO] [1733559937.943507685] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 101 X 111 at 0.050000 m/pix
+[INFO] [1733559941.943480801] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 101 X 118 at 0.050000 m/pix
+[INFO] [1733559944.943515061] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 101 X 121 at 0.050000 m/pix
+[INFO] [1733559947.943560603] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 101 X 123 at 0.050000 m/pix
+[INFO] [1733559949.943521695] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 101 X 124 at 0.050000 m/pix
+[INFO] [1733559951.351098682] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[WARN] [1733559951.953183056] [planner_server]: Planner loop missed its desired rate of 20.0000 Hz. Current loop rate is 1.6656 Hz
+[INFO] [1733559955.943475416] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 101 X 126 at 0.050000 m/pix
+[INFO] [1733559957.943418300] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 101 X 127 at 0.050000 m/pix
+[INFO] [1733559964.943527970] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 106 X 128 at 0.050000 m/pix
+[INFO] [1733559967.943445759] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 113 X 128 at 0.050000 m/pix
+[INFO] [1733559969.943418597] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 113 X 131 at 0.050000 m/pix
+[INFO] [1733559975.943415914] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 113 X 148 at 0.050000 m/pix
+[INFO] [1733559978.943418482] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 113 X 168 at 0.050000 m/pix
+[INFO] [1733559983.943420370] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 133 X 168 at 0.050000 m/pix
+[INFO] [1733559986.943956961] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 155 X 168 at 0.050000 m/pix
+[INFO] [1733560017.391298238] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[WARN] [1733560017.945788459] [planner_server]: Planner loop missed its desired rate of 20.0000 Hz. Current loop rate is 1.8499 Hz
+[INFO] [1733560046.943416794] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 157 X 170 at 0.050000 m/pix
+[INFO] [1733560048.944989017] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 160 X 170 at 0.050000 m/pix
+[INFO] [1733560051.943520610] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 161 X 170 at 0.050000 m/pix
+[INFO] [1733560062.943439283] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 161 X 157 at 0.050000 m/pix
+[INFO] [1733560065.943438067] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 161 X 158 at 0.050000 m/pix
+[INFO] [1733560081.943502156] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 160 X 159 at 0.050000 m/pix
+[INFO] [1733560082.943725943] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 161 X 159 at 0.050000 m/pix
+[INFO] [1733560083.400567741] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[WARN] [1733560083.952352225] [planner_server]: Planner loop missed its desired rate of 20.0000 Hz. Current loop rate is 1.8155 Hz
+[INFO] [1733560106.943486167] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 161 X 163 at 0.050000 m/pix
+[INFO] [1733560117.943465251] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 160 X 159 at 0.050000 m/pix
+[INFO] [1733560128.943506337] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 160 X 159 at 0.050000 m/pix
+[INFO] [1733560143.943448687] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 160 X 159 at 0.050000 m/pix
+[WARN] [1733560151.433939663] [planner_server]: Planner loop missed its desired rate of 20.0000 Hz. Current loop rate is 16.0689 Hz
+[INFO] [1733560181.623582529] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[WARN] [1733560181.955768728] [planner_server]: Planner loop missed its desired rate of 20.0000 Hz. Current loop rate is 3.0242 Hz
+[INFO] [1733560239.943429308] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 161 X 159 at 0.050000 m/pix
+[INFO] [1733560247.373467589] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[WARN] [1733560247.945843983] [planner_server]: Planner loop missed its desired rate of 20.0000 Hz. Current loop rate is 1.7524 Hz
+[INFO] [1733560262.943516089] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 162 X 159 at 0.050000 m/pix
+[INFO] [1733560273.943504239] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 163 X 159 at 0.050000 m/pix
+[INFO] [1733560298.943435859] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 168 X 159 at 0.050000 m/pix
+[INFO] [1733560301.945715393] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 170 X 159 at 0.050000 m/pix
+[INFO] [1733560303.943468810] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 173 X 159 at 0.050000 m/pix
+[INFO] [1733560313.391476550] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[WARN] [1733560313.947486504] [planner_server]: Planner loop missed its desired rate of 20.0000 Hz. Current loop rate is 1.8152 Hz
+[INFO] [1733560319.943437236] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 182 X 159 at 0.050000 m/pix
+[INFO] [1733560320.943417711] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 182 X 161 at 0.050000 m/pix
+[INFO] [1733560341.943511179] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 182 X 164 at 0.050000 m/pix
+[INFO] [1733560347.943419913] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 191 X 165 at 0.050000 m/pix
+[ERROR] [1733560349.194176388] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733560349.194240493] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733560349.194262897] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (3.06, 0.58)
+[WARN] [1733560349.194273378] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733560349.214612147] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[ERROR] [1733560349.952887590] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733560349.952948124] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733560349.952958961] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (3.06, 0.58)
+[WARN] [1733560349.952971420] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733560355.943419956] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 192 X 165 at 0.050000 m/pix
+[ERROR] [1733560365.808027797] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733560365.808215969] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733560365.808255890] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (1.75, 0.19)
+[WARN] [1733560365.808297623] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733560365.822325073] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[ERROR] [1733560365.945908624] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733560365.946013399] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733560365.946036853] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (1.75, 0.19)
+[WARN] [1733560365.946059200] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733560375.982471548] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[ERROR] [1733560376.953787515] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733560376.953858388] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733560376.953871281] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (1.75, 0.19)
+[WARN] [1733560376.953884198] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733560376.971716705] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[ERROR] [1733560377.950491359] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733560377.950674678] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733560377.950690395] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (1.75, 0.19)
+[WARN] [1733560377.950703314] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733560402.943422665] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 192 X 165 at 0.050000 m/pix
+[INFO] [1733560404.943493888] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 192 X 166 at 0.050000 m/pix
+[INFO] [1733560407.943413768] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 193 X 165 at 0.050000 m/pix
+[INFO] [1733560410.943416263] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 193 X 166 at 0.050000 m/pix
+[INFO] [1733560412.943453626] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 193 X 167 at 0.050000 m/pix
+[INFO] [1733560423.193359669] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[WARN] [1733560423.946384857] [planner_server]: Planner loop missed its desired rate of 20.0000 Hz. Current loop rate is 1.3313 Hz
+[INFO] [1733560455.943443767] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 193 X 170 at 0.050000 m/pix
+[INFO] [1733560457.943450889] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 193 X 176 at 0.050000 m/pix
+[INFO] [1733560489.373118618] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[WARN] [1733560489.945806688] [planner_server]: Planner loop missed its desired rate of 20.0000 Hz. Current loop rate is 1.7496 Hz
+[INFO] [1733560502.943479206] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 193 X 175 at 0.050000 m/pix
+[INFO] [1733560508.943472272] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 193 X 176 at 0.050000 m/pix
+[ERROR] [1733560528.283250521] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733560528.283325362] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733560528.283338122] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (5.29, -1.19)
+[WARN] [1733560528.283348413] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733560528.302288244] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[ERROR] [1733560528.950746247] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733560528.950806122] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733560528.950818212] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (5.29, -1.19)
+[WARN] [1733560528.950829395] [planner_server]: [compute_path_to_pose] [ActionServer] Client requested to cancel the goal. Cancelling.
+[ERROR] [1733560535.212852095] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733560535.212999585] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733560535.213025941] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (5.65, 0.23)
+[WARN] [1733560535.213051838] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733560535.228611063] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[ERROR] [1733560535.952851643] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733560535.952897635] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733560535.952908695] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (5.65, 0.23)
+[WARN] [1733560535.952920988] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733560545.989221173] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[ERROR] [1733560546.951712921] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733560546.951777636] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733560546.951791533] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (5.65, 0.23)
+[WARN] [1733560546.951804028] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733560546.968070896] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[ERROR] [1733560547.952784337] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733560547.952895674] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733560547.952917244] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (5.65, 0.23)
+[WARN] [1733560547.952933535] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733560557.943433978] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 194 X 176 at 0.050000 m/pix
+[INFO] [1733560560.943440960] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 197 X 176 at 0.050000 m/pix
+[INFO] [1733560577.943437050] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 196 X 177 at 0.050000 m/pix
+[ERROR] [1733560578.469970530] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733560578.470043127] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733560578.470056180] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (5.20, -0.51)
+[WARN] [1733560578.470076920] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733560578.487913145] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[ERROR] [1733560578.949853329] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733560578.949902455] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733560578.949915323] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (5.20, -0.51)
+[WARN] [1733560578.949928297] [planner_server]: [compute_path_to_pose] [ActionServer] Client requested to cancel the goal. Cancelling.
+[INFO] [1733560580.943512104] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 196 X 179 at 0.050000 m/pix
+[INFO] [1733560588.582298422] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[ERROR] [1733560588.956131336] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733560588.956349384] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733560588.956379189] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (5.48, -0.59)
+[WARN] [1733560588.956417186] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733560588.971214626] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[ERROR] [1733560589.955295726] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733560589.955357309] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733560589.955371050] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (5.48, -0.59)
+[WARN] [1733560589.955384280] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733560601.943492421] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 201 X 179 at 0.050000 m/pix
+[ERROR] [1733560605.022659905] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733560605.022735131] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733560605.022750625] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (5.48, -0.59)
+[WARN] [1733560605.022763542] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733560605.041202498] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[ERROR] [1733560605.954222195] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733560605.954339948] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733560605.954360391] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (5.48, -0.59)
+[WARN] [1733560605.954378018] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733560615.992478263] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[ERROR] [1733560616.954657896] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733560616.954724139] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733560616.954737289] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (5.48, -0.59)
+[WARN] [1733560616.954759603] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733560616.971227709] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[ERROR] [1733560617.952925415] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733560617.952984494] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733560617.952995949] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (5.48, -0.59)
+[WARN] [1733560617.953007489] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[ERROR] [1733560633.023934880] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733560633.024017255] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733560633.024031931] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (5.48, -0.59)
+[WARN] [1733560633.024043772] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733560633.040908874] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[ERROR] [1733560633.952858007] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733560633.952990534] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733560633.953016680] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (5.48, -0.59)
+[WARN] [1733560633.953041927] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[ERROR] [1733560714.510365008] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733560714.510484007] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733560714.510507755] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (4.13, -0.73)
+[WARN] [1733560714.510535000] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733560714.523702296] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[ERROR] [1733560714.946402350] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733560714.946539601] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733560714.946556655] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (4.13, -0.73)
+[WARN] [1733560714.946576175] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733560724.984023859] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[ERROR] [1733560725.950726090] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733560725.950790386] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733560725.950804050] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (4.13, -0.73)
+[WARN] [1733560725.950816608] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733560725.963273570] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[ERROR] [1733560726.946142711] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733560726.946260273] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733560726.946294007] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (4.13, -0.73)
+[WARN] [1733560726.946315328] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[ERROR] [1733560742.022211798] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733560742.022939774] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733560742.024392295] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (4.13, -0.73)
+[WARN] [1733560742.024415767] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733560742.043249941] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[ERROR] [1733560742.954701480] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733560742.954759916] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733560742.954771240] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (4.13, -0.73)
+[WARN] [1733560742.954783377] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733560752.994516111] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[ERROR] [1733560753.955151264] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733560753.955298867] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733560753.955330165] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (4.13, -0.73)
+[WARN] [1733560753.955357614] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733560753.976770202] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[ERROR] [1733560754.954522137] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733560754.954671769] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733560754.954694009] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (4.13, -0.73)
+[WARN] [1733560754.954718579] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733560767.943417260] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 201 X 176 at 0.050000 m/pix
+[INFO] [1733560773.943530616] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 202 X 176 at 0.050000 m/pix
+[INFO] [1733560775.943448383] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 203 X 176 at 0.050000 m/pix
+[INFO] [1733560780.943409058] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 204 X 176 at 0.050000 m/pix
+[INFO] [1733560792.943409231] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 203 X 176 at 0.050000 m/pix
+[INFO] [1733560800.164024700] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[WARN] [1733560800.945752680] [planner_server]: Planner loop missed its desired rate of 20.0000 Hz. Current loop rate is 1.2803 Hz
+[INFO] [1733560805.943426066] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 203 X 177 at 0.050000 m/pix
+[INFO] [1733560813.943411955] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 203 X 176 at 0.050000 m/pix
+[INFO] [1733560818.943494179] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 203 X 183 at 0.050000 m/pix
+[INFO] [1733560826.943421860] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 203 X 176 at 0.050000 m/pix
+[INFO] [1733560829.943412106] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 203 X 176 at 0.050000 m/pix
+[INFO] [1733560840.943442473] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 203 X 176 at 0.050000 m/pix
+[INFO] [1733560848.943437632] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 203 X 176 at 0.050000 m/pix
+[INFO] [1733560859.943488660] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 203 X 176 at 0.050000 m/pix
+[WARN] [1733560868.242407278] [planner_server]: Planner loop missed its desired rate of 20.0000 Hz. Current loop rate is 16.4944 Hz
+[INFO] [1733560881.943447677] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 209 X 176 at 0.050000 m/pix
+[INFO] [1733560898.370628099] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[WARN] [1733560898.955207776] [planner_server]: Planner loop missed its desired rate of 20.0000 Hz. Current loop rate is 1.7213 Hz
+[INFO] [1733560922.943455671] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 215 X 176 at 0.050000 m/pix
+[INFO] [1733560947.943510083] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 215 X 176 at 0.050000 m/pix
+[INFO] [1733560952.943435648] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 223 X 176 at 0.050000 m/pix
+[INFO] [1733560964.381980435] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[WARN] [1733560964.954630495] [planner_server]: Planner loop missed its desired rate of 20.0000 Hz. Current loop rate is 1.7492 Hz
+[INFO] [1733560993.943523686] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 224 X 176 at 0.050000 m/pix
+[ERROR] [1733561000.500351305] [transformPoseInTargetFrame]: Extrapolation Error looking up target frame: Lookup would require extrapolation into the past.  Requested time 90.238000 but the earliest data is at time 91.100000, when looking up transform from frame [base_link] to frame [map]
+
+[WARN] [1733561000.500479573] [planner_server]: Could not transform the start or goal pose in the costmap frame
+[WARN] [1733561000.500566076] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733561000.519594111] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[ERROR] [1733561001.251859372] [transformPoseInTargetFrame]: Extrapolation Error looking up target frame: Lookup would require extrapolation into the past.  Requested time 90.238000 but the earliest data is at time 91.160000, when looking up transform from frame [base_link] to frame [map]
+
+[WARN] [1733561001.251942444] [planner_server]: Could not transform the start or goal pose in the costmap frame
+[WARN] [1733561001.252028677] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733561011.291076362] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[ERROR] [1733561012.255953696] [transformPoseInTargetFrame]: Extrapolation Error looking up target frame: Lookup would require extrapolation into the past.  Requested time 90.238000 but the earliest data is at time 92.101000, when looking up transform from frame [base_link] to frame [map]
+
+[WARN] [1733561012.256150361] [planner_server]: Could not transform the start or goal pose in the costmap frame
+[WARN] [1733561012.256265092] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733561012.275886692] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[ERROR] [1733561013.259036539] [transformPoseInTargetFrame]: Extrapolation Error looking up target frame: Lookup would require extrapolation into the past.  Requested time 90.238000 but the earliest data is at time 92.180000, when looking up transform from frame [base_link] to frame [map]
+
+[WARN] [1733561013.259072640] [planner_server]: Could not transform the start or goal pose in the costmap frame
+[WARN] [1733561013.259106023] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[ERROR] [1733561028.635062858] [transformPoseInTargetFrame]: Extrapolation Error looking up target frame: Lookup would require extrapolation into the past.  Requested time 90.238000 but the earliest data is at time 93.520000, when looking up transform from frame [base_link] to frame [map]
+
+[WARN] [1733561028.635151659] [planner_server]: Could not transform the start or goal pose in the costmap frame
+[WARN] [1733561028.635250373] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733561028.649312250] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[ERROR] [1733561029.257676607] [transformPoseInTargetFrame]: Extrapolation Error looking up target frame: Lookup would require extrapolation into the past.  Requested time 90.238000 but the earliest data is at time 93.560000, when looking up transform from frame [base_link] to frame [map]
+
+[WARN] [1733561029.257715557] [planner_server]: Could not transform the start or goal pose in the costmap frame
+[WARN] [1733561029.257741517] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733561061.943434439] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 224 X 176 at 0.050000 m/pix
+[INFO] [1733561064.943426543] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 226 X 176 at 0.050000 m/pix
+[INFO] [1733561067.943423400] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 232 X 176 at 0.050000 m/pix
+[INFO] [1733561075.765045451] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[WARN] [1733561075.949417045] [planner_server]: Planner loop missed its desired rate of 20.0000 Hz. Current loop rate is 5.5084 Hz
+[INFO] [1733561106.943425098] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 240 X 176 at 0.050000 m/pix
+[INFO] [1733561116.943636168] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 240 X 176 at 0.050000 m/pix
+[INFO] [1733561119.943443272] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 241 X 176 at 0.050000 m/pix
+[INFO] [1733561130.943428634] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 253 X 176 at 0.050000 m/pix
+[INFO] [1733561141.372749062] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[INFO] [1733561141.943442950] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 255 X 176 at 0.050000 m/pix
+[WARN] [1733561141.949433815] [planner_server]: Planner loop missed its desired rate of 20.0000 Hz. Current loop rate is 1.7491 Hz
+[INFO] [1733561142.943651284] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 255 X 176 at 0.050000 m/pix
+[INFO] [1733561172.943441827] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 255 X 176 at 0.050000 m/pix
+[INFO] [1733561193.943417421] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 256 X 176 at 0.050000 m/pix
+[INFO] [1733561207.382593293] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[WARN] [1733561207.946189286] [planner_server]: Planner loop missed its desired rate of 20.0000 Hz. Current loop rate is 1.7827 Hz
+[INFO] [1733561211.943501635] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 258 X 176 at 0.050000 m/pix
+[INFO] [1733561230.943501056] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 258 X 182 at 0.050000 m/pix
+[INFO] [1733561236.943510210] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 258 X 182 at 0.050000 m/pix
+[INFO] [1733561239.943440598] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 258 X 192 at 0.050000 m/pix
+[INFO] [1733561241.943734113] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 258 X 195 at 0.050000 m/pix
+[INFO] [1733561246.943431323] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 261 X 195 at 0.050000 m/pix
+[INFO] [1733561249.943432590] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 263 X 202 at 0.050000 m/pix
+[INFO] [1733561252.943461557] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 263 X 202 at 0.050000 m/pix
+[INFO] [1733561255.943428381] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 263 X 203 at 0.050000 m/pix
+[INFO] [1733561260.943453615] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 263 X 228 at 0.050000 m/pix
+[WARN] [1733561264.167758353] [planner_server]: Planner loop missed its desired rate of 20.0000 Hz. Current loop rate is 5.7402 Hz
+[INFO] [1733561295.943433956] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 263 X 230 at 0.050000 m/pix
+[ERROR] [1733561296.367697923] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733561296.367909140] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733561296.367952928] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (6.77, -4.24)
+[WARN] [1733561296.367972650] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733561296.382435110] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[INFO] [1733561296.464634563] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[ERROR] [1733561296.955312186] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733561296.955384873] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733561296.955402679] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (6.77, -4.24)
+[WARN] [1733561296.955417569] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733561296.986367555] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[ERROR] [1733561297.948070062] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733561297.948155518] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733561297.948169805] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (6.77, -4.24)
+[WARN] [1733561297.948186913] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733561304.943514806] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 263 X 237 at 0.050000 m/pix
+[INFO] [1733561306.943477451] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 263 X 244 at 0.050000 m/pix
+[INFO] [1733561309.943429261] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 263 X 244 at 0.050000 m/pix
+[INFO] [1733561312.943420004] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 263 X 244 at 0.050000 m/pix
+[INFO] [1733561321.943443342] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 263 X 245 at 0.050000 m/pix
+[INFO] [1733561343.196971310] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[WARN] [1733561343.949162465] [planner_server]: Planner loop missed its desired rate of 20.0000 Hz. Current loop rate is 1.3307 Hz
+[INFO] [1733561349.943472006] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 263 X 244 at 0.050000 m/pix
+[INFO] [1733561366.943426969] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 263 X 246 at 0.050000 m/pix
+[INFO] [1733561388.943439385] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 263 X 246 at 0.050000 m/pix
+[INFO] [1733561409.378275374] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[WARN] [1733561409.952826516] [planner_server]: Planner loop missed its desired rate of 20.0000 Hz. Current loop rate is 1.7485 Hz
+[INFO] [1733561432.943460213] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 263 X 247 at 0.050000 m/pix
+[INFO] [1733561483.943418152] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 263 X 246 at 0.050000 m/pix
+[INFO] [1733561489.943431254] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 263 X 246 at 0.050000 m/pix
+[INFO] [1733561494.943529668] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 263 X 247 at 0.050000 m/pix
+[INFO] [1733561499.944698938] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 263 X 246 at 0.050000 m/pix
+[INFO] [1733561514.943531523] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 263 X 246 at 0.050000 m/pix
+[INFO] [1733561520.368337467] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[WARN] [1733561520.950569020] [planner_server]: Planner loop missed its desired rate of 20.0000 Hz. Current loop rate is 1.7192 Hz
+[INFO] [1733561530.943553026] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 263 X 246 at 0.050000 m/pix
+[ERROR] [1733561570.579365576] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733561570.580022428] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733561570.585241511] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (4.20, -0.27)
+[WARN] [1733561570.585840254] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733561570.600927289] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[ERROR] [1733561570.954652000] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733561570.954711762] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733561570.954723591] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (4.20, -0.27)
+[WARN] [1733561570.954735428] [planner_server]: [compute_path_to_pose] [ActionServer] Client requested to cancel the goal. Cancelling.
+[INFO] [1733561580.720034805] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[ERROR] [1733561580.954058748] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733561580.954588063] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733561580.954888308] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (4.20, -0.27)
+[WARN] [1733561580.955166680] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733561580.969358051] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[WARN] [1733561581.950725143] [planner_server]: Planner loop missed its desired rate of 20.0000 Hz. Current loop rate is 1.0196 Hz
+[INFO] [1733561610.943520063] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 263 X 246 at 0.050000 m/pix
+[INFO] [1733561613.943433677] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 263 X 246 at 0.050000 m/pix
+[INFO] [1733561647.391115432] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[WARN] [1733561647.954934332] [planner_server]: Planner loop missed its desired rate of 20.0000 Hz. Current loop rate is 1.7796 Hz
+[INFO] [1733561669.943487754] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 263 X 246 at 0.050000 m/pix
+[WARN] [1733561682.658045909] [planner_server]: Planner loop missed its desired rate of 20.0000 Hz. Current loop rate is 5.3407 Hz
+[ERROR] [1733561686.771904741] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733561686.771978272] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733561686.771996627] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (-0.41, -4.26)
+[WARN] [1733561686.772009124] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733561686.790081162] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[ERROR] [1733561686.953446362] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733561686.953490173] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733561686.953500824] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (-0.41, -4.26)
+[WARN] [1733561686.953511950] [planner_server]: [compute_path_to_pose] [ActionServer] Client requested to cancel the goal. Cancelling.
+[INFO] [1733561694.943511290] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 263 X 246 at 0.050000 m/pix
+[INFO] [1733561696.943529129] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 263 X 246 at 0.050000 m/pix
+[INFO] [1733561719.943511060] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 263 X 246 at 0.050000 m/pix
+[INFO] [1733561732.172616497] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[WARN] [1733561732.955436275] [planner_server]: Planner loop missed its desired rate of 20.0000 Hz. Current loop rate is 1.2785 Hz
+[INFO] [1733561776.943511846] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 263 X 246 at 0.050000 m/pix
+[INFO] [1733561787.943441135] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 263 X 246 at 0.050000 m/pix
+[INFO] [1733561798.392372415] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[WARN] [1733561798.951410624] [planner_server]: Planner loop missed its desired rate of 20.0000 Hz. Current loop rate is 1.8088 Hz
+[INFO] [1733561828.943459678] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 263 X 246 at 0.050000 m/pix
+[INFO] [1733561855.943442571] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 263 X 246 at 0.050000 m/pix
+[INFO] [1733561864.382354254] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[WARN] [1733561864.947262404] [planner_server]: Planner loop missed its desired rate of 20.0000 Hz. Current loop rate is 1.7727 Hz
+[WARN] [1733561912.657869289] [planner_server]: Planner loop missed its desired rate of 20.0000 Hz. Current loop rate is 5.7385 Hz
+[INFO] [1733561922.943454721] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 263 X 246 at 0.050000 m/pix
+[ERROR] [1733561926.055451555] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733561926.055599656] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733561926.055624203] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (-1.37, -4.56)
+[WARN] [1733561926.055646669] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733561926.073456099] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[ERROR] [1733561926.955732350] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733561926.955828839] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733561926.955845751] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (-1.37, -4.56)
+[WARN] [1733561926.955862755] [planner_server]: [compute_path_to_pose] [ActionServer] Client requested to cancel the goal. Cancelling.
+[INFO] [1733561934.943494264] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 263 X 246 at 0.050000 m/pix
+[ERROR] [1733561941.197880776] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733561941.200628987] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733561941.200712839] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (-2.67, -4.78)
+[WARN] [1733561941.200739346] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733561941.215780592] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[ERROR] [1733561941.949648761] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733561941.949754742] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733561941.949772614] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (-2.67, -4.78)
+[WARN] [1733561941.949787515] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733561951.986650364] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[ERROR] [1733561952.950032483] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733561952.950205457] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733561952.950230839] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (-2.67, -4.78)
+[WARN] [1733561952.950243013] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733561952.965654488] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[ERROR] [1733561953.950373779] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733561953.950517982] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733561953.950546378] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (-2.67, -4.78)
+[WARN] [1733561953.950577083] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[ERROR] [1733561969.023444155] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733561969.023501717] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733561969.023516875] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (-2.67, -4.78)
+[WARN] [1733561969.023529412] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733561969.035784656] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[ERROR] [1733561969.952576779] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733561969.952706758] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733561969.952720069] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (-2.67, -4.78)
+[WARN] [1733561969.952733245] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[ERROR] [1733561971.900127104] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733561971.900204230] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733561971.900219051] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (-2.67, -4.78)
+[WARN] [1733561971.900230957] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733561971.915797776] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[ERROR] [1733561971.962376863] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733561971.962512486] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733561971.962555249] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (-2.67, -4.78)
+[WARN] [1733561971.962593980] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733561971.976308994] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[ERROR] [1733561972.949675765] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733561972.949865698] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733561972.949909512] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (-2.67, -4.78)
+[WARN] [1733561972.949943150] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733561972.965553400] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[ERROR] [1733561973.953458510] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733561973.953624536] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733561973.953653691] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (-2.67, -4.78)
+[WARN] [1733561973.953684427] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733561981.943451160] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 263 X 247 at 0.050000 m/pix
+[INFO] [1733561984.943437648] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 263 X 249 at 0.050000 m/pix
+[ERROR] [1733561989.017924973] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733561989.018088915] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733561989.018121812] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (-2.67, -4.78)
+[WARN] [1733561989.018145071] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733561989.036690398] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[ERROR] [1733561989.954492379] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733561989.954659106] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733561989.954706596] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (-2.67, -4.78)
+[WARN] [1733561989.954744563] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[ERROR] [1733562039.343091605] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733562039.343685136] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733562039.343974355] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (-1.00, -3.55)
+[WARN] [1733562039.344296823] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733562039.359635239] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[ERROR] [1733562039.952432556] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733562039.952495215] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733562039.952506421] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (-1.00, -3.55)
+[WARN] [1733562039.952519073] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733562049.990597970] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[WARN] [1733562050.954205593] [planner_server]: Planner loop missed its desired rate of 20.0000 Hz. Current loop rate is 1.0387 Hz
+[INFO] [1733562102.943416247] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 263 X 249 at 0.050000 m/pix
+[INFO] [1733562114.943532413] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 263 X 249 at 0.050000 m/pix
+[INFO] [1733562124.944517002] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 264 X 249 at 0.050000 m/pix
+[INFO] [1733562136.150806019] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[WARN] [1733562136.953168317] [planner_server]: Planner loop missed its desired rate of 20.0000 Hz. Current loop rate is 1.2488 Hz
+[INFO] [1733562138.943495925] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 263 X 249 at 0.050000 m/pix
+[INFO] [1733562163.943532043] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 264 X 249 at 0.050000 m/pix
+[INFO] [1733562211.943529215] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 290 X 249 at 0.050000 m/pix
+[INFO] [1733562214.943648283] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 290 X 249 at 0.050000 m/pix
+[INFO] [1733562226.943428564] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 292 X 249 at 0.050000 m/pix
+[WARN] [1733562239.266156279] [planner_server]: Planner loop missed its desired rate of 20.0000 Hz. Current loop rate is 4.8803 Hz
+[INFO] [1733562242.943436482] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 295 X 249 at 0.050000 m/pix
+[INFO] [1733562259.373201706] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[WARN] [1733562259.954908270] [planner_server]: Planner loop missed its desired rate of 20.0000 Hz. Current loop rate is 1.7224 Hz
+[INFO] [1733562325.381335290] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[WARN] [1733562325.953092151] [planner_server]: Planner loop missed its desired rate of 20.0000 Hz. Current loop rate is 1.7509 Hz
+[ERROR] [1733562344.463034883] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733562344.463107783] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733562344.463120909] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (-3.38, -0.28)
+[WARN] [1733562344.463131332] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733562344.480596154] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[ERROR] [1733562344.954898136] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733562344.955015347] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733562344.955035392] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (-3.38, -0.28)
+[WARN] [1733562344.955049700] [planner_server]: [compute_path_to_pose] [ActionServer] Client requested to cancel the goal. Cancelling.
+[INFO] [1733562367.943426352] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 295 X 249 at 0.050000 m/pix
+[INFO] [1733562372.943511634] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 296 X 249 at 0.050000 m/pix
+[INFO] [1733562380.943504500] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 300 X 249 at 0.050000 m/pix
+[INFO] [1733562406.788121250] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[WARN] [1733562406.949995455] [planner_server]: Planner loop missed its desired rate of 20.0000 Hz. Current loop rate is 6.2161 Hz
+[INFO] [1733562424.943671732] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 295 X 249 at 0.050000 m/pix
+[WARN] [1733562428.384136005] [planner_server]: Planner loop missed its desired rate of 20.0000 Hz. Current loop rate is 19.3441 Hz
+[INFO] [1733562433.945483646] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 295 X 249 at 0.050000 m/pix
+[INFO] [1733562439.943431125] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 309 X 249 at 0.050000 m/pix
+[INFO] [1733562455.944667627] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 317 X 249 at 0.050000 m/pix
+[INFO] [1733562459.943527274] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 338 X 249 at 0.050000 m/pix
+[INFO] [1733562462.943505835] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 338 X 249 at 0.050000 m/pix
+[ERROR] [1733562467.743580453] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733562467.743639563] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733562467.743655315] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (-4.32, 1.00)
+[WARN] [1733562467.743667311] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733562467.761467925] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[ERROR] [1733562467.953768226] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733562467.953861707] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733562467.953876772] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (-4.32, 1.00)
+[WARN] [1733562467.953888572] [planner_server]: [compute_path_to_pose] [ActionServer] Client requested to cancel the goal. Cancelling.
+[INFO] [1733562477.878130391] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[ERROR] [1733562477.951878810] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733562477.951942552] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733562477.951954894] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (-4.32, 1.00)
+[WARN] [1733562477.951967640] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733562477.966846828] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[ERROR] [1733562478.948624690] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733562478.948706559] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733562478.948719995] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (-4.32, 1.00)
+[WARN] [1733562478.948732570] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733562491.943432771] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 339 X 249 at 0.050000 m/pix
+[INFO] [1733562494.943503792] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 344 X 249 at 0.050000 m/pix
+[ERROR] [1733562499.158294518] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733562499.158372952] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733562499.158386065] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (-4.32, 1.00)
+[WARN] [1733562499.158431354] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733562499.176641306] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[ERROR] [1733562499.949183602] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733562499.949231859] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733562499.949243583] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (-4.32, 1.00)
+[WARN] [1733562499.949256303] [planner_server]: [compute_path_to_pose] [ActionServer] Client requested to cancel the goal. Cancelling.
+[ERROR] [1733562503.551642969] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733562503.551969400] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733562503.551991038] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (-4.32, 1.00)
+[WARN] [1733562503.552009507] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733562503.568325524] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[INFO] [1733562503.671713004] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[ERROR] [1733562503.951617931] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733562503.951732889] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733562503.951765017] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (-4.32, 1.00)
+[WARN] [1733562503.951792569] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733562503.973151143] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[WARN] [1733562504.958308142] [planner_server]: Planner loop missed its desired rate of 20.0000 Hz. Current loop rate is 1.0179 Hz
+[INFO] [1733562535.943413951] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 345 X 249 at 0.050000 m/pix
+[INFO] [1733562546.943469405] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 344 X 249 at 0.050000 m/pix
+[INFO] [1733562550.944759659] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 346 X 249 at 0.050000 m/pix
+[INFO] [1733562555.943427124] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 346 X 249 at 0.050000 m/pix
+[WARN] [1733562561.571123677] [planner_server]: Planner loop missed its desired rate of 20.0000 Hz. Current loop rate is 13.6478 Hz
+[INFO] [1733562561.943484239] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 346 X 249 at 0.050000 m/pix
+[INFO] [1733562569.943572102] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 346 X 249 at 0.050000 m/pix
+[INFO] [1733562591.769073208] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[WARN] [1733562591.954897387] [planner_server]: Planner loop missed its desired rate of 20.0000 Hz. Current loop rate is 5.5239 Hz
+[WARN] [1733562597.291118171] [planner_server]: Planner loop missed its desired rate of 20.0000 Hz. Current loop rate is 5.1585 Hz
+[INFO] [1733562626.943423500] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 354 X 249 at 0.050000 m/pix
+[INFO] [1733562643.943428554] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 354 X 249 at 0.050000 m/pix
+[INFO] [1733562675.148197219] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[WARN] [1733562675.952147043] [planner_server]: Planner loop missed its desired rate of 20.0000 Hz. Current loop rate is 1.2467 Hz
+[INFO] [1733562708.944180754] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 354 X 249 at 0.050000 m/pix
+[INFO] [1733562711.943451240] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 368 X 249 at 0.050000 m/pix
+[INFO] [1733562713.943656976] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 367 X 249 at 0.050000 m/pix
+[INFO] [1733562716.943534106] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 374 X 249 at 0.050000 m/pix
+[INFO] [1733562741.387489825] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[WARN] [1733562741.950020481] [planner_server]: Planner loop missed its desired rate of 20.0000 Hz. Current loop rate is 1.7794 Hz
+[ERROR] [1733562756.669483175] [transformPoseInTargetFrame]: Extrapolation Error looking up target frame: Lookup would require extrapolation into the past.  Requested time 242.731000 but the earliest data is at time 242.817000, when looking up transform from frame [base_link] to frame [map]
+
+[WARN] [1733562756.669521800] [planner_server]: Could not transform the start or goal pose in the costmap frame
+[WARN] [1733562756.669554229] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733562756.686998344] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[ERROR] [1733562757.253637416] [transformPoseInTargetFrame]: Extrapolation Error looking up target frame: Lookup would require extrapolation into the past.  Requested time 242.731000 but the earliest data is at time 242.740000, when looking up transform from frame [base_link] to frame [map]
+
+[WARN] [1733562757.253691863] [planner_server]: Could not transform the start or goal pose in the costmap frame
+[WARN] [1733562757.253735478] [planner_server]: [compute_path_to_pose] [ActionServer] Client requested to cancel the goal. Cancelling.
+[ERROR] [1733562794.886065244] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733562794.886126997] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733562794.886139609] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (-6.12, -0.21)
+[WARN] [1733562794.886152607] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733562794.901143929] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[ERROR] [1733562794.953839526] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733562794.953893183] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733562794.953905094] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (-6.12, -0.21)
+[WARN] [1733562794.953917231] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[ERROR] [1733562810.024209308] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733562810.024916549] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733562810.024961996] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (-6.12, -0.21)
+[WARN] [1733562810.024973067] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733562810.040953402] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[ERROR] [1733562810.953583899] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733562810.953647656] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733562810.953659405] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (-6.12, -0.21)
+[WARN] [1733562810.953671058] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733562820.991744299] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[ERROR] [1733562821.954473195] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733562821.954776402] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733562821.954797515] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (-7.01, 0.48)
+[WARN] [1733562821.954810862] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733562821.970959837] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[ERROR] [1733562822.954844363] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733562822.954971000] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733562822.954994012] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (-7.01, 0.48)
+[WARN] [1733562822.955012223] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733562828.943488115] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 373 X 249 at 0.050000 m/pix
+[INFO] [1733562830.943529772] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 373 X 249 at 0.050000 m/pix
+[ERROR] [1733562838.007133313] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733562838.007930720] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733562838.007964018] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (-7.80, -1.51)
+[WARN] [1733562838.007989143] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733562838.021049805] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[ERROR] [1733562838.960046370] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733562838.960107599] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733562838.960121696] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (-7.80, -1.51)
+[WARN] [1733562838.960134082] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[ERROR] [1733562840.207513338] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733562840.207573316] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733562840.207588509] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (-7.80, -1.51)
+[WARN] [1733562840.207600617] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733562840.222029801] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[ERROR] [1733562840.962188081] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733562840.962268300] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733562840.962284569] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (-7.80, -1.51)
+[WARN] [1733562840.962306503] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733562840.981558210] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[ERROR] [1733562841.955449728] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733562841.955552727] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733562841.955570378] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (-7.74, -0.17)
+[WARN] [1733562841.955583526] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733562841.971698371] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[ERROR] [1733562842.954561146] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733562842.954724049] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733562842.954757971] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (-7.74, -0.17)
+[WARN] [1733562842.954783581] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[ERROR] [1733562858.023989369] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733562858.024083055] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733562858.024100885] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (-7.74, -0.17)
+[WARN] [1733562858.024124094] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733562858.032819332] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[ERROR] [1733562858.955382798] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733562858.955448313] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733562858.955462674] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (-7.74, -0.17)
+[WARN] [1733562858.955475653] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[WARN] [1733562881.252532523] [planner_server]: Planner loop missed its desired rate of 20.0000 Hz. Current loop rate is 5.5126 Hz
+[INFO] [1733562899.943444387] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 373 X 249 at 0.050000 m/pix
+[INFO] [1733562915.943520075] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 373 X 249 at 0.050000 m/pix
+[ERROR] [1733562918.448900721] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733562918.451005559] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733562918.451026615] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (-8.08, -0.11)
+[WARN] [1733562918.451039993] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733562918.467146399] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[INFO] [1733562918.580151209] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[ERROR] [1733562918.953030912] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733562918.953075969] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733562918.953088147] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (-8.08, -0.11)
+[WARN] [1733562918.953099998] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733562918.982184416] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[ERROR] [1733562919.955906285] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733562919.956147611] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733562919.956200710] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (-8.08, -0.11)
+[WARN] [1733562919.956240264] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733562921.943486210] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 375 X 249 at 0.050000 m/pix
+[INFO] [1733562942.943419251] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 390 X 249 at 0.050000 m/pix
+[INFO] [1733562947.943456431] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 390 X 249 at 0.050000 m/pix
+[INFO] [1733562950.943436874] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 390 X 249 at 0.050000 m/pix
+[ERROR] [1733562956.414780375] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733562956.414894764] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733562956.414911302] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (-8.18, -0.51)
+[WARN] [1733562956.414924870] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733562956.432066544] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[ERROR] [1733562956.954484603] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733562956.954587282] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733562956.954606018] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (-8.18, -0.51)
+[WARN] [1733562956.954625069] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733562956.972403705] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[ERROR] [1733562957.955259476] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733562957.955313193] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733562957.955327439] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (-8.18, -0.51)
+[WARN] [1733562957.955341286] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733562957.972043671] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[ERROR] [1733562958.954544690] [planner_server]: Failed to create a plan from potential when a legal potential was found. This shouldn't happen.
+[WARN] [1733562958.954638255] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733562958.954655936] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (-8.18, -0.51)
+[WARN] [1733562958.954670841] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733562967.943462716] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 393 X 249 at 0.050000 m/pix
+[INFO] [1733562989.943524112] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 392 X 249 at 0.050000 m/pix
+[WARN] [1733562997.431493321] [planner_server]: Planner loop missed its desired rate of 20.0000 Hz. Current loop rate is 18.8958 Hz
+[INFO] [1733563000.943427860] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 392 X 249 at 0.050000 m/pix
+[INFO] [1733563006.943455484] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 394 X 249 at 0.050000 m/pix
+[WARN] [1733563014.940106331] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733563014.940162944] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (-7.83, -0.03)
+[WARN] [1733563014.940178182] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733563014.958214127] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[WARN] [1733563015.950266057] [planner_server]: Planner loop missed its desired rate of 20.0000 Hz. Current loop rate is 1.0087 Hz
+[INFO] [1733563036.752288005] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[WARN] [1733563036.948982254] [planner_server]: Planner loop missed its desired rate of 20.0000 Hz. Current loop rate is 5.2311 Hz
+[INFO] [1733563066.943517318] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 395 X 249 at 0.050000 m/pix
+[INFO] [1733563084.943492428] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 392 X 249 at 0.050000 m/pix
+[INFO] [1733563087.943419192] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 392 X 249 at 0.050000 m/pix
+[INFO] [1733563095.501150114] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[WARN] [1733563095.957693342] [planner_server]: Planner loop missed its desired rate of 20.0000 Hz. Current loop rate is 2.1942 Hz
+[WARN] [1733563101.116400906] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733563101.116940976] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (-7.54, 0.73)
+[WARN] [1733563101.116959950] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733563101.129920835] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[WARN] [1733563101.968270100] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733563101.968397057] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (-7.54, 0.73)
+[WARN] [1733563101.968417212] [planner_server]: [compute_path_to_pose] [ActionServer] Client requested to cancel the goal. Cancelling.
+[WARN] [1733563116.292642597] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733563116.292724923] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (-7.54, 0.73)
+[WARN] [1733563116.292741904] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733563116.304013598] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[WARN] [1733563116.960675198] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733563116.960753263] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (-7.54, 0.73)
+[WARN] [1733563116.960769912] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733563126.985204784] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[WARN] [1733563127.962994019] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733563127.963173573] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (-7.45, 0.60)
+[WARN] [1733563127.963199537] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733563127.967793701] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[WARN] [1733563128.957213110] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733563128.957750736] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (-7.45, 0.60)
+[WARN] [1733563128.958033775] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[WARN] [1733563143.454815451] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733563143.454969422] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (-8.02, -0.31)
+[WARN] [1733563143.455010809] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733563143.468337401] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[WARN] [1733563143.963637400] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733563143.963722744] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (-8.02, -0.31)
+[WARN] [1733563143.963738961] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[WARN] [1733563159.032673767] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733563159.032934513] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (-8.02, -0.31)
+[WARN] [1733563159.032975980] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733563159.048757122] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[WARN] [1733563159.955832868] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733563159.956568168] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (-8.02, -0.31)
+[WARN] [1733563159.956906222] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733563169.999289638] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[WARN] [1733563170.955592949] [planner_server]: Planner loop missed its desired rate of 20.0000 Hz. Current loop rate is 1.0468 Hz
+[INFO] [1733563210.943528248] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 392 X 249 at 0.050000 m/pix
+[WARN] [1733563236.979253624] [planner_server]: GridBased: failed to create plan with tolerance 0.50.
+[WARN] [1733563236.979347906] [planner_server]: Planning algorithm GridBased failed to generate a valid path to (-6.68, 0.60)
+[WARN] [1733563236.979366019] [planner_server]: [compute_path_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733563236.998233153] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[WARN] [1733563237.952035937] [planner_server]: Planner loop missed its desired rate of 20.0000 Hz. Current loop rate is 1.0499 Hz
+[INFO] [1733563239.943627714] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 392 X 249 at 0.050000 m/pix
+[INFO] [1733563258.156120474] [global_costmap.global_costmap]: Received request to clear entirely the global_costmap
+[WARN] [1733563258.954351587] [planner_server]: Planner loop missed its desired rate of 20.0000 Hz. Current loop rate is 1.2804 Hz
+[INFO] [1733563266.494034151] [rclcpp]: signal_handler(signum=2)
+[INFO] [1733563266.494105442] [planner_server]: Running Nav2 LifecycleNode rcl preshutdown (planner_server)
+[INFO] [1733563266.494169840] [planner_server]: Deactivating
+[INFO] [1733563266.494194540] [global_costmap.global_costmap]: Deactivating
+[INFO] [1733563266.943487779] [planner_server]: Deactivating plugin GridBased of type NavfnPlanner
+[INFO] [1733563266.943549115] [planner_server]: Destroying bond (planner_server) to lifecycle manager.
+[INFO] [1733563266.943604587] [planner_server]: Cleaning up
+[INFO] [1733563266.962588074] [global_costmap.global_costmap]: Cleaning up
+[INFO] [1733563266.972639104] [planner_server]: Cleaning up plugin GridBased of type NavfnPlanner
+[INFO] [1733563266.973220702] [planner_server]: Destroying plugin GridBased of type NavfnPlanner
+[INFO] [1733563266.983991100] [planner_server]: Destroying bond (planner_server) to lifecycle manager.

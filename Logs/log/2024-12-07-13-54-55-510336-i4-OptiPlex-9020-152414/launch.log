@@ -1,0 +1,19 @@
+1733559895.5114386 [INFO] [launch]: All log files can be found below /home/abc/.ros/log/2024-12-07-13-54-55-510336-i4-OptiPlex-9020-152414
+1733559895.5116065 [INFO] [launch]: Default logging verbosity is set to INFO
+1733559896.0950584 [INFO] [controller_server-1]: process started with pid [152432]
+1733559896.0953672 [INFO] [smoother_server-2]: process started with pid [152434]
+1733559896.0956428 [INFO] [planner_server-3]: process started with pid [152436]
+1733559896.0959036 [INFO] [behavior_server-4]: process started with pid [152447]
+1733559896.0960658 [INFO] [bt_navigator-5]: process started with pid [152450]
+1733559896.0962009 [INFO] [waypoint_follower-6]: process started with pid [152465]
+1733559896.0963383 [INFO] [velocity_smoother-7]: process started with pid [152470]
+1733559896.0965009 [INFO] [lifecycle_manager-8]: process started with pid [152479]
+1733563266.4944251 [WARNING] [launch]: user interrupted with ctrl-c (SIGINT)
+1733563266.7514760 [INFO] [smoother_server-2]: process has finished cleanly [pid 152434]
+1733563266.7547047 [INFO] [waypoint_follower-6]: process has finished cleanly [pid 152465]
+1733563266.7824180 [INFO] [velocity_smoother-7]: process has finished cleanly [pid 152470]
+1733563266.8046384 [INFO] [lifecycle_manager-8]: process has finished cleanly [pid 152479]
+1733563266.8399851 [INFO] [behavior_server-4]: process has finished cleanly [pid 152447]
+1733563266.9718945 [INFO] [controller_server-1]: process has finished cleanly [pid 152432]
+1733563266.9832361 [INFO] [bt_navigator-5]: process has finished cleanly [pid 152450]
+1733563267.1357539 [INFO] [planner_server-3]: process has finished cleanly [pid 152436]

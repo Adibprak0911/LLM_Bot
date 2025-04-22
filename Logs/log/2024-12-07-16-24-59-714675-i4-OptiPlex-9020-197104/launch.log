@@ -1,0 +1,105 @@
+1733568899.7156804 [INFO] [launch]: All log files can be found below /home/abc/.ros/log/2024-12-07-16-24-59-714675-i4-OptiPlex-9020-197104
+1733568899.7158372 [INFO] [launch]: Default logging verbosity is set to INFO
+1733568899.8770566 [INFO] [rtabmap-1]: process started with pid [197105]
+1733568900.3611724 [rtabmap-1] [WARN] [1733568900.360846897] [rtabmap]: Parameter "queue_size" has been renamed to "sync_queue_size" and will be removed in future versions! The value (256) is copied to "sync_queue_size".
+1733568900.3678792 [rtabmap-1] [INFO] [1733568900.367637810] [rtabmap]: rtabmap(maps): latch                      = true
+1733568900.3680279 [rtabmap-1] [INFO] [1733568900.367677564] [rtabmap]: rtabmap(maps): map_filter_radius          = 0.000000
+1733568900.3681118 [rtabmap-1] [INFO] [1733568900.367695458] [rtabmap]: rtabmap(maps): map_filter_angle           = 30.000000
+1733568900.3681810 [rtabmap-1] [INFO] [1733568900.367703001] [rtabmap]: rtabmap(maps): map_cleanup                = true
+1733568900.3684139 [rtabmap-1] [INFO] [1733568900.367708715] [rtabmap]: rtabmap(maps): map_always_update          = true
+1733568900.3686485 [rtabmap-1] [INFO] [1733568900.367714321] [rtabmap]: rtabmap(maps): map_empty_ray_tracing      = true
+1733568900.3687077 [rtabmap-1] [INFO] [1733568900.367719650] [rtabmap]: rtabmap(maps): cloud_output_voxelized     = true
+1733568900.3687572 [rtabmap-1] [INFO] [1733568900.367725152] [rtabmap]: rtabmap(maps): cloud_subtract_filtering   = false
+1733568900.3688061 [rtabmap-1] [INFO] [1733568900.367730486] [rtabmap]: rtabmap(maps): cloud_subtract_filtering_min_neighbors = 2
+1733568900.3688760 [rtabmap-1] [INFO] [1733568900.367747943] [rtabmap]: rtabmap(maps): octomap_tree_depth         = 16
+1733568900.4143205 [rtabmap-1] [INFO] [1733568900.413847804] [rtabmap]: rtabmap: frame_id      = base_link
+1733568900.4152997 [rtabmap-1] [INFO] [1733568900.415150863] [rtabmap]: rtabmap: map_frame_id  = map
+1733568900.4168394 [rtabmap-1] [INFO] [1733568900.416615874] [rtabmap]: rtabmap: log_to_rosout_level  = 4
+1733568900.4172413 [rtabmap-1] [INFO] [1733568900.417123392] [rtabmap]: rtabmap: initial_pose  = 
+1733568900.4176989 [rtabmap-1] [INFO] [1733568900.417586355] [rtabmap]: rtabmap: use_action_for_goal  = false
+1733568900.4179888 [rtabmap-1] [INFO] [1733568900.417890196] [rtabmap]: rtabmap: tf_delay      = 0.050000
+1733568900.4182584 [rtabmap-1] [INFO] [1733568900.418169874] [rtabmap]: rtabmap: tf_tolerance  = 0.100000
+1733568900.4184990 [rtabmap-1] [INFO] [1733568900.418415413] [rtabmap]: rtabmap: odom_sensor_sync   = false
+1733568900.4187424 [rtabmap-1] [INFO] [1733568900.418657513] [rtabmap]: rtabmap: pub_loc_pose_only_when_localizing = false
+1733568900.4192498 [rtabmap-1] [INFO] [1733568900.419092327] [rtabmap]: rtabmap: gen_scan  = true
+1733568900.4196470 [rtabmap-1] [INFO] [1733568900.419533407] [rtabmap]: rtabmap: gen_scan_max_depth  = 4.000000
+1733568900.4201193 [rtabmap-1] [INFO] [1733568900.420021867] [rtabmap]: rtabmap: gen_scan_min_depth  = 0.000000
+1733568900.4203920 [rtabmap-1] [INFO] [1733568900.420302497] [rtabmap]: rtabmap: gen_depth  = false
+1733568900.4748590 [rtabmap-1] [INFO] [1733568900.474499353] [rtabmap]: Update RTAB-Map parameter "Rtabmap/DetectionRate"="5" from arguments
+1733568900.4762866 [rtabmap-1] [WARN] [1733568900.475837273] [rtabmap]: Setting "Grid/Sensor" parameter to 0 (default 1) as "subscribe_scan" or "subscribe_scan_cloud" or "gen_scan" is true. The occupancy grid map will be constructed from laser scans. To get occupancy grid map from cloud projection, set "Grid/Sensor" to true. To suppress this warning, add <param name="Grid/Sensor" type="string" value="0"/>
+1733568900.4777415 [rtabmap-1] [INFO] [1733568900.477411723] [rtabmap]: Setting "Grid/RangeMax" parameter to 0 (default 5.000000) as "subscribe_scan" or "subscribe_scan_cloud" or "gen_scan" is true and Grid/Sensor is 0.
+1733568900.4808819 [rtabmap-1] [INFO] [1733568900.480615806] [rtabmap]: RTAB-Map detection rate = 5.000000 Hz
+1733568900.4815035 [rtabmap-1] [INFO] [1733568900.481337215] [rtabmap]: rtabmap: Using database from "/home/abc/.ros/rtabmap.db" (2012 MB).
+1733568909.6567130 [rtabmap-1] [INFO] [1733568909.655606529] [rtabmap]: rtabmap: 2D occupancy grid map loaded (392x249).
+1733568910.9437330 [rtabmap-1] [INFO] [1733568910.942720630] [rtabmap]: rtabmap: Working Memory = 589, Local map = 589.
+1733568910.9446051 [rtabmap-1] [INFO] [1733568910.943006786] [rtabmap]: rtabmap: Database version = "0.21.6".
+1733568910.9447622 [rtabmap-1] [INFO] [1733568910.943076017] [rtabmap]: rtabmap: SLAM mode (Mem/IncrementalMemory=true)
+1733568910.9822631 [rtabmap-1] [INFO] [1733568910.981970151] [rtabmap]: Setup callbacks
+1733568910.9830840 [rtabmap-1] [INFO] [1733568910.982901746] [rtabmap]: rtabmap: subscribe_depth = true
+1733568910.9835927 [rtabmap-1] [INFO] [1733568910.983447637] [rtabmap]: rtabmap: subscribe_rgb = true
+1733568910.9839799 [rtabmap-1] [INFO] [1733568910.983849250] [rtabmap]: rtabmap: subscribe_stereo = false
+1733568910.9844120 [rtabmap-1] [INFO] [1733568910.984206835] [rtabmap]: rtabmap: subscribe_rgbd = false (rgbd_cameras=1)
+1733568910.9853301 [rtabmap-1] [INFO] [1733568910.985030312] [rtabmap]: rtabmap: subscribe_sensor_data = false
+1733568910.9861586 [rtabmap-1] [INFO] [1733568910.985862635] [rtabmap]: rtabmap: subscribe_odom_info = false
+1733568910.9870777 [rtabmap-1] [INFO] [1733568910.986557855] [rtabmap]: rtabmap: subscribe_user_data = false
+1733568910.9874527 [rtabmap-1] [INFO] [1733568910.987310671] [rtabmap]: rtabmap: subscribe_scan = false
+1733568910.9878876 [rtabmap-1] [INFO] [1733568910.987775463] [rtabmap]: rtabmap: subscribe_scan_cloud = false
+1733568910.9886911 [rtabmap-1] [INFO] [1733568910.988558944] [rtabmap]: rtabmap: subscribe_scan_descriptor = false
+1733568910.9890819 [rtabmap-1] [INFO] [1733568910.988966042] [rtabmap]: rtabmap: topic_queue_size = 1
+1733568910.9893849 [rtabmap-1] [INFO] [1733568910.989277509] [rtabmap]: rtabmap: sync_queue_size  = 256
+1733568910.9897077 [rtabmap-1] [INFO] [1733568910.989573632] [rtabmap]: rtabmap: qos_image       = 0
+1733568910.9900680 [rtabmap-1] [INFO] [1733568910.989891103] [rtabmap]: rtabmap: qos_camera_info = 0
+1733568910.9903939 [rtabmap-1] [INFO] [1733568910.990289636] [rtabmap]: rtabmap: qos_scan        = 0
+1733568910.9906623 [rtabmap-1] [INFO] [1733568910.990565010] [rtabmap]: rtabmap: qos_odom        = 0
+1733568910.9909239 [rtabmap-1] [INFO] [1733568910.990828348] [rtabmap]: rtabmap: qos_user_data   = 0
+1733568910.9926164 [rtabmap-1] [INFO] [1733568910.991108764] [rtabmap]: rtabmap: approx_sync     = true
+1733568910.9927347 [rtabmap-1] [INFO] [1733568910.991139458] [rtabmap]: Setup depth callback
+1733568910.9999940 [rtabmap-1] [INFO] [1733568910.999743980] [rtabmap]: 
+1733568911.0001531 [rtabmap-1] rtabmap subscribed to (approx sync):
+1733568911.0002236 [rtabmap-1]    /odom \
+1733568911.0002773 [rtabmap-1]    /camera \
+1733568911.0003493 [rtabmap-1]    /depth_camera \
+1733568911.0003998 [rtabmap-1]    /rgb_info
+1733568915.4530456 [rtabmap-1] [INFO] [1733568915.452311410] [rtabmap]: rtabmap (1235): Rate=0.20s, Limit=0.000s, Conversion=0.0222s, RTAB-Map=0.6102s, Maps update=0.0271s pub=0.0015s (local map=590, WM=590)
+1733568918.0900755 [rtabmap-1] [INFO] [1733568918.089772814] [rtabmap]: rtabmap (1236): Rate=0.20s, Limit=0.000s, Conversion=0.0049s, RTAB-Map=0.5264s, Maps update=0.0091s pub=0.0005s (local map=590, WM=590)
+1733568921.3779984 [rtabmap-1] [INFO] [1733568921.377223505] [rtabmap]: rtabmap (1237): Rate=0.20s, Limit=0.000s, Conversion=0.0027s, RTAB-Map=0.1863s, Maps update=0.0032s pub=0.0015s (local map=590, WM=590)
+1733568924.1086268 [rtabmap-1] [INFO] [1733568924.108336681] [rtabmap]: rtabmap (1238): Rate=0.20s, Limit=0.000s, Conversion=0.0067s, RTAB-Map=0.1180s, Maps update=0.0105s pub=0.0010s (local map=590, WM=590)
+1733568928.9134390 [rtabmap-1] [WARN] [1733568928.912888721] [rtabmap]: We received odometry message, but we cannot get the corresponding TF firebird_vi/odom->base_link at data stamp 0.991000s (odom msg stamp is 1.000000s). Make sure TF of odometry is also published to get more accurate pose estimation. This warning is only printed once.
+1733568929.0338416 [rtabmap-1] [ERROR] [1733568929.030221268] [rtabmap]: Odometry received doesn't have same frame_id than the one previously set (old=odom, new=firebird_vi/odom). Are there multiple nodes publishing on same odometry topic name? The new frame_id is now used.
+1733568929.0362256 [rtabmap-1] [INFO] [1733568929.035960770] [rtabmap]: rtabmap (1239): Rate=0.20s, Limit=0.000s, Conversion=0.0020s, RTAB-Map=0.1151s, Maps update=0.0051s pub=0.0006s (local map=590, WM=590)
+1733568929.8809266 [rtabmap-1] [ERROR] [1733568929.880633590] [rtabmap]: Odometry received doesn't have same frame_id than the one previously set (old=firebird_vi/odom, new=odom). Are there multiple nodes publishing on same odometry topic name? The new frame_id is now used.
+1733568929.8932338 [rtabmap-1] [INFO] [1733568929.892841826] [rtabmap]: rtabmap (1240): Rate=0.20s, Limit=0.000s, Conversion=0.0102s, RTAB-Map=0.6153s, Maps update=0.0115s pub=0.0006s (local map=590, WM=590)
+1733568933.1648419 [rtabmap-1] [INFO] [1733568933.164332438] [rtabmap]: rtabmap (1241): Rate=0.20s, Limit=0.000s, Conversion=0.0066s, RTAB-Map=0.8112s, Maps update=0.0063s pub=0.0016s (local map=590, WM=590)
+1733568935.5977352 [rtabmap-1] [INFO] [1733568935.597389258] [rtabmap]: rtabmap (1242): Rate=0.20s, Limit=0.000s, Conversion=0.0132s, RTAB-Map=0.1467s, Maps update=0.0025s pub=0.0027s (local map=590, WM=590)
+1733568938.3160708 [rtabmap-1] [INFO] [1733568938.315282153] [rtabmap]: rtabmap (1243): Rate=0.20s, Limit=0.000s, Conversion=0.0037s, RTAB-Map=0.1544s, Maps update=0.0095s pub=0.0010s (local map=590, WM=590)
+1733568941.7456384 [rtabmap-1] [INFO] [1733568941.744790589] [rtabmap]: rtabmap (1244): Rate=0.20s, Limit=0.000s, Conversion=0.0017s, RTAB-Map=0.2217s, Maps update=0.0241s pub=0.0005s (local map=590, WM=590)
+1733568945.2969346 [rtabmap-1] [INFO] [1733568945.296575398] [rtabmap]: rtabmap (1245): Rate=0.20s, Limit=0.000s, Conversion=0.0041s, RTAB-Map=0.5781s, Maps update=0.0059s pub=0.0017s (local map=590, WM=590)
+1733568947.5033092 [rtabmap-1] [INFO] [1733568947.503016071] [rtabmap]: rtabmap (1246): Rate=0.20s, Limit=0.000s, Conversion=0.0037s, RTAB-Map=0.1249s, Maps update=0.0042s pub=0.0010s (local map=590, WM=590)
+1733568950.3893049 [rtabmap-1] [INFO] [1733568950.389049077] [rtabmap]: rtabmap (1247): Rate=0.20s, Limit=0.000s, Conversion=0.0097s, RTAB-Map=0.1509s, Maps update=0.0115s pub=0.0005s (local map=590, WM=590)
+1733568953.1165621 [rtabmap-1] [INFO] [1733568953.116276241] [rtabmap]: rtabmap (1248): Rate=0.20s, Limit=0.000s, Conversion=0.0047s, RTAB-Map=0.1340s, Maps update=0.0100s pub=0.0006s (local map=590, WM=590)
+1733568955.8200543 [rtabmap-1] [INFO] [1733568955.819733889] [rtabmap]: rtabmap (1249): Rate=0.20s, Limit=0.000s, Conversion=0.0037s, RTAB-Map=0.1211s, Maps update=0.0036s pub=0.0007s (local map=590, WM=590)
+1733568959.7797906 [rtabmap-1] [INFO] [1733568959.778866616] [rtabmap]: rtabmap (1250): Rate=0.20s, Limit=0.000s, Conversion=0.0018s, RTAB-Map=0.1564s, Maps update=0.0022s pub=0.0004s (local map=590, WM=590)
+1733568963.0986872 [rtabmap-1] [INFO] [1733568963.098011531] [rtabmap]: rtabmap (1251): Rate=0.20s, Limit=0.000s, Conversion=0.0054s, RTAB-Map=0.1344s, Maps update=0.0024s pub=0.0012s (local map=590, WM=590)
+1733568968.5994124 [rtabmap-1] [INFO] [1733568968.598440980] [rtabmap]: rtabmap (1252): Rate=0.20s, Limit=0.000s, Conversion=0.0026s, RTAB-Map=0.7372s, Maps update=0.0866s pub=0.0006s (local map=591, WM=591)
+1733568971.5125041 [rtabmap-1] [INFO] [1733568971.512218852] [rtabmap]: rtabmap (1253): Rate=0.20s, Limit=0.000s, Conversion=0.0045s, RTAB-Map=0.8296s, Maps update=0.0804s pub=0.0006s (local map=592, WM=592)
+1733568975.1063864 [rtabmap-1] [INFO] [1733568975.106002080] [rtabmap]: rtabmap (1254): Rate=0.20s, Limit=0.000s, Conversion=0.0020s, RTAB-Map=0.8807s, Maps update=0.0685s pub=0.0011s (local map=593, WM=593)
+1733568978.4611661 [rtabmap-1] [INFO] [1733568978.460903008] [rtabmap]: rtabmap (1255): Rate=0.20s, Limit=0.000s, Conversion=0.0022s, RTAB-Map=0.6806s, Maps update=0.0581s pub=0.0005s (local map=594, WM=594)
+1733568978.9648759 [WARNING] [launch]: user interrupted with ctrl-c (SIGINT)
+1733568978.9675682 [rtabmap-1] [INFO] [1733568978.963689317] [rclcpp]: signal_handler(signum=2)
+1733568978.9706359 [rtabmap-1] [INFO] [1733568978.968266960] [rtabmap]: Parameters are not saved (No configuration file provided...)
+1733568982.1960678 [rtabmap-1] [33m[ WARN] (2024-12-07 16:25:10.532) MapsManager.cpp:286::set2DMap() Local occupancy grid doesn't exist for node 792[0m
+1733568982.1961875 [rtabmap-1] [33m[ WARN] (2024-12-07 16:25:10.532) MapsManager.cpp:286::set2DMap() Local occupancy grid doesn't exist for node 793[0m
+1733568982.1962347 [rtabmap-1] [33m[ WARN] (2024-12-07 16:25:10.942) MapsManager.cpp:286::set2DMap() Local occupancy grid doesn't exist for node 1233[0m
+1733568982.1962698 [rtabmap-1] [33m[ WARN] (2024-12-07 16:25:15.449) MapsManager.cpp:528::updateMapCaches() Occupancy grid for location 792 should be added to global map (e..g, a ROS node is subscribed to any occupancy grid output) but it cannot be found in memory. For convenience, the occupancy grid is regenerated. Make sure parameter "RGBD/CreateOccupancyGrid" is true to avoid this warning for the next locations added to map. For older locations already in database without an occupancy grid map, you can use the "rtabmap-databaseViewer" to regenerate the missing occupancy grid maps and save them back in the database for next sessions. This warning is only shown once.[0m
+1733568982.1963036 [rtabmap-1] [33m[ WARN] (2024-12-07 16:25:15.449) SensorData.cpp:762::uncompressDataConst() Requested laser scan data, but the sensor data (792) doesn't have laser scan.[0m
+1733568982.1963336 [rtabmap-1] [33m[ WARN] (2024-12-07 16:25:15.449) LocalGridMaker.cpp:284::createLocalMap() Cannot create local map from scan: scan is empty (node=792, Grid/Sensor=0).[0m
+1733568982.1963632 [rtabmap-1] [33m[ WARN] (2024-12-07 16:25:15.449) SensorData.cpp:762::uncompressDataConst() Requested laser scan data, but the sensor data (793) doesn't have laser scan.[0m
+1733568982.1963913 [rtabmap-1] [33m[ WARN] (2024-12-07 16:25:15.449) LocalGridMaker.cpp:284::createLocalMap() Cannot create local map from scan: scan is empty (node=793, Grid/Sensor=0).[0m
+1733568982.1964211 [rtabmap-1] [33m[ WARN] (2024-12-07 16:25:15.450) SensorData.cpp:762::uncompressDataConst() Requested laser scan data, but the sensor data (1233) doesn't have laser scan.[0m
+1733568982.1964691 [rtabmap-1] [33m[ WARN] (2024-12-07 16:25:15.450) LocalGridMaker.cpp:284::createLocalMap() Cannot create local map from scan: scan is empty (node=1233, Grid/Sensor=0).[0m
+1733568982.1965010 [rtabmap-1] [33m[ WARN] (2024-12-07 16:25:28.912) MsgConversion.cpp:1994::getTransform() (can transform firebird_vi/odom -> base_link?) Invalid frame ID "firebird_vi/odom" passed to canTransform argument target_frame - frame does not exist. canTransform returned after 0.2 timeout was 0.2. (wait_for_transform=0.200000)[0m
+1733568982.1965368 [rtabmap-1] [33m[ WARN] (2024-12-07 16:26:07.503) MsgConversion.cpp:1994::getTransform() (can transform firebird_vi/odom -> base_link?) Lookup would require extrapolation into the future.  Requested time 3.994000 but the latest data is at time 1.385000, when looking up transform from frame [base_link] to frame [firebird_vi/odom]. canTransform returned after 0.2 timeout was 0.2. (wait_for_transform=0.200000)[0m
+1733568982.1965704 [rtabmap-1] rtabmap: Saving database/long-term memory... (located at /home/abc/.ros/rtabmap.db)
+1733568982.1966009 [rtabmap-1] rtabmap: 2D occupancy grid map saved.
+1733568982.1966290 [rtabmap-1] rtabmap: Saving database/long-term memory...done! (located at /home/abc/.ros/rtabmap.db, 2037 MB)
+1733568982.2498965 [INFO] [rtabmap-1]: process has finished cleanly [pid 197105]

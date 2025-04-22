@@ -1,0 +1,162 @@
+[INFO] [1733549553.690717973] [rviz2]: Stereo is NOT SUPPORTED
+[INFO] [1733549553.691405522] [rviz2]: OpenGl version: 4.6 (GLSL 4.6)
+[INFO] [1733549553.720107279] [rviz2]: Stereo is NOT SUPPORTED
+[INFO] [1733549572.477828345] [rviz2]: Trying to create a map of size 100 x 110 using 1 swatches
+[ERROR] [1733549572.482843588] [rviz2]: Vertex Program:rviz/glsl120/indexed_8bit_image.vert Fragment Program:rviz/glsl120/indexed_8bit_image.frag GLSL link result : 
+active samplers with a different type refer to the same texture image unit
+[INFO] [1733549615.620046623] [rviz2]: Trying to create a map of size 101 x 110 using 1 swatches
+[INFO] [1733549681.525624111] [rviz2]: Message Filter dropping message: frame 'map' at time 0.067 for reason 'the timestamp on the message is earlier than all the data in the transform cache'
+[INFO] [1733549683.539539782] [rviz2]: Trying to create a map of size 102 x 110 using 1 swatches
+[INFO] [1733549704.536318089] [rviz2]: Trying to create a map of size 115 x 111 using 1 swatches
+[INFO] [1733549713.593554760] [rviz2]: Setting goal pose: Frame:base_link, Position(2.35922, 0.716293, 0), Orientation(0, 0, 0.132568, 0.991174) = Angle: 0.265918
+[INFO] [1733549725.261361765] [rviz2]: Trying to create a map of size 115 x 116 using 1 swatches
+[INFO] [1733549727.950343270] [rviz2]: Trying to create a map of size 115 x 127 using 1 swatches
+[INFO] [1733549733.080950527] [rviz2]: Trying to create a map of size 117 x 128 using 1 swatches
+[INFO] [1733549738.314253654] [rviz2]: Trying to create a map of size 117 x 129 using 1 swatches
+[INFO] [1733549741.084372582] [rviz2]: Trying to create a map of size 115 x 119 using 1 swatches
+[INFO] [1733549757.988898474] [rviz2]: Setting goal pose: Frame:base_link, Position(0.660572, -0.732276, 0), Orientation(0, 0, -0.284187, 0.958769) = Angle: -0.576317
+[INFO] [1733549768.622485669] [rviz2]: Trying to create a map of size 115 x 120 using 1 swatches
+[INFO] [1733549772.149048560] [rviz2]: Trying to create a map of size 116 x 120 using 1 swatches
+[INFO] [1733549774.661787282] [rviz2]: Trying to create a map of size 127 x 120 using 1 swatches
+[INFO] [1733549777.434750031] [rviz2]: Trying to create a map of size 140 x 120 using 1 swatches
+[INFO] [1733549782.668057530] [rviz2]: Trying to create a map of size 140 x 124 using 1 swatches
+[INFO] [1733549791.138678553] [rviz2]: Trying to create a map of size 148 x 124 using 1 swatches
+[INFO] [1733549799.397648189] [rviz2]: Trying to create a map of size 148 x 129 using 1 swatches
+[INFO] [1733549802.185265530] [rviz2]: Trying to create a map of size 148 x 135 using 1 swatches
+[INFO] [1733549812.759972591] [rviz2]: Trying to create a map of size 148 x 136 using 1 swatches
+[INFO] [1733549856.324662165] [rviz2]: Trying to create a map of size 149 x 136 using 1 swatches
+[INFO] [1733549859.051297298] [rviz2]: Trying to create a map of size 165 x 136 using 1 swatches
+[INFO] [1733549869.341698470] [rviz2]: Trying to create a map of size 165 x 137 using 1 swatches
+[INFO] [1733549872.196534318] [rviz2]: Trying to create a map of size 165 x 144 using 1 swatches
+[INFO] [1733549876.800828915] [rviz2]: Trying to create a map of size 165 x 145 using 1 swatches
+[INFO] [1733549877.697667246] [rviz2]: Trying to create a map of size 164 x 145 using 1 swatches
+[INFO] [1733549918.452610377] [rviz2]: Setting goal pose: Frame:base_link, Position(3.13561, 1.12721, 0), Orientation(0, 0, 0.240711, 0.970597) = Angle: 0.486198
+[INFO] [1733549959.875289136] [rviz2]: Trying to create a map of size 167 x 145 using 1 swatches
+[INFO] [1733549970.353080568] [rviz2]: Trying to create a map of size 169 x 145 using 1 swatches
+[INFO] [1733549982.209525362] [rviz2]: Trying to create a map of size 169 x 155 using 1 swatches
+[INFO] [1733549993.248716130] [rviz2]: Trying to create a map of size 170 x 155 using 1 swatches
+[INFO] [1733549995.797430533] [rviz2]: Trying to create a map of size 171 x 155 using 1 swatches
+[INFO] [1733550001.505328970] [rviz2]: Trying to create a map of size 173 x 155 using 1 swatches
+[INFO] [1733550004.465871482] [rviz2]: Trying to create a map of size 174 x 155 using 1 swatches
+[INFO] [1733550007.088350326] [rviz2]: Trying to create a map of size 175 x 155 using 1 swatches
+[INFO] [1733550012.457087511] [rviz2]: Trying to create a map of size 174 x 155 using 1 swatches
+[INFO] [1733550014.361882064] [rviz2]: Setting goal pose: Frame:base_link, Position(2.75186, 1.05934, 0), Orientation(0, 0, 0.161432, 0.986884) = Angle: 0.324283
+[INFO] [1733550020.276549145] [rviz2]: Trying to create a map of size 175 x 155 using 1 swatches
+[INFO] [1733550025.172373612] [rviz2]: Trying to create a map of size 176 x 155 using 1 swatches
+[INFO] [1733550026.251878700] [rviz2]: Trying to create a map of size 177 x 155 using 1 swatches
+[INFO] [1733550028.410290075] [rviz2]: Trying to create a map of size 178 x 155 using 1 swatches
+[INFO] [1733550031.831980848] [rviz2]: Trying to create a map of size 180 x 155 using 1 swatches
+[INFO] [1733550036.457613436] [rviz2]: Trying to create a map of size 181 x 155 using 1 swatches
+[INFO] [1733550041.653374176] [rviz2]: Trying to create a map of size 182 x 155 using 1 swatches
+[INFO] [1733550049.889292437] [rviz2]: Trying to create a map of size 182 x 156 using 1 swatches
+[INFO] [1733550057.951507183] [rviz2]: Trying to create a map of size 203 x 156 using 1 swatches
+[INFO] [1733550091.147950104] [rviz2]: Trying to create a map of size 204 x 156 using 1 swatches
+[INFO] [1733550113.384582793] [rviz2]: Trying to create a map of size 204 x 157 using 1 swatches
+[INFO] [1733550116.010203510] [rviz2]: Trying to create a map of size 204 x 158 using 1 swatches
+[INFO] [1733550211.009809635] [rviz2]: Setting goal pose: Frame:base_link, Position(2.17884, -1.4576, 0), Orientation(0, 0, -0.355574, 0.934648) = Angle: -0.727057
+[INFO] [1733550296.081654594] [rviz2]: Trying to create a map of size 205 x 158 using 1 swatches
+[INFO] [1733550304.952803115] [rviz2]: Setting goal pose: Frame:base_link, Position(2.2432, -2.64884, 0), Orientation(0, 0, 0.928307, 0.371814) = Angle: 2.37967
+[INFO] [1733550345.155711653] [rviz2]: Trying to create a map of size 206 x 158 using 1 swatches
+[INFO] [1733550496.362963721] [rviz2]: Setting goal pose: Frame:base_link, Position(2.15973, -2.01266, 0), Orientation(0, 0, -0.844949, 0.534846) = Angle: -2.01294
+[INFO] [1733550584.997125646] [rviz2]: Trying to create a map of size 206 x 160 using 1 swatches
+[INFO] [1733550587.685198664] [rviz2]: Trying to create a map of size 206 x 172 using 1 swatches
+[INFO] [1733550598.632692223] [rviz2]: Trying to create a map of size 206 x 173 using 1 swatches
+[INFO] [1733550604.055844338] [rviz2]: Trying to create a map of size 206 x 178 using 1 swatches
+[INFO] [1733550617.715241926] [rviz2]: Trying to create a map of size 206 x 186 using 1 swatches
+[INFO] [1733550632.566308953] [rviz2]: Setting goal pose: Frame:base_link, Position(0.532071, -2.25984, 0), Orientation(0, 0, -0.735659, 0.677352) = Angle: -1.65328
+[INFO] [1733550649.068553646] [rviz2]: Trying to create a map of size 207 x 186 using 1 swatches
+[INFO] [1733550667.636334462] [rviz2]: Trying to create a map of size 207 x 191 using 1 swatches
+[INFO] [1733550702.794249503] [rviz2]: Setting goal pose: Frame:base_link, Position(1.74408, -2.81834, 0), Orientation(0, 0, -0.670403, 0.741997) = Angle: -1.4695
+[INFO] [1733550719.027491975] [rviz2]: Trying to create a map of size 207 x 192 using 1 swatches
+[INFO] [1733550724.490287255] [rviz2]: Trying to create a map of size 207 x 194 using 1 swatches
+[INFO] [1733550742.129228247] [rviz2]: Trying to create a map of size 207 x 196 using 1 swatches
+[INFO] [1733550747.988182361] [rviz2]: Trying to create a map of size 207 x 198 using 1 swatches
+[INFO] [1733550753.480050614] [rviz2]: Trying to create a map of size 207 x 200 using 1 swatches
+[INFO] [1733550759.583453062] [rviz2]: Trying to create a map of size 207 x 199 using 1 swatches
+[INFO] [1733550764.480641814] [rviz2]: Trying to create a map of size 207 x 202 using 1 swatches
+[INFO] [1733550767.274255177] [rviz2]: Trying to create a map of size 207 x 208 using 1 swatches
+[INFO] [1733550779.690882397] [rviz2]: Trying to create a map of size 207 x 207 using 1 swatches
+[INFO] [1733550786.260602113] [rviz2]: Trying to create a map of size 207 x 208 using 1 swatches
+[INFO] [1733550790.514874164] [rviz2]: Trying to create a map of size 207 x 219 using 1 swatches
+[INFO] [1733550823.224721614] [rviz2]: Trying to create a map of size 258 x 219 using 1 swatches
+[INFO] [1733550829.094695211] [rviz2]: Trying to create a map of size 258 x 223 using 1 swatches
+[INFO] [1733550831.782091184] [rviz2]: Trying to create a map of size 207 x 223 using 1 swatches
+[INFO] [1733550860.004777969] [rviz2]: Trying to create a map of size 207 x 224 using 1 swatches
+[INFO] [1733550907.914133097] [rviz2]: Trying to create a map of size 207 x 225 using 1 swatches
+[INFO] [1733550918.571146485] [rviz2]: Trying to create a map of size 207 x 234 using 1 swatches
+[INFO] [1733551047.980058801] [rviz2]: Trying to create a map of size 207 x 236 using 1 swatches
+[INFO] [1733551053.293411473] [rviz2]: Trying to create a map of size 207 x 237 using 1 swatches
+[INFO] [1733551061.043786798] [rviz2]: Trying to create a map of size 207 x 238 using 1 swatches
+[INFO] [1733551071.413153321] [rviz2]: Trying to create a map of size 207 x 237 using 1 swatches
+[INFO] [1733551076.900041511] [rviz2]: Trying to create a map of size 207 x 238 using 1 swatches
+[INFO] [1733551103.286134197] [rviz2]: Trying to create a map of size 207 x 239 using 1 swatches
+[INFO] [1733551557.250667548] [rviz2]: Setting goal pose: Frame:base_link, Position(5.62376, 2.03785, 0), Orientation(0, 0, 0.062124, 0.998068) = Angle: 0.124328
+[INFO] [1733551730.929985220] [rviz2]: Trying to create a map of size 207 x 238 using 1 swatches
+[INFO] [1733551795.142088485] [rviz2]: Trying to create a map of size 208 x 238 using 1 swatches
+[INFO] [1733551800.984603184] [rviz2]: Trying to create a map of size 207 x 238 using 1 swatches
+[INFO] [1733551852.338030245] [rviz2]: Setting goal pose: Frame:base_link, Position(3.19333, 5.46144, 0), Orientation(0, 0, 0.541229, 0.840875) = Angle: 1.1438
+[INFO] [1733551899.731757792] [rviz2]: Setting goal pose: Frame:base_link, Position(4.59908, -2.61345, 0), Orientation(0, 0, -0.333026, 0.942917) = Angle: -0.679023
+[INFO] [1733551944.461258153] [rviz2]: Setting goal pose: Frame:base_link, Position(0.768909, -3.81726, 0), Orientation(0, 0, -0.603696, 0.797215) = Angle: -1.29626
+[INFO] [1733552000.287206391] [rviz2]: Setting goal pose: Frame:base_link, Position(-0.875331, -3.4484, 0), Orientation(0, 0, -0.733584, 0.679599) = Angle: -1.64716
+[INFO] [1733552232.721859354] [rviz2]: Setting goal pose: Frame:base_link, Position(5.82241, 1.46996, 0), Orientation(0, 0, 0.604468, 0.796629) = Angle: 1.2982
+[INFO] [1733552291.757182902] [rviz2]: Setting goal pose: Frame:base_link, Position(3.72713, -1.73282, 0), Orientation(0, 0, -0.0372437, 0.999306) = Angle: -0.0745047
+[INFO] [1733552320.842797894] [rviz2]: Trying to create a map of size 208 x 238 using 1 swatches
+[INFO] [1733552362.234172535] [rviz2]: Trying to create a map of size 213 x 238 using 1 swatches
+[INFO] [1733552372.336736886] [rviz2]: Trying to create a map of size 214 x 238 using 1 swatches
+[INFO] [1733552425.146899596] [rviz2]: Setting goal pose: Frame:base_link, Position(3.597, -1.8951, 0), Orientation(0, 0, -0.147127, 0.989118) = Angle: -0.295326
+[INFO] [1733552439.424272270] [rviz2]: Trying to create a map of size 213 x 238 using 1 swatches
+[INFO] [1733552450.262750444] [rviz2]: Trying to create a map of size 213 x 240 using 1 swatches
+[INFO] [1733552492.652134781] [rviz2]: Setting goal pose: Frame:base_link, Position(3.77954, -1.76605, 0), Orientation(0, 0, 0.199029, 0.979994) = Angle: 0.400734
+[INFO] [1733552510.782087284] [rviz2]: Trying to create a map of size 213 x 241 using 1 swatches
+[INFO] [1733552525.459040586] [rviz2]: Setting goal pose: Frame:base_link, Position(4.23286, -1.51754, 0), Orientation(0, 0, 0.472396, 0.881387) = Angle: 0.984014
+[INFO] [1733552562.793269224] [rviz2]: Setting goal pose: Frame:base_link, Position(1.84344, -3.60676, 0), Orientation(0, 0, 0.444036, 0.896009) = Angle: 0.920197
+[INFO] [1733552570.647547593] [rviz2]: Trying to create a map of size 213 x 242 using 1 swatches
+[INFO] [1733552605.177650485] [rviz2]: Trying to create a map of size 213 x 243 using 1 swatches
+[INFO] [1733552640.708978123] [rviz2]: Trying to create a map of size 214 x 243 using 1 swatches
+[INFO] [1733552661.310679094] [rviz2]: Trying to create a map of size 214 x 245 using 1 swatches
+[INFO] [1733552687.224678592] [rviz2]: Trying to create a map of size 226 x 245 using 1 swatches
+[INFO] [1733552690.453173461] [rviz2]: Trying to create a map of size 227 x 245 using 1 swatches
+[INFO] [1733552706.622441679] [rviz2]: Trying to create a map of size 227 x 257 using 1 swatches
+[INFO] [1733552813.089149493] [rviz2]: Setting goal pose: Frame:base_link, Position(2.12009, 0.244788, 0), Orientation(0, 0, 0.520939, 0.853594) = Angle: 1.0959
+[INFO] [1733552832.288015437] [rviz2]: Trying to create a map of size 227 x 260 using 1 swatches
+[INFO] [1733552904.142386776] [rviz2]: Setting goal pose: Frame:base_link, Position(0.2391, 0.913209, 0), Orientation(0, 0, 0.61196, 0.790889) = Angle: 1.31707
+[INFO] [1733552922.554875728] [rviz2]: Trying to create a map of size 231 x 260 using 1 swatches
+[INFO] [1733552938.044201547] [rviz2]: Setting goal pose: Frame:base_link, Position(0.0451541, -0.565681, 0), Orientation(0, 0, -0.793768, 0.608221) = Angle: -1.83396
+[INFO] [1733553015.570840251] [rviz2]: Trying to create a map of size 229 x 248 using 1 swatches
+[INFO] [1733553021.491797923] [rviz2]: Trying to create a map of size 229 x 247 using 1 swatches
+[INFO] [1733553033.375118337] [rviz2]: Trying to create a map of size 229 x 246 using 1 swatches
+[INFO] [1733553107.517924993] [rviz2]: Setting goal pose: Frame:base_link, Position(0.834371, 0.249348, 0), Orientation(0, 0, 0.179724, 0.983717) = Angle: 0.361411
+[INFO] [1733553130.852375179] [rviz2]: Setting goal pose: Frame:base_link, Position(0.490097, 1.80045, 0), Orientation(0, 0, 0.716047, 0.698053) = Angle: 1.59624
+[INFO] [1733553149.464967607] [rviz2]: Trying to create a map of size 238 x 246 using 1 swatches
+[INFO] [1733553152.515891825] [rviz2]: Trying to create a map of size 239 x 246 using 1 swatches
+[INFO] [1733553167.174034594] [rviz2]: Setting goal pose: Frame:base_link, Position(1.88207, 0.467064, 0), Orientation(0, 0, 0.197408, 0.980321) = Angle: 0.397426
+[INFO] [1733553182.993358115] [rviz2]: Setting goal pose: Frame:base_link, Position(2.08605, 1.74889, 0), Orientation(0, 0, 0.425733, 0.904849) = Angle: 0.879545
+[INFO] [1733553202.317385306] [rviz2]: Trying to create a map of size 241 x 246 using 1 swatches
+[INFO] [1733553208.358242431] [rviz2]: Trying to create a map of size 244 x 246 using 1 swatches
+[INFO] [1733553217.832790326] [rviz2]: Trying to create a map of size 251 x 246 using 1 swatches
+[INFO] [1733553220.781478104] [rviz2]: Trying to create a map of size 253 x 246 using 1 swatches
+[INFO] [1733553236.734333116] [rviz2]: Setting goal pose: Frame:base_link, Position(3.47253, -1.74548, 0), Orientation(0, 0, 0.425733, 0.904849) = Angle: 0.879545
+[INFO] [1733553236.785761278] [rviz2]: Trying to create a map of size 253 x 261 using 1 swatches
+[INFO] [1733553244.040066544] [rviz2]: Setting goal pose: Frame:base_link, Position(3.63737, -1.10742, 0), Orientation(0, 0, 0.641873, 0.766811) = Angle: 1.39388
+[INFO] [1733553245.867598170] [rviz2]: Trying to create a map of size 254 x 261 using 1 swatches
+[INFO] [1733553255.779115957] [rviz2]: Trying to create a map of size 253 x 260 using 1 swatches
+[INFO] [1733553271.947705490] [rviz2]: Trying to create a map of size 254 x 260 using 1 swatches
+[INFO] [1733553273.605434570] [rviz2]: Setting goal pose: Frame:base_link, Position(3.44561, -0.59657, 0), Orientation(0, 0, 0.62973, 0.776814) = Angle: 1.36241
+[INFO] [1733553286.458365877] [rviz2]: Trying to create a map of size 258 x 260 using 1 swatches
+[INFO] [1733553292.918216046] [rviz2]: Trying to create a map of size 259 x 260 using 1 swatches
+[INFO] [1733553307.870035987] [rviz2]: Setting goal pose: Frame:base_link, Position(2.90116, 0.290577, 0), Orientation(0, 0, 0.662895, 0.748712) = Angle: 1.44936
+[INFO] [1733553349.892086673] [rviz2]: Setting goal pose: Frame:base_link, Position(1.89109, 0.0942739, 0), Orientation(0, 0, 0.355061, 0.934843) = Angle: 0.725958
+[INFO] [1733553362.368701147] [rviz2]: Setting goal pose: Frame:base_link, Position(2.08355, 0.994623, 0), Orientation(0, 0, 0.741301, 0.671173) = Angle: 1.67001
+[INFO] [1733553391.537347262] [rviz2]: Setting goal pose: Frame:base_link, Position(2.205, 0.506646, 0), Orientation(0, 0, 0.795497, 0.605957) = Angle: 1.83966
+[INFO] [1733553423.678614256] [rviz2]: Trying to create a map of size 259 x 274 using 1 swatches
+[INFO] [1733553443.404118053] [rviz2]: Setting goal pose: Frame:base_link, Position(1.66336, 0.676075, 0), Orientation(0, 0, 0.798331, 0.602218) = Angle: 1.84904
+[INFO] [1733553474.235961462] [rviz2]: Setting goal pose: Frame:base_link, Position(1.24241, 0.30616, 0), Orientation(0, 0, 0.716173, 0.697923) = Angle: 1.59661
+[INFO] [1733553491.801180690] [rviz2]: Setting goal pose: Frame:base_link, Position(0.336234, 1.40253, 0), Orientation(0, 0, 0.72799, 0.685587) = Angle: 1.63077
+[INFO] [1733553526.926671562] [rviz2]: Trying to create a map of size 261 x 274 using 1 swatches
+[INFO] [1733553538.126470466] [rviz2]: Setting goal pose: Frame:base_link, Position(0.229852, 2.69483, 0), Orientation(0, 0, 0.542246, 0.840219) = Angle: 1.14622
+[INFO] [1733553550.825380342] [rviz2]: Trying to create a map of size 271 x 274 using 1 swatches
+[INFO] [1733553561.598395751] [rviz2]: Setting goal pose: Frame:base_link, Position(1.91334, -0.0307763, 0), Orientation(0, 0, -0.495323, 0.868709) = Angle: -1.03641
+[INFO] [1733553628.230331256] [rviz2]: Trying to create a map of size 270 x 274 using 1 swatches
+[INFO] [1733553700.466535033] [rviz2]: Setting goal pose: Frame:base_link, Position(1.14097, 0.36405, 0), Orientation(0, 0, 0.0764488, 0.997074) = Angle: 0.153047
+[INFO] [1733553715.580085243] [rviz2]: Setting goal pose: Frame:base_link, Position(0.320529, -0.241678, 0), Orientation(0, 0, -0.235184, 0.971951) = Angle: -0.474815
+[INFO] [1733553752.130219013] [rclcpp]: signal_handler(signum=2)

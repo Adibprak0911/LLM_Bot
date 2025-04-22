@@ -1,0 +1,16 @@
+[INFO] [1733481676.445157312] [smoother_server]: 
+	smoother_server lifecycle node launched. 
+	Waiting on external lifecycle transitions to activate
+	See https://design.ros2.org/articles/node_lifecycle.html for more information.
+[INFO] [1733481676.447468575] [smoother_server]: Creating smoother server
+[INFO] [1733481677.503886149] [smoother_server]: Configuring smoother server
+[INFO] [1733481677.538871932] [smoother_server]: Created smoother : simple_smoother of type nav2_smoother::SimpleSmoother
+[INFO] [1733481677.545937738] [smoother_server]: Smoother Server has simple_smoother  smoothers available.
+[INFO] [1733481678.315812895] [smoother_server]: Activating
+[INFO] [1733481678.315850215] [smoother_server]: Creating bond (smoother_server) to lifecycle manager.
+[INFO] [1733482050.392834861] [rclcpp]: signal_handler(signum=2)
+[INFO] [1733482050.392927455] [smoother_server]: Running Nav2 LifecycleNode rcl preshutdown (smoother_server)
+[INFO] [1733482050.393002319] [smoother_server]: Deactivating
+[INFO] [1733482050.393029443] [smoother_server]: Destroying bond (smoother_server) to lifecycle manager.
+[INFO] [1733482050.403890879] [smoother_server]: Cleaning up
+[INFO] [1733482050.415908351] [smoother_server]: Destroying bond (smoother_server) to lifecycle manager.

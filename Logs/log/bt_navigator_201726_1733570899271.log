@@ -1,0 +1,1011 @@
+[INFO] [1733570899.728573939] [bt_navigator]: 
+	bt_navigator lifecycle node launched. 
+	Waiting on external lifecycle transitions to activate
+	See https://design.ros2.org/articles/node_lifecycle.html for more information.
+[INFO] [1733570899.728957816] [bt_navigator]: Creating
+[INFO] [1733570900.845793110] [bt_navigator]: Configuring
+[INFO] [1733570902.315074045] [bt_navigator]: Activating
+[INFO] [1733570902.470191961] [bt_navigator]: Creating bond (bt_navigator) to lifecycle manager.
+[INFO] [1733570926.475598994] [bt_navigator]: Begin navigating from current location (0.00, 0.00) to (-4.51, -0.36)
+[WARN] [1733570926.490351646] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733570927.456571700] [bt_navigator]: Received goal preemption request
+[INFO] [1733570927.456995569] [bt_navigator]: Begin navigating from current location (0.00, 0.00) to (-4.51, -0.36)
+[INFO] [1733570928.456591914] [bt_navigator]: Received goal preemption request
+[INFO] [1733570928.457007637] [bt_navigator]: Begin navigating from current location (0.01, 0.00) to (-4.51, -0.36)
+[INFO] [1733570929.456512794] [bt_navigator]: Received goal preemption request
+[INFO] [1733570929.456669988] [bt_navigator]: Begin navigating from current location (0.03, 0.00) to (-4.51, -0.36)
+[INFO] [1733570930.456550100] [bt_navigator]: Received goal preemption request
+[INFO] [1733570930.457048804] [bt_navigator]: Begin navigating from current location (0.04, 0.01) to (-4.51, -0.36)
+[INFO] [1733570931.456452039] [bt_navigator]: Received goal preemption request
+[INFO] [1733570931.456600340] [bt_navigator]: Begin navigating from current location (0.06, 0.02) to (-4.51, -0.36)
+[INFO] [1733570932.456551477] [bt_navigator]: Received goal preemption request
+[INFO] [1733570932.458351738] [bt_navigator]: Begin navigating from current location (0.08, 0.02) to (-4.51, -0.36)
+[INFO] [1733570933.456414172] [bt_navigator]: Received goal preemption request
+[INFO] [1733570933.456597715] [bt_navigator]: Begin navigating from current location (0.09, 0.03) to (-4.51, -0.36)
+[INFO] [1733570934.456439485] [bt_navigator]: Received goal preemption request
+[INFO] [1733570934.456824799] [bt_navigator]: Begin navigating from current location (0.11, 0.05) to (-4.51, -0.36)
+[INFO] [1733570935.456406268] [bt_navigator]: Received goal preemption request
+[INFO] [1733570935.456541946] [bt_navigator]: Begin navigating from current location (0.12, 0.06) to (-4.51, -0.36)
+[INFO] [1733570936.456411451] [bt_navigator]: Received goal preemption request
+[INFO] [1733570936.456551128] [bt_navigator]: Begin navigating from current location (0.13, 0.08) to (-4.51, -0.36)
+[INFO] [1733570937.456586920] [bt_navigator]: Received goal preemption request
+[INFO] [1733570937.457067747] [bt_navigator]: Begin navigating from current location (0.14, 0.09) to (-4.51, -0.36)
+[INFO] [1733570938.456395682] [bt_navigator]: Received goal preemption request
+[INFO] [1733570938.456546219] [bt_navigator]: Begin navigating from current location (0.15, 0.11) to (-4.51, -0.36)
+[INFO] [1733570939.456406324] [bt_navigator]: Received goal preemption request
+[INFO] [1733570939.456539825] [bt_navigator]: Begin navigating from current location (0.16, 0.12) to (-4.51, -0.36)
+[INFO] [1733570940.456758261] [bt_navigator]: Received goal preemption request
+[INFO] [1733570940.457295259] [bt_navigator]: Begin navigating from current location (0.17, 0.14) to (-4.51, -0.36)
+[INFO] [1733570941.456683135] [bt_navigator]: Received goal preemption request
+[INFO] [1733570941.457131346] [bt_navigator]: Begin navigating from current location (0.18, 0.16) to (-4.51, -0.36)
+[INFO] [1733570942.456415895] [bt_navigator]: Received goal preemption request
+[INFO] [1733570942.456545833] [bt_navigator]: Begin navigating from current location (0.18, 0.18) to (-4.51, -0.36)
+[INFO] [1733570943.456407798] [bt_navigator]: Received goal preemption request
+[INFO] [1733570943.456983116] [bt_navigator]: Begin navigating from current location (0.19, 0.19) to (-4.51, -0.36)
+[INFO] [1733570944.456524332] [bt_navigator]: Received goal preemption request
+[INFO] [1733570944.456849572] [bt_navigator]: Begin navigating from current location (0.19, 0.21) to (-4.51, -0.36)
+[INFO] [1733570945.456529381] [bt_navigator]: Received goal preemption request
+[INFO] [1733570945.456837816] [bt_navigator]: Begin navigating from current location (0.20, 0.23) to (-4.51, -0.36)
+[INFO] [1733570946.457579895] [bt_navigator]: Received goal preemption request
+[INFO] [1733570946.457964000] [bt_navigator]: Begin navigating from current location (0.20, 0.25) to (-4.51, -0.36)
+[INFO] [1733570947.456534853] [bt_navigator]: Received goal preemption request
+[INFO] [1733570947.456901744] [bt_navigator]: Begin navigating from current location (0.21, 0.27) to (-4.51, -0.36)
+[INFO] [1733570948.456421311] [bt_navigator]: Received goal preemption request
+[INFO] [1733570948.456616644] [bt_navigator]: Begin navigating from current location (0.21, 0.29) to (-4.51, -0.36)
+[INFO] [1733570949.456422765] [bt_navigator]: Received goal preemption request
+[INFO] [1733570949.456834901] [bt_navigator]: Begin navigating from current location (0.21, 0.30) to (-4.51, -0.36)
+[INFO] [1733570950.456424010] [bt_navigator]: Received goal preemption request
+[INFO] [1733570950.456596849] [bt_navigator]: Begin navigating from current location (0.21, 0.32) to (-4.51, -0.36)
+[INFO] [1733570951.456436362] [bt_navigator]: Received goal preemption request
+[INFO] [1733570951.456587499] [bt_navigator]: Begin navigating from current location (0.22, 0.33) to (-4.51, -0.36)
+[INFO] [1733570952.466672852] [bt_navigator]: Received goal preemption request
+[INFO] [1733570952.467069774] [bt_navigator]: Begin navigating from current location (0.23, 0.35) to (-4.51, -0.36)
+[INFO] [1733570953.456418691] [bt_navigator]: Received goal preemption request
+[INFO] [1733570953.456574398] [bt_navigator]: Begin navigating from current location (0.23, 0.37) to (-4.51, -0.36)
+[INFO] [1733570954.456428434] [bt_navigator]: Received goal preemption request
+[INFO] [1733570954.456577672] [bt_navigator]: Begin navigating from current location (0.23, 0.39) to (-4.51, -0.36)
+[INFO] [1733570955.456487592] [bt_navigator]: Received goal preemption request
+[INFO] [1733570955.456779153] [bt_navigator]: Begin navigating from current location (0.23, 0.41) to (-4.51, -0.36)
+[INFO] [1733570956.456429443] [bt_navigator]: Received goal preemption request
+[INFO] [1733570956.456623759] [bt_navigator]: Begin navigating from current location (0.23, 0.43) to (-4.51, -0.36)
+[INFO] [1733570957.456888482] [bt_navigator]: Received goal preemption request
+[INFO] [1733570957.457079274] [bt_navigator]: Begin navigating from current location (0.22, 0.45) to (-4.51, -0.36)
+[WARN] [1733570958.376432435] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733570958.456977543] [bt_navigator]: Received goal preemption request
+[INFO] [1733570958.457320416] [bt_navigator]: Begin navigating from current location (0.23, 0.46) to (-4.51, -0.36)
+[INFO] [1733570959.456457623] [bt_navigator]: Received goal preemption request
+[INFO] [1733570959.456623918] [bt_navigator]: Begin navigating from current location (0.22, 0.48) to (-4.51, -0.36)
+[INFO] [1733570960.456550208] [bt_navigator]: Received goal preemption request
+[INFO] [1733570960.456729550] [bt_navigator]: Begin navigating from current location (0.22, 0.50) to (-4.51, -0.36)
+[INFO] [1733570961.469554826] [bt_navigator]: Received goal preemption request
+[INFO] [1733570961.469855046] [bt_navigator]: Begin navigating from current location (0.22, 0.52) to (-4.51, -0.36)
+[INFO] [1733570962.456664988] [bt_navigator]: Received goal preemption request
+[INFO] [1733570962.456818994] [bt_navigator]: Begin navigating from current location (0.20, 0.54) to (-4.51, -0.36)
+[INFO] [1733570963.456515142] [bt_navigator]: Received goal preemption request
+[INFO] [1733570963.456698221] [bt_navigator]: Begin navigating from current location (0.20, 0.55) to (-4.51, -0.36)
+[INFO] [1733570964.456457073] [bt_navigator]: Received goal preemption request
+[INFO] [1733570964.456616246] [bt_navigator]: Begin navigating from current location (0.19, 0.57) to (-4.51, -0.36)
+[INFO] [1733570965.459130151] [bt_navigator]: Received goal preemption request
+[INFO] [1733570965.459366630] [bt_navigator]: Begin navigating from current location (0.18, 0.59) to (-4.51, -0.36)
+[INFO] [1733570966.456915470] [bt_navigator]: Received goal preemption request
+[INFO] [1733570966.457324443] [bt_navigator]: Begin navigating from current location (0.18, 0.60) to (-4.51, -0.36)
+[INFO] [1733570967.456472962] [bt_navigator]: Received goal preemption request
+[INFO] [1733570967.456784986] [bt_navigator]: Begin navigating from current location (0.17, 0.62) to (-4.51, -0.36)
+[WARN] [1733570968.188743858] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733570968.456402562] [bt_navigator]: Received goal preemption request
+[INFO] [1733570968.456558502] [bt_navigator]: Begin navigating from current location (0.17, 0.64) to (-4.51, -0.36)
+[INFO] [1733570969.456479886] [bt_navigator]: Received goal preemption request
+[INFO] [1733570969.456635770] [bt_navigator]: Begin navigating from current location (0.16, 0.65) to (-4.51, -0.36)
+[INFO] [1733570970.456478205] [bt_navigator]: Received goal preemption request
+[INFO] [1733570970.456850324] [bt_navigator]: Begin navigating from current location (0.16, 0.65) to (-4.51, -0.36)
+[INFO] [1733570971.456558503] [bt_navigator]: Received goal preemption request
+[INFO] [1733570971.456718831] [bt_navigator]: Begin navigating from current location (0.15, 0.65) to (-4.51, -0.36)
+[INFO] [1733570972.456544355] [bt_navigator]: Received goal preemption request
+[INFO] [1733570972.456918389] [bt_navigator]: Begin navigating from current location (0.15, 0.64) to (-4.51, -0.36)
+[INFO] [1733570973.456469314] [bt_navigator]: Received goal preemption request
+[INFO] [1733570973.456802051] [bt_navigator]: Begin navigating from current location (0.14, 0.64) to (-4.51, -0.36)
+[INFO] [1733570974.457447298] [bt_navigator]: Received goal preemption request
+[INFO] [1733570974.457837958] [bt_navigator]: Begin navigating from current location (0.14, 0.63) to (-4.51, -0.36)
+[INFO] [1733570975.456550341] [bt_navigator]: Received goal preemption request
+[INFO] [1733570975.456748951] [bt_navigator]: Begin navigating from current location (0.13, 0.63) to (-4.51, -0.36)
+[INFO] [1733570976.456460134] [bt_navigator]: Received goal preemption request
+[INFO] [1733570976.456659027] [bt_navigator]: Begin navigating from current location (0.14, 0.62) to (-4.51, -0.36)
+[INFO] [1733570977.456543101] [bt_navigator]: Received goal preemption request
+[INFO] [1733570977.456871887] [bt_navigator]: Begin navigating from current location (0.14, 0.62) to (-4.51, -0.36)
+[INFO] [1733570978.456454431] [bt_navigator]: Received goal preemption request
+[INFO] [1733570978.456614645] [bt_navigator]: Begin navigating from current location (0.13, 0.61) to (-4.51, -0.36)
+[INFO] [1733570979.456485268] [bt_navigator]: Received goal preemption request
+[INFO] [1733570979.456851327] [bt_navigator]: Begin navigating from current location (0.13, 0.61) to (-4.51, -0.36)
+[INFO] [1733570980.456596759] [bt_navigator]: Received goal preemption request
+[INFO] [1733570980.456977359] [bt_navigator]: Begin navigating from current location (0.13, 0.61) to (-4.51, -0.36)
+[INFO] [1733570981.456422421] [bt_navigator]: Received goal preemption request
+[INFO] [1733570981.456931099] [bt_navigator]: Begin navigating from current location (0.11, 0.61) to (-4.51, -0.36)
+[INFO] [1733570982.456464264] [bt_navigator]: Received goal preemption request
+[INFO] [1733570982.456835031] [bt_navigator]: Begin navigating from current location (0.10, 0.61) to (-4.51, -0.36)
+[INFO] [1733570983.456417557] [bt_navigator]: Received goal preemption request
+[INFO] [1733570983.456604481] [bt_navigator]: Begin navigating from current location (0.10, 0.61) to (-4.51, -0.36)
+[INFO] [1733570984.456468131] [bt_navigator]: Received goal preemption request
+[INFO] [1733570984.457308566] [bt_navigator]: Begin navigating from current location (0.09, 0.61) to (-4.51, -0.36)
+[INFO] [1733570985.456470533] [bt_navigator]: Received goal preemption request
+[INFO] [1733570985.456636827] [bt_navigator]: Begin navigating from current location (0.08, 0.62) to (-4.51, -0.36)
+[INFO] [1733570986.456461514] [bt_navigator]: Received goal preemption request
+[INFO] [1733570986.456664682] [bt_navigator]: Begin navigating from current location (0.06, 0.62) to (-4.51, -0.36)
+[INFO] [1733570987.456808430] [bt_navigator]: Received goal preemption request
+[INFO] [1733570987.456925906] [bt_navigator]: Begin navigating from current location (0.04, 0.63) to (-4.51, -0.36)
+[INFO] [1733570988.456555715] [bt_navigator]: Received goal preemption request
+[INFO] [1733570988.456982341] [bt_navigator]: Begin navigating from current location (0.02, 0.63) to (-4.51, -0.36)
+[INFO] [1733570989.456460529] [bt_navigator]: Received goal preemption request
+[INFO] [1733570989.456606003] [bt_navigator]: Begin navigating from current location (0.01, 0.64) to (-4.51, -0.36)
+[INFO] [1733570990.456599074] [bt_navigator]: Received goal preemption request
+[INFO] [1733570990.456995458] [bt_navigator]: Begin navigating from current location (-0.01, 0.64) to (-4.51, -0.36)
+[INFO] [1733570991.456854906] [bt_navigator]: Received goal preemption request
+[INFO] [1733570991.457045614] [bt_navigator]: Begin navigating from current location (-0.03, 0.64) to (-4.51, -0.36)
+[INFO] [1733570992.456468263] [bt_navigator]: Received goal preemption request
+[INFO] [1733570992.456629700] [bt_navigator]: Begin navigating from current location (-0.05, 0.64) to (-4.51, -0.36)
+[INFO] [1733570993.461208573] [bt_navigator]: Received goal preemption request
+[INFO] [1733570993.461951749] [bt_navigator]: Begin navigating from current location (-0.06, 0.65) to (-4.51, -0.36)
+[INFO] [1733570994.456461572] [bt_navigator]: Received goal preemption request
+[INFO] [1733570994.456707991] [bt_navigator]: Begin navigating from current location (-0.08, 0.65) to (-4.51, -0.36)
+[INFO] [1733570995.456466798] [bt_navigator]: Received goal preemption request
+[INFO] [1733570995.456616362] [bt_navigator]: Begin navigating from current location (-0.09, 0.65) to (-4.51, -0.36)
+[WARN] [1733570996.092175111] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733570996.456421749] [bt_navigator]: Received goal preemption request
+[INFO] [1733570996.456599487] [bt_navigator]: Begin navigating from current location (-0.11, 0.66) to (-4.51, -0.36)
+[INFO] [1733570997.456467034] [bt_navigator]: Received goal preemption request
+[INFO] [1733570997.456623999] [bt_navigator]: Begin navigating from current location (-0.14, 0.66) to (-4.51, -0.36)
+[INFO] [1733570998.456457803] [bt_navigator]: Received goal preemption request
+[INFO] [1733570998.456628510] [bt_navigator]: Begin navigating from current location (-0.15, 0.66) to (-4.51, -0.36)
+[INFO] [1733570999.456460279] [bt_navigator]: Received goal preemption request
+[INFO] [1733570999.456596980] [bt_navigator]: Begin navigating from current location (-0.17, 0.66) to (-4.51, -0.36)
+[INFO] [1733571000.456406646] [bt_navigator]: Received goal preemption request
+[INFO] [1733571000.457157929] [bt_navigator]: Begin navigating from current location (-0.19, 0.66) to (-4.51, -0.36)
+[INFO] [1733571001.456702549] [bt_navigator]: Received goal preemption request
+[INFO] [1733571001.457158867] [bt_navigator]: Begin navigating from current location (-0.21, 0.67) to (-4.51, -0.36)
+[INFO] [1733571002.456554407] [bt_navigator]: Received goal preemption request
+[INFO] [1733571002.456942894] [bt_navigator]: Begin navigating from current location (-0.23, 0.66) to (-4.51, -0.36)
+[WARN] [1733571003.396535403] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733571003.456549396] [bt_navigator]: Received goal preemption request
+[INFO] [1733571003.456898347] [bt_navigator]: Begin navigating from current location (-0.24, 0.66) to (-4.51, -0.36)
+[INFO] [1733571004.456423366] [bt_navigator]: Received goal preemption request
+[INFO] [1733571004.456575479] [bt_navigator]: Begin navigating from current location (-0.25, 0.66) to (-4.51, -0.36)
+[INFO] [1733571005.456469723] [bt_navigator]: Received goal preemption request
+[INFO] [1733571005.456735048] [bt_navigator]: Begin navigating from current location (-0.26, 0.66) to (-4.51, -0.36)
+[INFO] [1733571006.456426152] [bt_navigator]: Received goal preemption request
+[INFO] [1733571006.456613024] [bt_navigator]: Begin navigating from current location (-0.25, 0.66) to (-4.51, -0.36)
+[INFO] [1733571007.456421755] [bt_navigator]: Received goal preemption request
+[INFO] [1733571007.456576129] [bt_navigator]: Begin navigating from current location (-0.25, 0.66) to (-4.51, -0.36)
+[INFO] [1733571008.456458049] [bt_navigator]: Received goal preemption request
+[INFO] [1733571008.456600087] [bt_navigator]: Begin navigating from current location (-0.25, 0.66) to (-4.51, -0.36)
+[INFO] [1733571009.466815735] [bt_navigator]: Received goal preemption request
+[INFO] [1733571009.467396267] [bt_navigator]: Begin navigating from current location (-0.24, 0.66) to (-4.51, -0.36)
+[INFO] [1733571010.470129069] [bt_navigator]: Received goal preemption request
+[INFO] [1733571010.470464370] [bt_navigator]: Begin navigating from current location (-0.24, 0.66) to (-4.51, -0.36)
+[INFO] [1733571011.456470780] [bt_navigator]: Received goal preemption request
+[INFO] [1733571011.456808812] [bt_navigator]: Begin navigating from current location (-0.23, 0.66) to (-4.51, -0.36)
+[INFO] [1733571012.456431972] [bt_navigator]: Received goal preemption request
+[INFO] [1733571012.456581140] [bt_navigator]: Begin navigating from current location (-0.23, 0.66) to (-4.51, -0.36)
+[INFO] [1733571013.456423714] [bt_navigator]: Received goal preemption request
+[INFO] [1733571013.456610697] [bt_navigator]: Begin navigating from current location (-0.23, 0.66) to (-4.51, -0.36)
+[INFO] [1733571014.456417924] [bt_navigator]: Received goal preemption request
+[INFO] [1733571014.456639909] [bt_navigator]: Begin navigating from current location (-0.23, 0.66) to (-4.51, -0.36)
+[INFO] [1733571015.456512721] [bt_navigator]: Received goal preemption request
+[INFO] [1733571015.456878841] [bt_navigator]: Begin navigating from current location (-0.25, 0.66) to (-4.51, -0.36)
+[INFO] [1733571016.456397103] [bt_navigator]: Received goal preemption request
+[INFO] [1733571016.456585370] [bt_navigator]: Begin navigating from current location (-0.26, 0.65) to (-4.51, -0.36)
+[INFO] [1733571017.456498722] [bt_navigator]: Received goal preemption request
+[INFO] [1733571017.456658533] [bt_navigator]: Begin navigating from current location (-0.28, 0.65) to (-4.51, -0.36)
+[INFO] [1733571018.456513039] [bt_navigator]: Received goal preemption request
+[INFO] [1733571018.456806740] [bt_navigator]: Begin navigating from current location (-0.30, 0.65) to (-4.51, -0.36)
+[INFO] [1733571019.456680391] [bt_navigator]: Received goal preemption request
+[INFO] [1733571019.456909309] [bt_navigator]: Begin navigating from current location (-0.32, 0.64) to (-4.51, -0.36)
+[INFO] [1733571020.456425003] [bt_navigator]: Received goal preemption request
+[INFO] [1733571020.456765577] [bt_navigator]: Begin navigating from current location (-0.34, 0.64) to (-4.51, -0.36)
+[INFO] [1733571021.456349273] [bt_navigator]: Received goal preemption request
+[INFO] [1733571021.456499945] [bt_navigator]: Begin navigating from current location (-0.36, 0.63) to (-4.51, -0.36)
+[WARN] [1733571022.288915705] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733571022.324961436] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733571022.331034927] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733571022.337282274] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733571022.456386859] [bt_navigator]: Received goal preemption request
+[INFO] [1733571022.456546017] [bt_navigator]: Begin navigating from current location (-0.38, 0.63) to (-4.51, -0.36)
+[INFO] [1733571023.466468870] [bt_navigator]: Received goal preemption request
+[INFO] [1733571023.466686695] [bt_navigator]: Begin navigating from current location (-0.39, 0.62) to (-4.51, -0.36)
+[INFO] [1733571024.456506246] [bt_navigator]: Received goal preemption request
+[INFO] [1733571024.456699381] [bt_navigator]: Begin navigating from current location (-0.41, 0.62) to (-4.51, -0.36)
+[INFO] [1733571025.456456659] [bt_navigator]: Received goal preemption request
+[INFO] [1733571025.456678247] [bt_navigator]: Begin navigating from current location (-0.43, 0.61) to (-4.51, -0.36)
+[INFO] [1733571026.456942867] [bt_navigator]: Received goal preemption request
+[INFO] [1733571026.457140680] [bt_navigator]: Begin navigating from current location (-0.45, 0.61) to (-4.51, -0.36)
+[INFO] [1733571027.466881958] [bt_navigator]: Received goal preemption request
+[INFO] [1733571027.467039547] [bt_navigator]: Begin navigating from current location (-0.47, 0.60) to (-4.51, -0.36)
+[INFO] [1733571028.456457074] [bt_navigator]: Received goal preemption request
+[INFO] [1733571028.456607332] [bt_navigator]: Begin navigating from current location (-0.48, 0.60) to (-4.51, -0.36)
+[INFO] [1733571029.456441334] [bt_navigator]: Received goal preemption request
+[INFO] [1733571029.456598894] [bt_navigator]: Begin navigating from current location (-0.50, 0.59) to (-4.51, -0.36)
+[INFO] [1733571030.456592714] [bt_navigator]: Received goal preemption request
+[INFO] [1733571030.457082320] [bt_navigator]: Begin navigating from current location (-0.52, 0.58) to (-4.51, -0.36)
+[INFO] [1733571031.456580435] [bt_navigator]: Received goal preemption request
+[INFO] [1733571031.456817765] [bt_navigator]: Begin navigating from current location (-0.54, 0.57) to (-4.51, -0.36)
+[INFO] [1733571032.457124025] [bt_navigator]: Received goal preemption request
+[INFO] [1733571032.457274499] [bt_navigator]: Begin navigating from current location (-0.56, 0.57) to (-4.51, -0.36)
+[INFO] [1733571033.456561093] [bt_navigator]: Received goal preemption request
+[INFO] [1733571033.458236185] [bt_navigator]: Begin navigating from current location (-0.58, 0.56) to (-4.51, -0.36)
+[INFO] [1733571034.456454368] [bt_navigator]: Received goal preemption request
+[INFO] [1733571034.457385220] [bt_navigator]: Begin navigating from current location (-0.59, 0.55) to (-4.51, -0.36)
+[INFO] [1733571035.456414022] [bt_navigator]: Received goal preemption request
+[INFO] [1733571035.457090457] [bt_navigator]: Begin navigating from current location (-0.60, 0.55) to (-4.51, -0.36)
+[INFO] [1733571036.456556320] [bt_navigator]: Received goal preemption request
+[INFO] [1733571036.456720567] [bt_navigator]: Begin navigating from current location (-0.60, 0.55) to (-4.51, -0.36)
+[WARN] [1733571037.159576768] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733571037.456455379] [bt_navigator]: Received goal preemption request
+[INFO] [1733571037.456732810] [bt_navigator]: Begin navigating from current location (-0.60, 0.54) to (-4.51, -0.36)
+[INFO] [1733571038.466456113] [bt_navigator]: Received goal preemption request
+[INFO] [1733571038.466647347] [bt_navigator]: Begin navigating from current location (-0.59, 0.54) to (-4.51, -0.36)
+[INFO] [1733571039.456454620] [bt_navigator]: Received goal preemption request
+[INFO] [1733571039.456645308] [bt_navigator]: Begin navigating from current location (-0.59, 0.54) to (-4.51, -0.36)
+[INFO] [1733571040.456491042] [bt_navigator]: Received goal preemption request
+[INFO] [1733571040.456700020] [bt_navigator]: Begin navigating from current location (-0.59, 0.53) to (-4.51, -0.36)
+[INFO] [1733571041.456549718] [bt_navigator]: Received goal preemption request
+[INFO] [1733571041.456742450] [bt_navigator]: Begin navigating from current location (-0.58, 0.52) to (-4.51, -0.36)
+[INFO] [1733571042.457130197] [bt_navigator]: Received goal preemption request
+[INFO] [1733571042.457337319] [bt_navigator]: Begin navigating from current location (-0.58, 0.52) to (-4.51, -0.36)
+[INFO] [1733571043.456459938] [bt_navigator]: Received goal preemption request
+[INFO] [1733571043.456733899] [bt_navigator]: Begin navigating from current location (-0.57, 0.51) to (-4.51, -0.36)
+[INFO] [1733571044.456469512] [bt_navigator]: Received goal preemption request
+[INFO] [1733571044.456666221] [bt_navigator]: Begin navigating from current location (-0.57, 0.51) to (-4.51, -0.36)
+[INFO] [1733571045.456454188] [bt_navigator]: Received goal preemption request
+[INFO] [1733571045.456615697] [bt_navigator]: Begin navigating from current location (-0.57, 0.51) to (-4.51, -0.36)
+[INFO] [1733571046.456467780] [bt_navigator]: Received goal preemption request
+[INFO] [1733571046.456662457] [bt_navigator]: Begin navigating from current location (-0.56, 0.50) to (-4.51, -0.36)
+[INFO] [1733571047.456409184] [bt_navigator]: Received goal preemption request
+[INFO] [1733571047.456603600] [bt_navigator]: Begin navigating from current location (-0.56, 0.50) to (-4.51, -0.36)
+[INFO] [1733571048.456455414] [bt_navigator]: Received goal preemption request
+[INFO] [1733571048.456635777] [bt_navigator]: Begin navigating from current location (-0.56, 0.50) to (-4.51, -0.36)
+[INFO] [1733571049.456464045] [bt_navigator]: Received goal preemption request
+[INFO] [1733571049.456639819] [bt_navigator]: Begin navigating from current location (-0.56, 0.50) to (-4.51, -0.36)
+[INFO] [1733571050.456397072] [bt_navigator]: Received goal preemption request
+[INFO] [1733571050.456587148] [bt_navigator]: Begin navigating from current location (-0.43, 0.58) to (-4.51, -0.36)
+[INFO] [1733571051.458199355] [bt_navigator]: Received goal preemption request
+[INFO] [1733571051.461455920] [bt_navigator]: Begin navigating from current location (-0.58, 0.47) to (-4.51, -0.36)
+[INFO] [1733571052.456455114] [bt_navigator]: Received goal preemption request
+[INFO] [1733571052.456644347] [bt_navigator]: Begin navigating from current location (-0.59, 0.46) to (-4.51, -0.36)
+[INFO] [1733571053.456460511] [bt_navigator]: Received goal preemption request
+[INFO] [1733571053.456637713] [bt_navigator]: Begin navigating from current location (-0.60, 0.44) to (-4.51, -0.36)
+[INFO] [1733571054.456469910] [bt_navigator]: Received goal preemption request
+[INFO] [1733571054.456656411] [bt_navigator]: Begin navigating from current location (-0.61, 0.43) to (-4.51, -0.36)
+[INFO] [1733571055.457093420] [bt_navigator]: Received goal preemption request
+[INFO] [1733571055.457331147] [bt_navigator]: Begin navigating from current location (-0.63, 0.42) to (-4.51, -0.36)
+[INFO] [1733571056.456412054] [bt_navigator]: Received goal preemption request
+[INFO] [1733571056.456579953] [bt_navigator]: Begin navigating from current location (-0.65, 0.40) to (-4.51, -0.36)
+[INFO] [1733571057.456457536] [bt_navigator]: Received goal preemption request
+[INFO] [1733571057.456659262] [bt_navigator]: Begin navigating from current location (-0.66, 0.39) to (-4.51, -0.36)
+[INFO] [1733571058.456564205] [bt_navigator]: Received goal preemption request
+[INFO] [1733571058.457028380] [bt_navigator]: Begin navigating from current location (-0.68, 0.37) to (-4.51, -0.36)
+[INFO] [1733571059.456473998] [bt_navigator]: Received goal preemption request
+[INFO] [1733571059.456794767] [bt_navigator]: Begin navigating from current location (-0.69, 0.36) to (-4.51, -0.36)
+[INFO] [1733571060.456447701] [bt_navigator]: Received goal preemption request
+[INFO] [1733571060.456720495] [bt_navigator]: Begin navigating from current location (-0.71, 0.35) to (-4.51, -0.36)
+[INFO] [1733571061.456495603] [bt_navigator]: Received goal preemption request
+[INFO] [1733571061.457021145] [bt_navigator]: Begin navigating from current location (-0.73, 0.34) to (-4.51, -0.36)
+[INFO] [1733571062.463923541] [bt_navigator]: Received goal preemption request
+[INFO] [1733571062.464233191] [bt_navigator]: Begin navigating from current location (-0.74, 0.33) to (-4.51, -0.36)
+[INFO] [1733571063.456471939] [bt_navigator]: Received goal preemption request
+[INFO] [1733571063.456664424] [bt_navigator]: Begin navigating from current location (-0.76, 0.32) to (-4.51, -0.36)
+[INFO] [1733571064.456587469] [bt_navigator]: Received goal preemption request
+[INFO] [1733571064.457126457] [bt_navigator]: Begin navigating from current location (-0.78, 0.30) to (-4.51, -0.36)
+[INFO] [1733571065.456459491] [bt_navigator]: Received goal preemption request
+[INFO] [1733571065.456720999] [bt_navigator]: Begin navigating from current location (-0.79, 0.30) to (-4.51, -0.36)
+[INFO] [1733571066.456455566] [bt_navigator]: Received goal preemption request
+[INFO] [1733571066.456643809] [bt_navigator]: Begin navigating from current location (-0.81, 0.29) to (-4.51, -0.36)
+[INFO] [1733571067.457025286] [bt_navigator]: Received goal preemption request
+[INFO] [1733571067.457477253] [bt_navigator]: Begin navigating from current location (-0.83, 0.28) to (-4.51, -0.36)
+[INFO] [1733571068.456467967] [bt_navigator]: Received goal preemption request
+[INFO] [1733571068.456657141] [bt_navigator]: Begin navigating from current location (-0.85, 0.27) to (-4.51, -0.36)
+[INFO] [1733571069.456390634] [bt_navigator]: Received goal preemption request
+[INFO] [1733571069.456606123] [bt_navigator]: Begin navigating from current location (-0.86, 0.26) to (-4.51, -0.36)
+[INFO] [1733571070.456467554] [bt_navigator]: Received goal preemption request
+[INFO] [1733571070.456685276] [bt_navigator]: Begin navigating from current location (-0.87, 0.26) to (-4.51, -0.36)
+[INFO] [1733571071.457035240] [bt_navigator]: Received goal preemption request
+[INFO] [1733571071.457333159] [bt_navigator]: Begin navigating from current location (-0.87, 0.25) to (-4.51, -0.36)
+[INFO] [1733571072.456475753] [bt_navigator]: Received goal preemption request
+[INFO] [1733571072.456683995] [bt_navigator]: Begin navigating from current location (-0.87, 0.25) to (-4.51, -0.36)
+[INFO] [1733571073.456839171] [bt_navigator]: Received goal preemption request
+[INFO] [1733571073.457085120] [bt_navigator]: Begin navigating from current location (-0.86, 0.26) to (-4.51, -0.36)
+[INFO] [1733571074.456465748] [bt_navigator]: Received goal preemption request
+[INFO] [1733571074.456655491] [bt_navigator]: Begin navigating from current location (-0.86, 0.26) to (-4.51, -0.36)
+[INFO] [1733571075.467493549] [bt_navigator]: Received goal preemption request
+[INFO] [1733571075.468027549] [bt_navigator]: Begin navigating from current location (-0.86, 0.26) to (-4.51, -0.36)
+[INFO] [1733571076.456606403] [bt_navigator]: Received goal preemption request
+[INFO] [1733571076.456805266] [bt_navigator]: Begin navigating from current location (-0.85, 0.26) to (-4.51, -0.36)
+[INFO] [1733571077.456474003] [bt_navigator]: Received goal preemption request
+[INFO] [1733571077.456691442] [bt_navigator]: Begin navigating from current location (-0.85, 0.27) to (-4.51, -0.36)
+[INFO] [1733571078.456459461] [bt_navigator]: Received goal preemption request
+[INFO] [1733571078.456701145] [bt_navigator]: Begin navigating from current location (-0.85, 0.27) to (-4.51, -0.36)
+[INFO] [1733571079.456411348] [bt_navigator]: Received goal preemption request
+[INFO] [1733571079.457252624] [bt_navigator]: Begin navigating from current location (-0.85, 0.27) to (-4.51, -0.36)
+[INFO] [1733571080.456468200] [bt_navigator]: Received goal preemption request
+[INFO] [1733571080.456657624] [bt_navigator]: Begin navigating from current location (-0.85, 0.27) to (-4.51, -0.36)
+[INFO] [1733571081.456448028] [bt_navigator]: Received goal preemption request
+[INFO] [1733571081.457295716] [bt_navigator]: Begin navigating from current location (-0.86, 0.26) to (-4.51, -0.36)
+[INFO] [1733571082.456567694] [bt_navigator]: Received goal preemption request
+[INFO] [1733571082.457045906] [bt_navigator]: Begin navigating from current location (-0.88, 0.26) to (-4.51, -0.36)
+[INFO] [1733571083.456737047] [bt_navigator]: Received goal preemption request
+[INFO] [1733571083.457107215] [bt_navigator]: Begin navigating from current location (-0.89, 0.25) to (-4.51, -0.36)
+[INFO] [1733571084.458157055] [bt_navigator]: Received goal preemption request
+[INFO] [1733571084.458536408] [bt_navigator]: Begin navigating from current location (-0.91, 0.24) to (-4.51, -0.36)
+[INFO] [1733571085.456459832] [bt_navigator]: Received goal preemption request
+[INFO] [1733571085.456650291] [bt_navigator]: Begin navigating from current location (-0.93, 0.23) to (-4.51, -0.36)
+[INFO] [1733571086.464437377] [bt_navigator]: Received goal preemption request
+[INFO] [1733571086.465448546] [bt_navigator]: Begin navigating from current location (-0.94, 0.22) to (-4.51, -0.36)
+[WARN] [1733571086.466709836] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733571087.456473633] [bt_navigator]: Received goal preemption request
+[INFO] [1733571087.456699355] [bt_navigator]: Begin navigating from current location (-0.96, 0.21) to (-4.51, -0.36)
+[INFO] [1733571088.456457364] [bt_navigator]: Received goal preemption request
+[INFO] [1733571088.456654295] [bt_navigator]: Begin navigating from current location (-0.97, 0.21) to (-4.51, -0.36)
+[INFO] [1733571089.457336106] [bt_navigator]: Received goal preemption request
+[INFO] [1733571089.457522775] [bt_navigator]: Begin navigating from current location (-0.99, 0.20) to (-4.51, -0.36)
+[INFO] [1733571090.456429619] [bt_navigator]: Received goal preemption request
+[INFO] [1733571090.456653150] [bt_navigator]: Begin navigating from current location (-1.01, 0.19) to (-4.51, -0.36)
+[INFO] [1733571091.456436401] [bt_navigator]: Received goal preemption request
+[INFO] [1733571091.456675311] [bt_navigator]: Begin navigating from current location (-1.02, 0.18) to (-4.51, -0.36)
+[INFO] [1733571092.456569182] [bt_navigator]: Received goal preemption request
+[INFO] [1733571092.457051984] [bt_navigator]: Begin navigating from current location (-1.05, 0.17) to (-4.51, -0.36)
+[INFO] [1733571093.466592702] [bt_navigator]: Received goal preemption request
+[INFO] [1733571093.467295300] [bt_navigator]: Begin navigating from current location (-1.06, 0.17) to (-4.51, -0.36)
+[INFO] [1733571094.456464421] [bt_navigator]: Received goal preemption request
+[INFO] [1733571094.456726730] [bt_navigator]: Begin navigating from current location (-1.08, 0.16) to (-4.51, -0.36)
+[INFO] [1733571095.456940441] [bt_navigator]: Received goal preemption request
+[INFO] [1733571095.457258671] [bt_navigator]: Begin navigating from current location (-1.10, 0.15) to (-4.51, -0.36)
+[INFO] [1733571096.456486097] [bt_navigator]: Received goal preemption request
+[INFO] [1733571096.456707103] [bt_navigator]: Begin navigating from current location (-1.12, 0.15) to (-4.51, -0.36)
+[INFO] [1733571097.456472003] [bt_navigator]: Received goal preemption request
+[INFO] [1733571097.456673523] [bt_navigator]: Begin navigating from current location (-1.13, 0.14) to (-4.51, -0.36)
+[INFO] [1733571098.456515717] [bt_navigator]: Received goal preemption request
+[INFO] [1733571098.459285575] [bt_navigator]: Begin navigating from current location (-1.15, 0.13) to (-4.51, -0.36)
+[INFO] [1733571099.456460216] [bt_navigator]: Received goal preemption request
+[INFO] [1733571099.456694299] [bt_navigator]: Begin navigating from current location (-1.17, 0.12) to (-4.51, -0.36)
+[INFO] [1733571100.456954168] [bt_navigator]: Received goal preemption request
+[INFO] [1733571100.457392596] [bt_navigator]: Begin navigating from current location (-1.18, 0.12) to (-4.51, -0.36)
+[INFO] [1733571101.456458690] [bt_navigator]: Received goal preemption request
+[INFO] [1733571101.457329505] [bt_navigator]: Begin navigating from current location (-1.19, 0.11) to (-4.51, -0.36)
+[INFO] [1733571102.456451457] [bt_navigator]: Received goal preemption request
+[INFO] [1733571102.456627194] [bt_navigator]: Begin navigating from current location (-1.19, 0.11) to (-4.51, -0.36)
+[INFO] [1733571103.456466282] [bt_navigator]: Received goal preemption request
+[INFO] [1733571103.456701589] [bt_navigator]: Begin navigating from current location (-1.19, 0.11) to (-4.51, -0.36)
+[INFO] [1733571104.460205499] [bt_navigator]: Received goal preemption request
+[INFO] [1733571104.460535804] [bt_navigator]: Begin navigating from current location (-1.19, 0.10) to (-4.51, -0.36)
+[INFO] [1733571105.456555857] [bt_navigator]: Received goal preemption request
+[INFO] [1733571105.456930039] [bt_navigator]: Begin navigating from current location (-1.19, 0.10) to (-4.51, -0.36)
+[INFO] [1733571106.456614664] [bt_navigator]: Received goal preemption request
+[INFO] [1733571106.456811115] [bt_navigator]: Begin navigating from current location (-1.19, 0.09) to (-4.51, -0.36)
+[INFO] [1733571107.460236851] [bt_navigator]: Received goal preemption request
+[INFO] [1733571107.460920410] [bt_navigator]: Begin navigating from current location (-1.19, 0.09) to (-4.51, -0.36)
+[INFO] [1733571108.456438409] [bt_navigator]: Received goal preemption request
+[INFO] [1733571108.456743651] [bt_navigator]: Begin navigating from current location (-1.18, 0.08) to (-4.51, -0.36)
+[INFO] [1733571109.456408798] [bt_navigator]: Received goal preemption request
+[INFO] [1733571109.456629705] [bt_navigator]: Begin navigating from current location (-1.18, 0.08) to (-4.51, -0.36)
+[INFO] [1733571110.456384472] [bt_navigator]: Received goal preemption request
+[INFO] [1733571110.456599377] [bt_navigator]: Begin navigating from current location (-1.18, 0.07) to (-4.51, -0.36)
+[INFO] [1733571111.456410063] [bt_navigator]: Received goal preemption request
+[INFO] [1733571111.456657808] [bt_navigator]: Begin navigating from current location (-1.18, 0.07) to (-4.51, -0.36)
+[INFO] [1733571112.456419782] [bt_navigator]: Received goal preemption request
+[INFO] [1733571112.456685511] [bt_navigator]: Begin navigating from current location (-1.18, 0.06) to (-4.51, -0.36)
+[INFO] [1733571113.456409640] [bt_navigator]: Received goal preemption request
+[INFO] [1733571113.456612994] [bt_navigator]: Begin navigating from current location (-1.17, 0.06) to (-4.51, -0.36)
+[INFO] [1733571114.466417936] [bt_navigator]: Received goal preemption request
+[INFO] [1733571114.466691589] [bt_navigator]: Begin navigating from current location (-1.17, 0.06) to (-4.51, -0.36)
+[INFO] [1733571115.456476947] [bt_navigator]: Received goal preemption request
+[INFO] [1733571115.457410984] [bt_navigator]: Begin navigating from current location (-1.17, 0.05) to (-4.51, -0.36)
+[WARN] [1733571115.840027071] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733571116.456539730] [bt_navigator]: Received goal preemption request
+[INFO] [1733571116.457027446] [bt_navigator]: Begin navigating from current location (-1.17, 0.05) to (-4.51, -0.36)
+[INFO] [1733571117.466599919] [bt_navigator]: Received goal preemption request
+[INFO] [1733571117.467085135] [bt_navigator]: Begin navigating from current location (-1.18, 0.03) to (-4.51, -0.36)
+[INFO] [1733571118.456361121] [bt_navigator]: Received goal preemption request
+[INFO] [1733571118.456600207] [bt_navigator]: Begin navigating from current location (-1.19, 0.02) to (-4.51, -0.36)
+[INFO] [1733571119.456424650] [bt_navigator]: Received goal preemption request
+[INFO] [1733571119.456632412] [bt_navigator]: Begin navigating from current location (-1.20, 0.00) to (-4.51, -0.36)
+[INFO] [1733571120.456772502] [bt_navigator]: Received goal preemption request
+[INFO] [1733571120.456988925] [bt_navigator]: Begin navigating from current location (-1.21, -0.01) to (-4.51, -0.36)
+[INFO] [1733571121.456433469] [bt_navigator]: Received goal preemption request
+[INFO] [1733571121.456640991] [bt_navigator]: Begin navigating from current location (-1.23, -0.02) to (-4.51, -0.36)
+[INFO] [1733571122.456456517] [bt_navigator]: Received goal preemption request
+[INFO] [1733571122.456689524] [bt_navigator]: Begin navigating from current location (-1.24, -0.04) to (-4.51, -0.36)
+[INFO] [1733571123.456378151] [bt_navigator]: Received goal preemption request
+[INFO] [1733571123.456610452] [bt_navigator]: Begin navigating from current location (-1.26, -0.05) to (-4.51, -0.36)
+[WARN] [1733571123.997123795] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733571124.456460984] [bt_navigator]: Received goal preemption request
+[INFO] [1733571124.456684462] [bt_navigator]: Begin navigating from current location (-1.27, -0.06) to (-4.51, -0.36)
+[INFO] [1733571125.456442394] [bt_navigator]: Received goal preemption request
+[INFO] [1733571125.456655947] [bt_navigator]: Begin navigating from current location (-1.30, -0.08) to (-4.51, -0.36)
+[INFO] [1733571126.456495042] [bt_navigator]: Received goal preemption request
+[INFO] [1733571126.457034051] [bt_navigator]: Begin navigating from current location (-1.31, -0.09) to (-4.51, -0.36)
+[INFO] [1733571127.456460902] [bt_navigator]: Received goal preemption request
+[INFO] [1733571127.457065694] [bt_navigator]: Begin navigating from current location (-1.33, -0.10) to (-4.51, -0.36)
+[INFO] [1733571128.466629115] [bt_navigator]: Received goal preemption request
+[INFO] [1733571128.467418386] [bt_navigator]: Begin navigating from current location (-1.35, -0.11) to (-4.51, -0.36)
+[INFO] [1733571129.456424814] [bt_navigator]: Received goal preemption request
+[INFO] [1733571129.456969241] [bt_navigator]: Begin navigating from current location (-1.36, -0.12) to (-4.51, -0.36)
+[INFO] [1733571130.456465571] [bt_navigator]: Received goal preemption request
+[INFO] [1733571130.456822158] [bt_navigator]: Begin navigating from current location (-1.38, -0.13) to (-4.51, -0.36)
+[INFO] [1733571131.456552204] [bt_navigator]: Received goal preemption request
+[INFO] [1733571131.456736833] [bt_navigator]: Begin navigating from current location (-1.39, -0.14) to (-4.51, -0.36)
+[INFO] [1733571132.456629968] [bt_navigator]: Received goal preemption request
+[INFO] [1733571132.456999535] [bt_navigator]: Begin navigating from current location (-1.41, -0.15) to (-4.51, -0.36)
+[INFO] [1733571133.456469170] [bt_navigator]: Received goal preemption request
+[INFO] [1733571133.456739886] [bt_navigator]: Begin navigating from current location (-1.43, -0.16) to (-4.51, -0.36)
+[ERROR] [1733571134.448550461] [bt_navigator]: Goal failed
+[WARN] [1733571134.448735454] [bt_navigator]: [navigate_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733571134.478440966] [bt_navigator]: Begin navigating from current location (-1.44, -0.17) to (-4.51, -0.36)
+[INFO] [1733571135.458757219] [bt_navigator]: Received goal preemption request
+[INFO] [1733571135.459002626] [bt_navigator]: Begin navigating from current location (-1.46, -0.18) to (-4.51, -0.36)
+[INFO] [1733571136.458772224] [bt_navigator]: Received goal preemption request
+[INFO] [1733571136.459004988] [bt_navigator]: Begin navigating from current location (-1.47, -0.19) to (-4.51, -0.36)
+[INFO] [1733571137.458757673] [bt_navigator]: Received goal preemption request
+[INFO] [1733571137.458956880] [bt_navigator]: Begin navigating from current location (-1.49, -0.20) to (-4.51, -0.36)
+[INFO] [1733571138.459025059] [bt_navigator]: Received goal preemption request
+[INFO] [1733571138.459875580] [bt_navigator]: Begin navigating from current location (-1.51, -0.21) to (-4.51, -0.36)
+[INFO] [1733571139.458791154] [bt_navigator]: Received goal preemption request
+[INFO] [1733571139.459095134] [bt_navigator]: Begin navigating from current location (-1.52, -0.22) to (-4.51, -0.36)
+[INFO] [1733571140.458794376] [bt_navigator]: Received goal preemption request
+[INFO] [1733571140.459172491] [bt_navigator]: Begin navigating from current location (-1.54, -0.23) to (-4.51, -0.36)
+[INFO] [1733571141.459784130] [bt_navigator]: Received goal preemption request
+[INFO] [1733571141.462519366] [bt_navigator]: Begin navigating from current location (-1.55, -0.23) to (-4.51, -0.36)
+[INFO] [1733571142.458744664] [bt_navigator]: Received goal preemption request
+[INFO] [1733571142.458995136] [bt_navigator]: Begin navigating from current location (-1.57, -0.24) to (-4.51, -0.36)
+[INFO] [1733571143.458764444] [bt_navigator]: Received goal preemption request
+[INFO] [1733571143.458987242] [bt_navigator]: Begin navigating from current location (-1.59, -0.25) to (-4.51, -0.36)
+[WARN] [1733571143.479668714] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733571144.458760868] [bt_navigator]: Received goal preemption request
+[INFO] [1733571144.459055127] [bt_navigator]: Begin navigating from current location (-1.61, -0.26) to (-4.51, -0.36)
+[INFO] [1733571145.458765190] [bt_navigator]: Received goal preemption request
+[INFO] [1733571145.458991689] [bt_navigator]: Begin navigating from current location (-1.62, -0.27) to (-4.51, -0.36)
+[INFO] [1733571146.459183213] [bt_navigator]: Received goal preemption request
+[INFO] [1733571146.459445970] [bt_navigator]: Begin navigating from current location (-1.64, -0.28) to (-4.51, -0.36)
+[INFO] [1733571147.458759095] [bt_navigator]: Received goal preemption request
+[INFO] [1733571147.459017889] [bt_navigator]: Begin navigating from current location (-1.65, -0.28) to (-4.51, -0.36)
+[INFO] [1733571148.466533527] [bt_navigator]: Received goal preemption request
+[INFO] [1733571148.466859669] [bt_navigator]: Begin navigating from current location (-1.67, -0.29) to (-4.51, -0.36)
+[INFO] [1733571149.458862384] [bt_navigator]: Received goal preemption request
+[INFO] [1733571149.459595847] [bt_navigator]: Begin navigating from current location (-1.69, -0.30) to (-4.51, -0.36)
+[INFO] [1733571150.462909545] [bt_navigator]: Received goal preemption request
+[INFO] [1733571150.463282203] [bt_navigator]: Begin navigating from current location (-1.71, -0.31) to (-4.51, -0.36)
+[INFO] [1733571151.458861584] [bt_navigator]: Received goal preemption request
+[INFO] [1733571151.459149165] [bt_navigator]: Begin navigating from current location (-1.72, -0.31) to (-4.51, -0.36)
+[INFO] [1733571152.458775519] [bt_navigator]: Received goal preemption request
+[INFO] [1733571152.459024703] [bt_navigator]: Begin navigating from current location (-1.74, -0.32) to (-4.51, -0.36)
+[INFO] [1733571153.459146113] [bt_navigator]: Received goal preemption request
+[INFO] [1733571153.459462784] [bt_navigator]: Begin navigating from current location (-1.76, -0.33) to (-4.51, -0.36)
+[INFO] [1733571154.458800710] [bt_navigator]: Received goal preemption request
+[INFO] [1733571154.459081602] [bt_navigator]: Begin navigating from current location (-1.77, -0.33) to (-4.51, -0.36)
+[INFO] [1733571155.458791573] [bt_navigator]: Received goal preemption request
+[INFO] [1733571155.459045172] [bt_navigator]: Begin navigating from current location (-1.79, -0.34) to (-4.51, -0.36)
+[WARN] [1733571155.658627397] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733571156.458786811] [bt_navigator]: Received goal preemption request
+[INFO] [1733571156.459341909] [bt_navigator]: Begin navigating from current location (-1.80, -0.34) to (-4.51, -0.36)
+[INFO] [1733571157.458858020] [bt_navigator]: Received goal preemption request
+[INFO] [1733571157.459611669] [bt_navigator]: Begin navigating from current location (-1.80, -0.34) to (-4.51, -0.36)
+[INFO] [1733571158.458742086] [bt_navigator]: Received goal preemption request
+[INFO] [1733571158.458968293] [bt_navigator]: Begin navigating from current location (-1.80, -0.34) to (-4.51, -0.36)
+[INFO] [1733571159.458767536] [bt_navigator]: Received goal preemption request
+[INFO] [1733571159.459084176] [bt_navigator]: Begin navigating from current location (-1.80, -0.34) to (-4.51, -0.36)
+[INFO] [1733571160.457513876] [bt_navigator]: Received goal preemption request
+[INFO] [1733571160.457752626] [bt_navigator]: Begin navigating from current location (-1.79, -0.34) to (-4.51, -0.36)
+[INFO] [1733571161.459069902] [bt_navigator]: Received goal preemption request
+[INFO] [1733571161.460009204] [bt_navigator]: Begin navigating from current location (-1.79, -0.34) to (-4.51, -0.36)
+[INFO] [1733571162.458814242] [bt_navigator]: Received goal preemption request
+[INFO] [1733571162.459458340] [bt_navigator]: Begin navigating from current location (-1.78, -0.34) to (-4.51, -0.36)
+[INFO] [1733571163.458759712] [bt_navigator]: Received goal preemption request
+[INFO] [1733571163.458988239] [bt_navigator]: Begin navigating from current location (-1.78, -0.33) to (-4.51, -0.36)
+[INFO] [1733571164.458776795] [bt_navigator]: Received goal preemption request
+[INFO] [1733571164.459114287] [bt_navigator]: Begin navigating from current location (-1.78, -0.33) to (-4.51, -0.36)
+[INFO] [1733571165.458767070] [bt_navigator]: Received goal preemption request
+[INFO] [1733571165.459011310] [bt_navigator]: Begin navigating from current location (-1.77, -0.33) to (-4.51, -0.36)
+[INFO] [1733571166.459183957] [bt_navigator]: Received goal preemption request
+[INFO] [1733571166.459552542] [bt_navigator]: Begin navigating from current location (-1.78, -0.33) to (-4.51, -0.36)
+[INFO] [1733571167.458755493] [bt_navigator]: Received goal preemption request
+[INFO] [1733571167.459423747] [bt_navigator]: Begin navigating from current location (-1.79, -0.34) to (-4.51, -0.36)
+[INFO] [1733571168.458994132] [bt_navigator]: Received goal preemption request
+[INFO] [1733571168.459356772] [bt_navigator]: Begin navigating from current location (-1.81, -0.34) to (-4.51, -0.36)
+[INFO] [1733571169.458697773] [bt_navigator]: Received goal preemption request
+[INFO] [1733571169.459561105] [bt_navigator]: Begin navigating from current location (-1.82, -0.35) to (-4.51, -0.36)
+[INFO] [1733571170.458762418] [bt_navigator]: Received goal preemption request
+[INFO] [1733571170.459002897] [bt_navigator]: Begin navigating from current location (-1.84, -0.35) to (-4.51, -0.36)
+[INFO] [1733571171.468975990] [bt_navigator]: Received goal preemption request
+[INFO] [1733571171.469255621] [bt_navigator]: Begin navigating from current location (-1.86, -0.36) to (-4.51, -0.36)
+[INFO] [1733571172.458710003] [bt_navigator]: Received goal preemption request
+[INFO] [1733571172.458938009] [bt_navigator]: Begin navigating from current location (-1.87, -0.37) to (-4.51, -0.36)
+[INFO] [1733571173.458765806] [bt_navigator]: Received goal preemption request
+[INFO] [1733571173.459689137] [bt_navigator]: Begin navigating from current location (-1.89, -0.37) to (-4.51, -0.36)
+[INFO] [1733571174.458875863] [bt_navigator]: Received goal preemption request
+[INFO] [1733571174.459302480] [bt_navigator]: Begin navigating from current location (-1.91, -0.38) to (-4.51, -0.36)
+[INFO] [1733571175.458876840] [bt_navigator]: Received goal preemption request
+[INFO] [1733571175.460390312] [bt_navigator]: Begin navigating from current location (-1.93, -0.38) to (-4.51, -0.36)
+[INFO] [1733571176.459222633] [bt_navigator]: Received goal preemption request
+[INFO] [1733571176.459460460] [bt_navigator]: Begin navigating from current location (-1.94, -0.39) to (-4.51, -0.36)
+[INFO] [1733571177.458827640] [bt_navigator]: Received goal preemption request
+[INFO] [1733571177.459519277] [bt_navigator]: Begin navigating from current location (-1.96, -0.39) to (-4.51, -0.36)
+[INFO] [1733571178.458975494] [bt_navigator]: Received goal preemption request
+[INFO] [1733571178.459754612] [bt_navigator]: Begin navigating from current location (-1.98, -0.40) to (-4.51, -0.36)
+[INFO] [1733571179.458782618] [bt_navigator]: Received goal preemption request
+[INFO] [1733571179.459464768] [bt_navigator]: Begin navigating from current location (-2.00, -0.40) to (-4.51, -0.36)
+[INFO] [1733571180.459148698] [bt_navigator]: Received goal preemption request
+[INFO] [1733571180.459626592] [bt_navigator]: Begin navigating from current location (-2.02, -0.41) to (-4.51, -0.36)
+[INFO] [1733571181.459022725] [bt_navigator]: Received goal preemption request
+[INFO] [1733571181.459665255] [bt_navigator]: Begin navigating from current location (-2.03, -0.41) to (-4.51, -0.36)
+[INFO] [1733571182.458989139] [bt_navigator]: Received goal preemption request
+[INFO] [1733571182.459363642] [bt_navigator]: Begin navigating from current location (-2.05, -0.42) to (-4.51, -0.36)
+[INFO] [1733571183.459641136] [bt_navigator]: Received goal preemption request
+[INFO] [1733571183.459932668] [bt_navigator]: Begin navigating from current location (-2.06, -0.42) to (-4.51, -0.36)
+[INFO] [1733571184.458754711] [bt_navigator]: Received goal preemption request
+[INFO] [1733571184.459091616] [bt_navigator]: Begin navigating from current location (-2.08, -0.43) to (-4.51, -0.36)
+[INFO] [1733571185.459913852] [bt_navigator]: Received goal preemption request
+[INFO] [1733571185.460126531] [bt_navigator]: Begin navigating from current location (-2.10, -0.43) to (-4.51, -0.36)
+[INFO] [1733571186.458750554] [bt_navigator]: Received goal preemption request
+[INFO] [1733571186.458948830] [bt_navigator]: Begin navigating from current location (-2.11, -0.43) to (-4.51, -0.36)
+[INFO] [1733571187.458849525] [bt_navigator]: Received goal preemption request
+[INFO] [1733571187.459069938] [bt_navigator]: Begin navigating from current location (-2.12, -0.44) to (-4.51, -0.36)
+[INFO] [1733571188.460566906] [bt_navigator]: Received goal preemption request
+[INFO] [1733571188.461387622] [bt_navigator]: Begin navigating from current location (-2.12, -0.44) to (-4.51, -0.36)
+[INFO] [1733571189.458833068] [bt_navigator]: Received goal preemption request
+[INFO] [1733571189.459050872] [bt_navigator]: Begin navigating from current location (-2.11, -0.44) to (-4.51, -0.36)
+[INFO] [1733571190.458818597] [bt_navigator]: Received goal preemption request
+[INFO] [1733571190.459261791] [bt_navigator]: Begin navigating from current location (-2.11, -0.45) to (-4.51, -0.36)
+[INFO] [1733571191.458765609] [bt_navigator]: Received goal preemption request
+[INFO] [1733571191.459048448] [bt_navigator]: Begin navigating from current location (-2.11, -0.45) to (-4.51, -0.36)
+[INFO] [1733571192.459162765] [bt_navigator]: Received goal preemption request
+[INFO] [1733571192.459674116] [bt_navigator]: Begin navigating from current location (-2.11, -0.46) to (-4.51, -0.36)
+[INFO] [1733571193.458748365] [bt_navigator]: Received goal preemption request
+[INFO] [1733571193.458987166] [bt_navigator]: Begin navigating from current location (-2.10, -0.46) to (-4.51, -0.36)
+[INFO] [1733571194.459055938] [bt_navigator]: Received goal preemption request
+[INFO] [1733571194.459714456] [bt_navigator]: Begin navigating from current location (-2.10, -0.47) to (-4.51, -0.36)
+[INFO] [1733571195.458776796] [bt_navigator]: Received goal preemption request
+[INFO] [1733571195.458984230] [bt_navigator]: Begin navigating from current location (-2.12, -0.48) to (-4.51, -0.36)
+[INFO] [1733571196.458683249] [bt_navigator]: Received goal preemption request
+[INFO] [1733571196.459307121] [bt_navigator]: Begin navigating from current location (-2.12, -0.48) to (-4.51, -0.36)
+[INFO] [1733571197.458761558] [bt_navigator]: Received goal preemption request
+[INFO] [1733571197.458979228] [bt_navigator]: Begin navigating from current location (-2.11, -0.49) to (-4.51, -0.36)
+[INFO] [1733571198.465186090] [bt_navigator]: Received goal preemption request
+[INFO] [1733571198.465415713] [bt_navigator]: Begin navigating from current location (-2.11, -0.49) to (-4.51, -0.36)
+[INFO] [1733571199.459706095] [bt_navigator]: Received goal preemption request
+[INFO] [1733571199.474532019] [bt_navigator]: Begin navigating from current location (-2.11, -0.49) to (-4.51, -0.36)
+[WARN] [1733571199.476876906] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733571199.479906277] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733571200.458739161] [bt_navigator]: Received goal preemption request
+[INFO] [1733571200.459156020] [bt_navigator]: Begin navigating from current location (-2.11, -0.49) to (-4.51, -0.36)
+[INFO] [1733571201.458817298] [bt_navigator]: Received goal preemption request
+[INFO] [1733571201.459409334] [bt_navigator]: Begin navigating from current location (-2.11, -0.50) to (-4.51, -0.36)
+[INFO] [1733571202.458737666] [bt_navigator]: Received goal preemption request
+[INFO] [1733571202.459210255] [bt_navigator]: Begin navigating from current location (-2.11, -0.50) to (-4.51, -0.36)
+[INFO] [1733571203.458734132] [bt_navigator]: Received goal preemption request
+[INFO] [1733571203.459162295] [bt_navigator]: Begin navigating from current location (-2.13, -0.52) to (-4.51, -0.36)
+[INFO] [1733571204.458697478] [bt_navigator]: Received goal preemption request
+[INFO] [1733571204.458930115] [bt_navigator]: Begin navigating from current location (-2.14, -0.53) to (-4.51, -0.36)
+[INFO] [1733571205.458753561] [bt_navigator]: Received goal preemption request
+[INFO] [1733571205.458965112] [bt_navigator]: Begin navigating from current location (-2.15, -0.55) to (-4.51, -0.36)
+[INFO] [1733571206.458728425] [bt_navigator]: Received goal preemption request
+[INFO] [1733571206.458943710] [bt_navigator]: Begin navigating from current location (-2.17, -0.56) to (-4.51, -0.36)
+[INFO] [1733571207.460232241] [bt_navigator]: Received goal preemption request
+[INFO] [1733571207.460407212] [bt_navigator]: Begin navigating from current location (-2.19, -0.57) to (-4.51, -0.36)
+[INFO] [1733571208.458712997] [bt_navigator]: Received goal preemption request
+[INFO] [1733571208.458931623] [bt_navigator]: Begin navigating from current location (-2.20, -0.58) to (-4.51, -0.36)
+[INFO] [1733571209.458762920] [bt_navigator]: Received goal preemption request
+[INFO] [1733571209.459037287] [bt_navigator]: Begin navigating from current location (-2.22, -0.59) to (-4.51, -0.36)
+[INFO] [1733571210.458761305] [bt_navigator]: Received goal preemption request
+[INFO] [1733571210.458965123] [bt_navigator]: Begin navigating from current location (-2.23, -0.60) to (-4.51, -0.36)
+[INFO] [1733571211.458742952] [bt_navigator]: Received goal preemption request
+[INFO] [1733571211.458982503] [bt_navigator]: Begin navigating from current location (-2.25, -0.61) to (-4.51, -0.36)
+[INFO] [1733571212.458768098] [bt_navigator]: Received goal preemption request
+[INFO] [1733571212.459457412] [bt_navigator]: Begin navigating from current location (-2.27, -0.61) to (-4.51, -0.36)
+[INFO] [1733571213.461900708] [bt_navigator]: Received goal preemption request
+[INFO] [1733571213.462126447] [bt_navigator]: Begin navigating from current location (-2.29, -0.62) to (-4.51, -0.36)
+[INFO] [1733571214.458850900] [bt_navigator]: Received goal preemption request
+[INFO] [1733571214.459441198] [bt_navigator]: Begin navigating from current location (-2.31, -0.63) to (-4.51, -0.36)
+[INFO] [1733571215.458761870] [bt_navigator]: Received goal preemption request
+[INFO] [1733571215.459019964] [bt_navigator]: Begin navigating from current location (-2.34, -0.64) to (-4.51, -0.36)
+[INFO] [1733571216.458717022] [bt_navigator]: Received goal preemption request
+[INFO] [1733571216.458915165] [bt_navigator]: Begin navigating from current location (-2.35, -0.64) to (-4.51, -0.36)
+[INFO] [1733571217.458936680] [bt_navigator]: Received goal preemption request
+[INFO] [1733571217.459161373] [bt_navigator]: Begin navigating from current location (-2.37, -0.64) to (-4.51, -0.36)
+[INFO] [1733571218.458763273] [bt_navigator]: Received goal preemption request
+[INFO] [1733571218.458967089] [bt_navigator]: Begin navigating from current location (-2.38, -0.64) to (-4.51, -0.36)
+[INFO] [1733571219.462051641] [bt_navigator]: Received goal preemption request
+[INFO] [1733571219.462309276] [bt_navigator]: Begin navigating from current location (-2.40, -0.64) to (-4.51, -0.36)
+[INFO] [1733571220.458756276] [bt_navigator]: Received goal preemption request
+[INFO] [1733571220.459001465] [bt_navigator]: Begin navigating from current location (-2.41, -0.65) to (-4.51, -0.36)
+[INFO] [1733571221.459269126] [bt_navigator]: Received goal preemption request
+[INFO] [1733571221.459483305] [bt_navigator]: Begin navigating from current location (-2.43, -0.65) to (-4.51, -0.36)
+[INFO] [1733571222.458851811] [bt_navigator]: Received goal preemption request
+[INFO] [1733571222.459433591] [bt_navigator]: Begin navigating from current location (-2.43, -0.65) to (-4.51, -0.36)
+[INFO] [1733571223.458874395] [bt_navigator]: Received goal preemption request
+[INFO] [1733571223.459487247] [bt_navigator]: Begin navigating from current location (-2.43, -0.65) to (-4.51, -0.36)
+[INFO] [1733571224.458945610] [bt_navigator]: Received goal preemption request
+[INFO] [1733571224.460115900] [bt_navigator]: Begin navigating from current location (-2.43, -0.65) to (-4.51, -0.36)
+[INFO] [1733571225.458751459] [bt_navigator]: Received goal preemption request
+[INFO] [1733571225.458951503] [bt_navigator]: Begin navigating from current location (-2.43, -0.65) to (-4.51, -0.36)
+[INFO] [1733571226.458831322] [bt_navigator]: Received goal preemption request
+[INFO] [1733571226.459381182] [bt_navigator]: Begin navigating from current location (-2.42, -0.64) to (-4.51, -0.36)
+[WARN] [1733571226.528893109] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733571227.458756209] [bt_navigator]: Received goal preemption request
+[INFO] [1733571227.458981214] [bt_navigator]: Begin navigating from current location (-2.42, -0.64) to (-4.51, -0.36)
+[INFO] [1733571228.458757293] [bt_navigator]: Received goal preemption request
+[INFO] [1733571228.459182012] [bt_navigator]: Begin navigating from current location (-2.41, -0.64) to (-4.51, -0.36)
+[WARN] [1733571228.969126023] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733571229.458741230] [bt_navigator]: Received goal preemption request
+[INFO] [1733571229.458990030] [bt_navigator]: Begin navigating from current location (-2.41, -0.64) to (-4.51, -0.36)
+[INFO] [1733571230.458780709] [bt_navigator]: Received goal preemption request
+[INFO] [1733571230.459341773] [bt_navigator]: Begin navigating from current location (-2.41, -0.64) to (-4.51, -0.36)
+[INFO] [1733571231.458770768] [bt_navigator]: Received goal preemption request
+[INFO] [1733571231.459072047] [bt_navigator]: Begin navigating from current location (-2.41, -0.64) to (-4.51, -0.36)
+[INFO] [1733571232.459478760] [bt_navigator]: Received goal preemption request
+[INFO] [1733571232.460114789] [bt_navigator]: Begin navigating from current location (-2.41, -0.64) to (-4.51, -0.36)
+[INFO] [1733571233.458752469] [bt_navigator]: Received goal preemption request
+[INFO] [1733571233.458988446] [bt_navigator]: Begin navigating from current location (-2.42, -0.64) to (-4.51, -0.36)
+[INFO] [1733571234.458807447] [bt_navigator]: Received goal preemption request
+[INFO] [1733571234.459026836] [bt_navigator]: Begin navigating from current location (-2.44, -0.64) to (-4.51, -0.36)
+[INFO] [1733571235.458769179] [bt_navigator]: Received goal preemption request
+[INFO] [1733571235.458981645] [bt_navigator]: Begin navigating from current location (-2.46, -0.64) to (-4.51, -0.36)
+[INFO] [1733571236.458901388] [bt_navigator]: Received goal preemption request
+[INFO] [1733571236.459101248] [bt_navigator]: Begin navigating from current location (-2.48, -0.64) to (-4.51, -0.36)
+[INFO] [1733571237.458711389] [bt_navigator]: Received goal preemption request
+[INFO] [1733571237.458935739] [bt_navigator]: Begin navigating from current location (-2.49, -0.64) to (-4.51, -0.36)
+[INFO] [1733571238.458873797] [bt_navigator]: Received goal preemption request
+[INFO] [1733571238.459066704] [bt_navigator]: Begin navigating from current location (-2.51, -0.65) to (-4.51, -0.36)
+[INFO] [1733571239.458757209] [bt_navigator]: Received goal preemption request
+[INFO] [1733571239.459019011] [bt_navigator]: Begin navigating from current location (-2.52, -0.64) to (-4.51, -0.36)
+[INFO] [1733571240.458719434] [bt_navigator]: Received goal preemption request
+[INFO] [1733571240.458951679] [bt_navigator]: Begin navigating from current location (-2.54, -0.64) to (-4.51, -0.36)
+[INFO] [1733571241.458769193] [bt_navigator]: Received goal preemption request
+[INFO] [1733571241.459011804] [bt_navigator]: Begin navigating from current location (-2.56, -0.64) to (-4.51, -0.36)
+[WARN] [1733571241.561958817] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733571242.019597822] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733571242.458814839] [bt_navigator]: Received goal preemption request
+[INFO] [1733571242.459319086] [bt_navigator]: Begin navigating from current location (-2.58, -0.64) to (-4.51, -0.36)
+[INFO] [1733571243.458986542] [bt_navigator]: Received goal preemption request
+[INFO] [1733571243.459219828] [bt_navigator]: Begin navigating from current location (-2.59, -0.65) to (-4.51, -0.36)
+[INFO] [1733571244.458780329] [bt_navigator]: Received goal preemption request
+[INFO] [1733571244.458980870] [bt_navigator]: Begin navigating from current location (-2.62, -0.65) to (-4.51, -0.36)
+[INFO] [1733571245.458819253] [bt_navigator]: Received goal preemption request
+[INFO] [1733571245.459404728] [bt_navigator]: Begin navigating from current location (-2.63, -0.64) to (-4.51, -0.36)
+[INFO] [1733571246.458730321] [bt_navigator]: Received goal preemption request
+[INFO] [1733571246.458953993] [bt_navigator]: Begin navigating from current location (-2.65, -0.64) to (-4.51, -0.36)
+[INFO] [1733571247.458755118] [bt_navigator]: Received goal preemption request
+[INFO] [1733571247.459395273] [bt_navigator]: Begin navigating from current location (-2.66, -0.64) to (-4.51, -0.36)
+[INFO] [1733571248.458737410] [bt_navigator]: Received goal preemption request
+[INFO] [1733571248.459042725] [bt_navigator]: Begin navigating from current location (-2.68, -0.64) to (-4.51, -0.36)
+[INFO] [1733571249.458721398] [bt_navigator]: Received goal preemption request
+[INFO] [1733571249.458941167] [bt_navigator]: Begin navigating from current location (-2.70, -0.64) to (-4.51, -0.36)
+[INFO] [1733571250.458800567] [bt_navigator]: Received goal preemption request
+[INFO] [1733571250.459253524] [bt_navigator]: Begin navigating from current location (-2.72, -0.64) to (-4.51, -0.36)
+[INFO] [1733571251.458768997] [bt_navigator]: Received goal preemption request
+[INFO] [1733571251.459007306] [bt_navigator]: Begin navigating from current location (-2.74, -0.64) to (-4.51, -0.36)
+[INFO] [1733571252.458879191] [bt_navigator]: Received goal preemption request
+[INFO] [1733571252.459302221] [bt_navigator]: Begin navigating from current location (-2.75, -0.64) to (-4.51, -0.36)
+[WARN] [1733571253.158888980] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733571253.458728343] [bt_navigator]: Received goal preemption request
+[INFO] [1733571253.458931333] [bt_navigator]: Begin navigating from current location (-2.76, -0.64) to (-4.51, -0.36)
+[INFO] [1733571254.458759601] [bt_navigator]: Received goal preemption request
+[INFO] [1733571254.458987896] [bt_navigator]: Begin navigating from current location (-2.76, -0.65) to (-4.51, -0.36)
+[INFO] [1733571255.458763865] [bt_navigator]: Received goal preemption request
+[INFO] [1733571255.458982881] [bt_navigator]: Begin navigating from current location (-2.76, -0.65) to (-4.51, -0.36)
+[INFO] [1733571256.458755662] [bt_navigator]: Received goal preemption request
+[INFO] [1733571256.458954617] [bt_navigator]: Begin navigating from current location (-2.76, -0.65) to (-4.51, -0.36)
+[INFO] [1733571257.458800982] [bt_navigator]: Received goal preemption request
+[INFO] [1733571257.459720971] [bt_navigator]: Begin navigating from current location (-2.76, -0.66) to (-4.51, -0.36)
+[INFO] [1733571258.458722191] [bt_navigator]: Received goal preemption request
+[INFO] [1733571258.458939211] [bt_navigator]: Begin navigating from current location (-2.76, -0.66) to (-4.51, -0.36)
+[INFO] [1733571259.458879417] [bt_navigator]: Received goal preemption request
+[INFO] [1733571259.459563412] [bt_navigator]: Begin navigating from current location (-2.76, -0.67) to (-4.51, -0.36)
+[INFO] [1733571260.458754709] [bt_navigator]: Received goal preemption request
+[INFO] [1733571260.458959072] [bt_navigator]: Begin navigating from current location (-2.75, -0.67) to (-4.51, -0.36)
+[INFO] [1733571261.458736389] [bt_navigator]: Received goal preemption request
+[INFO] [1733571261.458956733] [bt_navigator]: Begin navigating from current location (-2.75, -0.68) to (-4.51, -0.36)
+[INFO] [1733571262.458762161] [bt_navigator]: Received goal preemption request
+[INFO] [1733571262.459074553] [bt_navigator]: Begin navigating from current location (-2.75, -0.68) to (-4.51, -0.36)
+[INFO] [1733571263.458685958] [bt_navigator]: Received goal preemption request
+[INFO] [1733571263.458955970] [bt_navigator]: Begin navigating from current location (-2.75, -0.69) to (-4.51, -0.36)
+[INFO] [1733571264.467819895] [bt_navigator]: Received goal preemption request
+[INFO] [1733571264.468952977] [bt_navigator]: Begin navigating from current location (-2.76, -0.70) to (-4.51, -0.36)
+[WARN] [1733571264.470331173] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733571265.462867009] [bt_navigator]: Received goal preemption request
+[INFO] [1733571265.463555414] [bt_navigator]: Begin navigating from current location (-2.76, -0.70) to (-4.51, -0.36)
+[INFO] [1733571266.459166191] [bt_navigator]: Received goal preemption request
+[INFO] [1733571266.459352698] [bt_navigator]: Begin navigating from current location (-2.76, -0.70) to (-4.51, -0.36)
+[INFO] [1733571267.458670322] [bt_navigator]: Received goal preemption request
+[INFO] [1733571267.458957877] [bt_navigator]: Begin navigating from current location (-2.78, -0.71) to (-4.51, -0.36)
+[INFO] [1733571268.458689001] [bt_navigator]: Received goal preemption request
+[INFO] [1733571268.458978299] [bt_navigator]: Begin navigating from current location (-2.78, -0.71) to (-4.51, -0.36)
+[INFO] [1733571269.458706055] [bt_navigator]: Received goal preemption request
+[INFO] [1733571269.458915751] [bt_navigator]: Begin navigating from current location (-2.80, -0.72) to (-4.51, -0.36)
+[INFO] [1733571270.458730983] [bt_navigator]: Received goal preemption request
+[INFO] [1733571270.458963459] [bt_navigator]: Begin navigating from current location (-2.81, -0.73) to (-4.51, -0.36)
+[INFO] [1733571271.458722047] [bt_navigator]: Received goal preemption request
+[INFO] [1733571271.458967523] [bt_navigator]: Begin navigating from current location (-2.83, -0.74) to (-4.51, -0.36)
+[INFO] [1733571272.459011738] [bt_navigator]: Received goal preemption request
+[INFO] [1733571272.459220078] [bt_navigator]: Begin navigating from current location (-2.85, -0.75) to (-4.51, -0.36)
+[INFO] [1733571273.461268280] [bt_navigator]: Received goal preemption request
+[INFO] [1733571273.461460803] [bt_navigator]: Begin navigating from current location (-2.87, -0.75) to (-4.51, -0.36)
+[INFO] [1733571274.458715943] [bt_navigator]: Received goal preemption request
+[INFO] [1733571274.458935980] [bt_navigator]: Begin navigating from current location (-2.89, -0.76) to (-4.51, -0.36)
+[INFO] [1733571275.458693144] [bt_navigator]: Received goal preemption request
+[INFO] [1733571275.459563084] [bt_navigator]: Begin navigating from current location (-2.91, -0.76) to (-4.51, -0.36)
+[INFO] [1733571276.458775923] [bt_navigator]: Received goal preemption request
+[INFO] [1733571276.459038529] [bt_navigator]: Begin navigating from current location (-2.92, -0.76) to (-4.51, -0.36)
+[INFO] [1733571277.458868048] [bt_navigator]: Received goal preemption request
+[INFO] [1733571277.459309743] [bt_navigator]: Begin navigating from current location (-2.94, -0.77) to (-4.51, -0.36)
+[INFO] [1733571278.458889452] [bt_navigator]: Received goal preemption request
+[INFO] [1733571278.459600074] [bt_navigator]: Begin navigating from current location (-2.96, -0.77) to (-4.51, -0.36)
+[INFO] [1733571279.458797265] [bt_navigator]: Received goal preemption request
+[INFO] [1733571279.459108922] [bt_navigator]: Begin navigating from current location (-2.98, -0.77) to (-4.51, -0.36)
+[INFO] [1733571280.458834195] [bt_navigator]: Received goal preemption request
+[INFO] [1733571280.459486895] [bt_navigator]: Begin navigating from current location (-2.99, -0.77) to (-4.51, -0.36)
+[INFO] [1733571281.458694090] [bt_navigator]: Received goal preemption request
+[INFO] [1733571281.458940537] [bt_navigator]: Begin navigating from current location (-3.01, -0.77) to (-4.51, -0.36)
+[INFO] [1733571282.458756953] [bt_navigator]: Received goal preemption request
+[INFO] [1733571282.458939034] [bt_navigator]: Begin navigating from current location (-3.02, -0.77) to (-4.51, -0.36)
+[INFO] [1733571283.458780905] [bt_navigator]: Received goal preemption request
+[INFO] [1733571283.459036021] [bt_navigator]: Begin navigating from current location (-3.04, -0.77) to (-4.51, -0.36)
+[INFO] [1733571284.459624658] [bt_navigator]: Received goal preemption request
+[INFO] [1733571284.459872025] [bt_navigator]: Begin navigating from current location (-3.06, -0.77) to (-4.51, -0.36)
+[INFO] [1733571285.458806529] [bt_navigator]: Received goal preemption request
+[INFO] [1733571285.459017049] [bt_navigator]: Begin navigating from current location (-3.06, -0.76) to (-4.51, -0.36)
+[INFO] [1733571286.460082387] [bt_navigator]: Received goal preemption request
+[INFO] [1733571286.460520430] [bt_navigator]: Begin navigating from current location (-3.08, -0.76) to (-4.51, -0.36)
+[INFO] [1733571287.458717710] [bt_navigator]: Received goal preemption request
+[INFO] [1733571287.458940022] [bt_navigator]: Begin navigating from current location (-3.09, -0.76) to (-4.51, -0.36)
+[INFO] [1733571288.458762082] [bt_navigator]: Received goal preemption request
+[INFO] [1733571288.459046973] [bt_navigator]: Begin navigating from current location (-3.10, -0.76) to (-4.51, -0.36)
+[INFO] [1733571289.459106958] [bt_navigator]: Received goal preemption request
+[INFO] [1733571289.459365403] [bt_navigator]: Begin navigating from current location (-3.11, -0.76) to (-4.51, -0.36)
+[INFO] [1733571290.458839059] [bt_navigator]: Received goal preemption request
+[INFO] [1733571290.459266999] [bt_navigator]: Begin navigating from current location (-3.10, -0.76) to (-4.51, -0.36)
+[INFO] [1733571291.458828213] [bt_navigator]: Received goal preemption request
+[INFO] [1733571291.459189190] [bt_navigator]: Begin navigating from current location (-3.09, -0.76) to (-4.51, -0.36)
+[INFO] [1733571292.459480443] [bt_navigator]: Received goal preemption request
+[INFO] [1733571292.459910039] [bt_navigator]: Begin navigating from current location (-3.08, -0.76) to (-4.51, -0.36)
+[INFO] [1733571293.458679574] [bt_navigator]: Received goal preemption request
+[INFO] [1733571293.459077645] [bt_navigator]: Begin navigating from current location (-3.08, -0.76) to (-4.51, -0.36)
+[INFO] [1733571294.469883985] [bt_navigator]: Received goal preemption request
+[INFO] [1733571294.470200857] [bt_navigator]: Begin navigating from current location (-3.08, -0.76) to (-4.51, -0.36)
+[INFO] [1733571295.458760911] [bt_navigator]: Received goal preemption request
+[INFO] [1733571295.458983065] [bt_navigator]: Begin navigating from current location (-3.07, -0.76) to (-4.51, -0.36)
+[INFO] [1733571296.458804519] [bt_navigator]: Received goal preemption request
+[INFO] [1733571296.459009398] [bt_navigator]: Begin navigating from current location (-3.07, -0.76) to (-4.51, -0.36)
+[INFO] [1733571297.458836978] [bt_navigator]: Received goal preemption request
+[INFO] [1733571297.459097729] [bt_navigator]: Begin navigating from current location (-3.07, -0.76) to (-4.51, -0.36)
+[INFO] [1733571298.458754166] [bt_navigator]: Received goal preemption request
+[INFO] [1733571298.459045278] [bt_navigator]: Begin navigating from current location (-3.07, -0.76) to (-4.51, -0.36)
+[INFO] [1733571299.458766087] [bt_navigator]: Received goal preemption request
+[INFO] [1733571299.458962057] [bt_navigator]: Begin navigating from current location (-3.08, -0.75) to (-4.51, -0.36)
+[INFO] [1733571300.458719538] [bt_navigator]: Received goal preemption request
+[INFO] [1733571300.458932072] [bt_navigator]: Begin navigating from current location (-3.10, -0.75) to (-4.51, -0.36)
+[INFO] [1733571301.458728333] [bt_navigator]: Received goal preemption request
+[INFO] [1733571301.458935111] [bt_navigator]: Begin navigating from current location (-3.12, -0.75) to (-4.51, -0.36)
+[INFO] [1733571302.458747972] [bt_navigator]: Received goal preemption request
+[INFO] [1733571302.458962249] [bt_navigator]: Begin navigating from current location (-3.13, -0.74) to (-4.51, -0.36)
+[INFO] [1733571303.458755243] [bt_navigator]: Received goal preemption request
+[INFO] [1733571303.458974368] [bt_navigator]: Begin navigating from current location (-3.15, -0.74) to (-4.51, -0.36)
+[INFO] [1733571304.478803259] [bt_navigator]: Received goal preemption request
+[INFO] [1733571304.479238460] [bt_navigator]: Begin navigating from current location (-3.17, -0.73) to (-4.51, -0.36)
+[INFO] [1733571305.458872165] [bt_navigator]: Received goal preemption request
+[INFO] [1733571305.459619568] [bt_navigator]: Begin navigating from current location (-3.19, -0.73) to (-4.51, -0.36)
+[INFO] [1733571306.458831521] [bt_navigator]: Received goal preemption request
+[INFO] [1733571306.459456706] [bt_navigator]: Begin navigating from current location (-3.21, -0.73) to (-4.51, -0.36)
+[INFO] [1733571307.458678754] [bt_navigator]: Received goal preemption request
+[INFO] [1733571307.458897595] [bt_navigator]: Begin navigating from current location (-3.22, -0.72) to (-4.51, -0.36)
+[INFO] [1733571308.458776827] [bt_navigator]: Received goal preemption request
+[INFO] [1733571308.458984696] [bt_navigator]: Begin navigating from current location (-3.24, -0.72) to (-4.51, -0.36)
+[INFO] [1733571309.458899535] [bt_navigator]: Received goal preemption request
+[INFO] [1733571309.459057363] [bt_navigator]: Begin navigating from current location (-3.26, -0.71) to (-4.51, -0.36)
+[INFO] [1733571310.462041202] [bt_navigator]: Received goal preemption request
+[INFO] [1733571310.462372720] [bt_navigator]: Begin navigating from current location (-3.28, -0.71) to (-4.51, -0.36)
+[INFO] [1733571311.459022768] [bt_navigator]: Received goal preemption request
+[INFO] [1733571311.459238090] [bt_navigator]: Begin navigating from current location (-3.29, -0.71) to (-4.51, -0.36)
+[INFO] [1733571312.458737100] [bt_navigator]: Received goal preemption request
+[INFO] [1733571312.459093426] [bt_navigator]: Begin navigating from current location (-3.31, -0.71) to (-4.51, -0.36)
+[INFO] [1733571313.458756316] [bt_navigator]: Received goal preemption request
+[INFO] [1733571313.459043354] [bt_navigator]: Begin navigating from current location (-3.33, -0.70) to (-4.51, -0.36)
+[INFO] [1733571314.458761036] [bt_navigator]: Received goal preemption request
+[INFO] [1733571314.459014844] [bt_navigator]: Begin navigating from current location (-3.35, -0.70) to (-4.51, -0.36)
+[INFO] [1733571315.458727686] [bt_navigator]: Received goal preemption request
+[INFO] [1733571315.458961389] [bt_navigator]: Begin navigating from current location (-3.37, -0.69) to (-4.51, -0.36)
+[INFO] [1733571316.458722652] [bt_navigator]: Received goal preemption request
+[INFO] [1733571316.458954794] [bt_navigator]: Begin navigating from current location (-3.38, -0.69) to (-4.51, -0.36)
+[INFO] [1733571317.459022244] [bt_navigator]: Received goal preemption request
+[INFO] [1733571317.459312506] [bt_navigator]: Begin navigating from current location (-3.40, -0.68) to (-4.51, -0.36)
+[INFO] [1733571318.458761731] [bt_navigator]: Received goal preemption request
+[INFO] [1733571318.458967190] [bt_navigator]: Begin navigating from current location (-3.42, -0.67) to (-4.51, -0.36)
+[INFO] [1733571319.469158332] [bt_navigator]: Received goal preemption request
+[INFO] [1733571319.469418146] [bt_navigator]: Begin navigating from current location (-3.43, -0.67) to (-4.51, -0.36)
+[INFO] [1733571320.461719708] [bt_navigator]: Received goal preemption request
+[INFO] [1733571320.461986100] [bt_navigator]: Begin navigating from current location (-3.43, -0.67) to (-4.51, -0.36)
+[INFO] [1733571321.459094807] [bt_navigator]: Received goal preemption request
+[INFO] [1733571321.459773423] [bt_navigator]: Begin navigating from current location (-3.43, -0.68) to (-4.51, -0.36)
+[INFO] [1733571322.460013847] [bt_navigator]: Received goal preemption request
+[INFO] [1733571322.460492565] [bt_navigator]: Begin navigating from current location (-3.43, -0.68) to (-4.51, -0.36)
+[INFO] [1733571323.458735138] [bt_navigator]: Received goal preemption request
+[INFO] [1733571323.459170911] [bt_navigator]: Begin navigating from current location (-3.43, -0.68) to (-4.51, -0.36)
+[INFO] [1733571324.458865683] [bt_navigator]: Received goal preemption request
+[INFO] [1733571324.459091438] [bt_navigator]: Begin navigating from current location (-3.43, -0.69) to (-4.51, -0.36)
+[INFO] [1733571325.458930292] [bt_navigator]: Received goal preemption request
+[INFO] [1733571325.459462389] [bt_navigator]: Begin navigating from current location (-3.43, -0.70) to (-4.51, -0.36)
+[INFO] [1733571326.458765269] [bt_navigator]: Received goal preemption request
+[INFO] [1733571326.459028261] [bt_navigator]: Begin navigating from current location (-3.43, -0.70) to (-4.51, -0.36)
+[INFO] [1733571327.458827856] [bt_navigator]: Received goal preemption request
+[INFO] [1733571327.459107686] [bt_navigator]: Begin navigating from current location (-3.43, -0.71) to (-4.51, -0.36)
+[INFO] [1733571328.459185373] [bt_navigator]: Received goal preemption request
+[INFO] [1733571328.459465095] [bt_navigator]: Begin navigating from current location (-3.43, -0.72) to (-4.51, -0.36)
+[INFO] [1733571329.459706036] [bt_navigator]: Received goal preemption request
+[INFO] [1733571329.460040899] [bt_navigator]: Begin navigating from current location (-3.43, -0.72) to (-4.51, -0.36)
+[INFO] [1733571330.459432606] [bt_navigator]: Received goal preemption request
+[INFO] [1733571330.459666967] [bt_navigator]: Begin navigating from current location (-3.43, -0.72) to (-4.51, -0.36)
+[INFO] [1733571331.460212648] [bt_navigator]: Received goal preemption request
+[INFO] [1733571331.460467203] [bt_navigator]: Begin navigating from current location (-3.44, -0.73) to (-4.51, -0.36)
+[INFO] [1733571332.458728308] [bt_navigator]: Received goal preemption request
+[INFO] [1733571332.458996594] [bt_navigator]: Begin navigating from current location (-3.44, -0.73) to (-4.51, -0.36)
+[INFO] [1733571333.458784439] [bt_navigator]: Received goal preemption request
+[INFO] [1733571333.459399688] [bt_navigator]: Begin navigating from current location (-3.44, -0.73) to (-4.51, -0.36)
+[INFO] [1733571334.458700984] [bt_navigator]: Received goal preemption request
+[INFO] [1733571334.458980084] [bt_navigator]: Begin navigating from current location (-3.45, -0.74) to (-4.51, -0.36)
+[INFO] [1733571335.458712439] [bt_navigator]: Received goal preemption request
+[INFO] [1733571335.458936763] [bt_navigator]: Begin navigating from current location (-3.46, -0.74) to (-4.51, -0.36)
+[INFO] [1733571336.458701079] [bt_navigator]: Received goal preemption request
+[INFO] [1733571336.464796861] [bt_navigator]: Begin navigating from current location (-3.48, -0.75) to (-4.51, -0.36)
+[INFO] [1733571337.458788885] [bt_navigator]: Received goal preemption request
+[INFO] [1733571337.459014209] [bt_navigator]: Begin navigating from current location (-3.50, -0.75) to (-4.51, -0.36)
+[INFO] [1733571338.458707131] [bt_navigator]: Received goal preemption request
+[INFO] [1733571338.458922754] [bt_navigator]: Begin navigating from current location (-3.52, -0.75) to (-4.51, -0.36)
+[INFO] [1733571339.458723766] [bt_navigator]: Received goal preemption request
+[INFO] [1733571339.458926828] [bt_navigator]: Begin navigating from current location (-3.54, -0.75) to (-4.51, -0.36)
+[INFO] [1733571340.458788683] [bt_navigator]: Received goal preemption request
+[INFO] [1733571340.459023815] [bt_navigator]: Begin navigating from current location (-3.56, -0.75) to (-4.51, -0.36)
+[INFO] [1733571341.460368885] [bt_navigator]: Received goal preemption request
+[INFO] [1733571341.460684833] [bt_navigator]: Begin navigating from current location (-3.57, -0.75) to (-4.51, -0.36)
+[INFO] [1733571342.458852154] [bt_navigator]: Received goal preemption request
+[INFO] [1733571342.459260014] [bt_navigator]: Begin navigating from current location (-3.59, -0.74) to (-4.51, -0.36)
+[INFO] [1733571343.458743009] [bt_navigator]: Received goal preemption request
+[INFO] [1733571343.458959315] [bt_navigator]: Begin navigating from current location (-3.61, -0.73) to (-4.51, -0.36)
+[INFO] [1733571344.458832468] [bt_navigator]: Received goal preemption request
+[INFO] [1733571344.459472002] [bt_navigator]: Begin navigating from current location (-3.63, -0.73) to (-4.51, -0.36)
+[INFO] [1733571345.458758454] [bt_navigator]: Received goal preemption request
+[INFO] [1733571345.459003562] [bt_navigator]: Begin navigating from current location (-3.64, -0.73) to (-4.51, -0.36)
+[INFO] [1733571346.458761304] [bt_navigator]: Received goal preemption request
+[INFO] [1733571346.458994648] [bt_navigator]: Begin navigating from current location (-3.66, -0.72) to (-4.51, -0.36)
+[INFO] [1733571347.458844328] [bt_navigator]: Received goal preemption request
+[INFO] [1733571347.459101469] [bt_navigator]: Begin navigating from current location (-3.66, -0.72) to (-4.51, -0.36)
+[INFO] [1733571348.458844033] [bt_navigator]: Received goal preemption request
+[INFO] [1733571348.459141954] [bt_navigator]: Begin navigating from current location (-3.67, -0.72) to (-4.51, -0.36)
+[INFO] [1733571349.458726200] [bt_navigator]: Received goal preemption request
+[INFO] [1733571349.459905633] [bt_navigator]: Begin navigating from current location (-3.69, -0.71) to (-4.51, -0.36)
+[INFO] [1733571350.459378336] [bt_navigator]: Received goal preemption request
+[INFO] [1733571350.459671360] [bt_navigator]: Begin navigating from current location (-3.69, -0.70) to (-4.51, -0.36)
+[INFO] [1733571351.459325526] [bt_navigator]: Received goal preemption request
+[INFO] [1733571351.459577346] [bt_navigator]: Begin navigating from current location (-3.71, -0.70) to (-4.51, -0.36)
+[ERROR] [1733571352.388675872] [bt_navigator]: Goal failed
+[WARN] [1733571352.388736212] [bt_navigator]: [navigate_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733571352.455861668] [bt_navigator]: Begin navigating from current location (-3.73, -0.69) to (-4.51, -0.36)
+[INFO] [1733571353.466277134] [bt_navigator]: Received goal preemption request
+[INFO] [1733571353.467354181] [bt_navigator]: Begin navigating from current location (-3.74, -0.68) to (-4.51, -0.36)
+[INFO] [1733571354.466086005] [bt_navigator]: Received goal preemption request
+[INFO] [1733571354.466373027] [bt_navigator]: Begin navigating from current location (-3.76, -0.68) to (-4.51, -0.36)
+[INFO] [1733571355.456325865] [bt_navigator]: Received goal preemption request
+[INFO] [1733571355.456929020] [bt_navigator]: Begin navigating from current location (-3.77, -0.67) to (-4.51, -0.36)
+[WARN] [1733571356.186370295] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733571356.456283746] [bt_navigator]: Received goal preemption request
+[INFO] [1733571356.458007512] [bt_navigator]: Begin navigating from current location (-3.78, -0.67) to (-4.51, -0.36)
+[INFO] [1733571357.456066655] [bt_navigator]: Received goal preemption request
+[INFO] [1733571357.456263700] [bt_navigator]: Begin navigating from current location (-3.80, -0.66) to (-4.51, -0.36)
+[INFO] [1733571358.456435401] [bt_navigator]: Received goal preemption request
+[INFO] [1733571358.456756505] [bt_navigator]: Begin navigating from current location (-3.81, -0.66) to (-4.51, -0.36)
+[INFO] [1733571359.467497284] [bt_navigator]: Received goal preemption request
+[INFO] [1733571359.467928830] [bt_navigator]: Begin navigating from current location (-3.83, -0.65) to (-4.51, -0.36)
+[INFO] [1733571360.466775965] [bt_navigator]: Received goal preemption request
+[INFO] [1733571360.467010139] [bt_navigator]: Begin navigating from current location (-3.85, -0.64) to (-4.51, -0.36)
+[WARN] [1733571360.487188266] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733571361.456577103] [bt_navigator]: Received goal preemption request
+[INFO] [1733571361.460074987] [bt_navigator]: Begin navigating from current location (-3.86, -0.64) to (-4.51, -0.36)
+[WARN] [1733571361.497005567] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733571362.467552647] [bt_navigator]: Received goal preemption request
+[INFO] [1733571362.467934423] [bt_navigator]: Begin navigating from current location (-3.87, -0.63) to (-4.51, -0.36)
+[INFO] [1733571363.456116204] [bt_navigator]: Received goal preemption request
+[INFO] [1733571363.456377640] [bt_navigator]: Begin navigating from current location (-3.89, -0.63) to (-4.51, -0.36)
+[INFO] [1733571364.456192065] [bt_navigator]: Received goal preemption request
+[INFO] [1733571364.456645479] [bt_navigator]: Begin navigating from current location (-3.91, -0.62) to (-4.51, -0.36)
+[INFO] [1733571365.466125641] [bt_navigator]: Received goal preemption request
+[INFO] [1733571365.466426918] [bt_navigator]: Begin navigating from current location (-3.92, -0.61) to (-4.51, -0.36)
+[WARN] [1733571365.900999559] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733571366.456261125] [bt_navigator]: Received goal preemption request
+[INFO] [1733571366.457187130] [bt_navigator]: Begin navigating from current location (-3.94, -0.61) to (-4.51, -0.36)
+[INFO] [1733571367.456148343] [bt_navigator]: Received goal preemption request
+[INFO] [1733571367.456400392] [bt_navigator]: Begin navigating from current location (-3.95, -0.60) to (-4.51, -0.36)
+[INFO] [1733571368.466116441] [bt_navigator]: Received goal preemption request
+[INFO] [1733571368.467487206] [bt_navigator]: Begin navigating from current location (-3.97, -0.60) to (-4.51, -0.36)
+[INFO] [1733571369.466899304] [bt_navigator]: Received goal preemption request
+[INFO] [1733571369.467211982] [bt_navigator]: Begin navigating from current location (-4.00, -0.57) to (-4.51, -0.36)
+[INFO] [1733571370.456059971] [bt_navigator]: Received goal preemption request
+[INFO] [1733571370.456283980] [bt_navigator]: Begin navigating from current location (-4.01, -0.56) to (-4.51, -0.36)
+[INFO] [1733571371.456022424] [bt_navigator]: Received goal preemption request
+[INFO] [1733571371.456255881] [bt_navigator]: Begin navigating from current location (-4.03, -0.56) to (-4.51, -0.36)
+[INFO] [1733571372.456061098] [bt_navigator]: Received goal preemption request
+[INFO] [1733571372.456296355] [bt_navigator]: Begin navigating from current location (-4.04, -0.55) to (-4.51, -0.36)
+[INFO] [1733571373.456061019] [bt_navigator]: Received goal preemption request
+[INFO] [1733571373.456312539] [bt_navigator]: Begin navigating from current location (-4.06, -0.55) to (-4.51, -0.36)
+[INFO] [1733571374.456065763] [bt_navigator]: Received goal preemption request
+[INFO] [1733571374.459576560] [bt_navigator]: Begin navigating from current location (-4.07, -0.54) to (-4.51, -0.36)
+[INFO] [1733571375.456133029] [bt_navigator]: Received goal preemption request
+[INFO] [1733571375.456754908] [bt_navigator]: Begin navigating from current location (-4.07, -0.54) to (-4.51, -0.36)
+[INFO] [1733571376.456350224] [bt_navigator]: Received goal preemption request
+[INFO] [1733571376.456526675] [bt_navigator]: Begin navigating from current location (-4.07, -0.55) to (-4.51, -0.36)
+[WARN] [1733571376.456584348] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733571377.467561015] [bt_navigator]: Received goal preemption request
+[INFO] [1733571377.468015447] [bt_navigator]: Begin navigating from current location (-4.07, -0.55) to (-4.51, -0.36)
+[INFO] [1733571378.456930829] [bt_navigator]: Received goal preemption request
+[INFO] [1733571378.457107158] [bt_navigator]: Begin navigating from current location (-4.07, -0.55) to (-4.51, -0.36)
+[INFO] [1733571379.466094869] [bt_navigator]: Received goal preemption request
+[INFO] [1733571379.466352263] [bt_navigator]: Begin navigating from current location (-4.06, -0.55) to (-4.51, -0.36)
+[INFO] [1733571380.456070356] [bt_navigator]: Received goal preemption request
+[INFO] [1733571380.456255759] [bt_navigator]: Begin navigating from current location (-4.06, -0.55) to (-4.51, -0.36)
+[INFO] [1733571381.466079788] [bt_navigator]: Received goal preemption request
+[INFO] [1733571381.466344323] [bt_navigator]: Begin navigating from current location (-4.06, -0.55) to (-4.51, -0.36)
+[INFO] [1733571382.457668605] [bt_navigator]: Received goal preemption request
+[INFO] [1733571382.457930964] [bt_navigator]: Begin navigating from current location (-4.05, -0.55) to (-4.51, -0.36)
+[INFO] [1733571383.470324434] [bt_navigator]: Received goal preemption request
+[INFO] [1733571383.471473973] [bt_navigator]: Begin navigating from current location (-4.05, -0.55) to (-4.51, -0.36)
+[INFO] [1733571384.456053754] [bt_navigator]: Received goal preemption request
+[INFO] [1733571384.456240142] [bt_navigator]: Begin navigating from current location (-4.06, -0.55) to (-4.51, -0.36)
+[INFO] [1733571385.456110020] [bt_navigator]: Received goal preemption request
+[INFO] [1733571385.456736740] [bt_navigator]: Begin navigating from current location (-4.06, -0.55) to (-4.51, -0.36)
+[INFO] [1733571386.466242466] [bt_navigator]: Received goal preemption request
+[INFO] [1733571386.466738311] [bt_navigator]: Begin navigating from current location (-4.08, -0.54) to (-4.51, -0.36)
+[INFO] [1733571387.456154772] [bt_navigator]: Received goal preemption request
+[INFO] [1733571387.456378338] [bt_navigator]: Begin navigating from current location (-4.09, -0.54) to (-4.51, -0.36)
+[INFO] [1733571388.456133521] [bt_navigator]: Received goal preemption request
+[INFO] [1733571388.456612483] [bt_navigator]: Begin navigating from current location (-4.11, -0.53) to (-4.51, -0.36)
+[INFO] [1733571389.456669463] [bt_navigator]: Received goal preemption request
+[INFO] [1733571389.456939435] [bt_navigator]: Begin navigating from current location (-4.12, -0.53) to (-4.51, -0.36)
+[INFO] [1733571390.456060326] [bt_navigator]: Received goal preemption request
+[INFO] [1733571390.456302678] [bt_navigator]: Begin navigating from current location (-4.14, -0.52) to (-4.51, -0.36)
+[INFO] [1733571391.466083575] [bt_navigator]: Received goal preemption request
+[INFO] [1733571391.466327815] [bt_navigator]: Begin navigating from current location (-4.16, -0.51) to (-4.51, -0.36)
+[INFO] [1733571392.456066407] [bt_navigator]: Received goal preemption request
+[INFO] [1733571392.456311219] [bt_navigator]: Begin navigating from current location (-4.17, -0.51) to (-4.51, -0.36)
+[INFO] [1733571393.456033229] [bt_navigator]: Received goal preemption request
+[INFO] [1733571393.456242001] [bt_navigator]: Begin navigating from current location (-4.19, -0.50) to (-4.51, -0.36)
+[INFO] [1733571394.466345059] [bt_navigator]: Received goal preemption request
+[INFO] [1733571394.466603614] [bt_navigator]: Begin navigating from current location (-4.20, -0.50) to (-4.51, -0.36)
+[INFO] [1733571395.467006734] [bt_navigator]: Received goal preemption request
+[INFO] [1733571395.467288454] [bt_navigator]: Begin navigating from current location (-4.21, -0.49) to (-4.51, -0.36)
+[INFO] [1733571396.456303295] [bt_navigator]: Received goal preemption request
+[INFO] [1733571396.456493892] [bt_navigator]: Begin navigating from current location (-4.23, -0.49) to (-4.51, -0.36)
+[INFO] [1733571397.456028036] [bt_navigator]: Received goal preemption request
+[INFO] [1733571397.456260873] [bt_navigator]: Begin navigating from current location (-4.24, -0.49) to (-4.51, -0.36)
+[INFO] [1733571398.456024550] [bt_navigator]: Received goal preemption request
+[INFO] [1733571398.456265875] [bt_navigator]: Begin navigating from current location (-4.25, -0.48) to (-4.51, -0.36)
+[INFO] [1733571399.467463277] [bt_navigator]: Received goal preemption request
+[INFO] [1733571399.468017268] [bt_navigator]: Begin navigating from current location (-4.26, -0.48) to (-4.51, -0.36)
+[INFO] [1733571400.456002407] [bt_navigator]: Received goal preemption request
+[INFO] [1733571400.456218506] [bt_navigator]: Begin navigating from current location (-4.27, -0.47) to (-4.51, -0.36)
+[INFO] [1733571401.456017279] [bt_navigator]: Received goal preemption request
+[INFO] [1733571401.456220647] [bt_navigator]: Begin navigating from current location (-4.28, -0.47) to (-4.51, -0.36)
+[INFO] [1733571402.456003987] [bt_navigator]: Received goal preemption request
+[INFO] [1733571402.456186666] [bt_navigator]: Begin navigating from current location (-4.29, -0.47) to (-4.51, -0.36)
+[INFO] [1733571403.456058845] [bt_navigator]: Received goal preemption request
+[INFO] [1733571403.456275645] [bt_navigator]: Begin navigating from current location (-4.29, -0.46) to (-4.51, -0.36)
+[INFO] [1733571404.456554979] [bt_navigator]: Received goal preemption request
+[INFO] [1733571404.456790794] [bt_navigator]: Begin navigating from current location (-4.30, -0.46) to (-4.51, -0.36)
+[WARN] [1733571405.019698293] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733571405.456069046] [bt_navigator]: Received goal preemption request
+[INFO] [1733571405.456383942] [bt_navigator]: Begin navigating from current location (-4.30, -0.46) to (-4.51, -0.36)
+[INFO] [1733571405.889874872] [rclcpp]: signal_handler(signum=2)
+[INFO] [1733571405.889935968] [bt_navigator]: Running Nav2 LifecycleNode rcl preshutdown (bt_navigator)
+[INFO] [1733571405.922881525] [bt_navigator]: Deactivating
+[WARN] [1733571405.922912489] [bt_navigator]: [navigate_to_pose] [ActionServer] Requested to deactivate server but goal is still executing. Should check if action server is running before deactivating.
+[ERROR] [1733571405.946405293] [bt_navigator_navigate_to_pose_rclcpp_node]: Failed to cancel action server for spin
+[ERROR] [1733571405.966557271] [bt_navigator_navigate_to_pose_rclcpp_node]: Failed to get result for spin in node halt!
+[INFO] [1733571405.966878937] [bt_navigator]: Goal canceled
+[WARN] [1733571405.966898708] [bt_navigator]: [navigate_to_pose] [ActionServer] Aborting handle.
+[WARN] [1733571405.967069242] [bt_navigator]: [navigate_to_pose] [ActionServer] Stopping the thread per request.
+[INFO] [1733571405.967301367] [bt_navigator]: Destroying bond (bt_navigator) to lifecycle manager.
+[INFO] [1733571405.997663460] [bt_navigator]: Cleaning up
+[INFO] [1733571406.296411035] [bt_navigator]: Completed Cleaning up
+[INFO] [1733571406.296504194] [bt_navigator]: Destroying bond (bt_navigator) to lifecycle manager.

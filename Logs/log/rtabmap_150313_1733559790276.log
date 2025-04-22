@@ -1,0 +1,64 @@
+[WARN] [1733559790.320339690] [rtabmap]: Parameter "queue_size" has been renamed to "sync_queue_size" and will be removed in future versions! The value (256) is copied to "sync_queue_size".
+[INFO] [1733559790.323806822] [rtabmap]: rtabmap(maps): latch                      = true
+[INFO] [1733559790.323836547] [rtabmap]: rtabmap(maps): map_filter_radius          = 0.000000
+[INFO] [1733559790.323851461] [rtabmap]: rtabmap(maps): map_filter_angle           = 30.000000
+[INFO] [1733559790.323858767] [rtabmap]: rtabmap(maps): map_cleanup                = true
+[INFO] [1733559790.323864280] [rtabmap]: rtabmap(maps): map_always_update          = true
+[INFO] [1733559790.323869631] [rtabmap]: rtabmap(maps): map_empty_ray_tracing      = true
+[INFO] [1733559790.323874826] [rtabmap]: rtabmap(maps): cloud_output_voxelized     = true
+[INFO] [1733559790.323880161] [rtabmap]: rtabmap(maps): cloud_subtract_filtering   = false
+[INFO] [1733559790.323885533] [rtabmap]: rtabmap(maps): cloud_subtract_filtering_min_neighbors = 2
+[INFO] [1733559790.323910899] [rtabmap]: rtabmap(maps): octomap_tree_depth         = 16
+[INFO] [1733559790.341943479] [rtabmap]: rtabmap: frame_id      = base_link
+[INFO] [1733559790.341979038] [rtabmap]: rtabmap: map_frame_id  = map
+[INFO] [1733559790.341985905] [rtabmap]: rtabmap: log_to_rosout_level  = 4
+[INFO] [1733559790.341991779] [rtabmap]: rtabmap: initial_pose  = 
+[INFO] [1733559790.341997385] [rtabmap]: rtabmap: use_action_for_goal  = false
+[INFO] [1733559790.342002981] [rtabmap]: rtabmap: tf_delay      = 0.050000
+[INFO] [1733559790.342011193] [rtabmap]: rtabmap: tf_tolerance  = 0.100000
+[INFO] [1733559790.342017191] [rtabmap]: rtabmap: odom_sensor_sync   = false
+[INFO] [1733559790.342022654] [rtabmap]: rtabmap: pub_loc_pose_only_when_localizing = false
+[INFO] [1733559790.342028192] [rtabmap]: rtabmap: gen_scan  = true
+[INFO] [1733559790.342033550] [rtabmap]: rtabmap: gen_scan_max_depth  = 4.000000
+[INFO] [1733559790.342039612] [rtabmap]: rtabmap: gen_scan_min_depth  = 0.000000
+[INFO] [1733559790.342045325] [rtabmap]: rtabmap: gen_depth  = false
+[INFO] [1733559790.364233813] [rtabmap]: Update RTAB-Map parameter "Rtabmap/DetectionRate"="5" from arguments
+[WARN] [1733559790.364309388] [rtabmap]: Setting "Grid/Sensor" parameter to 0 (default 1) as "subscribe_scan" or "subscribe_scan_cloud" or "gen_scan" is true. The occupancy grid map will be constructed from laser scans. To get occupancy grid map from cloud projection, set "Grid/Sensor" to true. To suppress this warning, add <param name="Grid/Sensor" type="string" value="0"/>
+[INFO] [1733559790.364328176] [rtabmap]: Setting "Grid/RangeMax" parameter to 0 (default 5.000000) as "subscribe_scan" or "subscribe_scan_cloud" or "gen_scan" is true and Grid/Sensor is 0.
+[INFO] [1733559790.365828447] [rtabmap]: RTAB-Map detection rate = 5.000000 Hz
+[INFO] [1733559790.365934985] [rtabmap]: rtabmap: Using database from "/home/abc/.ros/rtabmap.db" (2620 MB).
+[INFO] [1733559799.450818021] [rtabmap]: rtabmap: 2D occupancy grid map loaded (341x248).
+[INFO] [1733559801.060687416] [rtabmap]: rtabmap: Working Memory = 770, Local map = 770.
+[INFO] [1733559801.060822508] [rtabmap]: rtabmap: Database version = "0.21.6".
+[INFO] [1733559801.060840464] [rtabmap]: rtabmap: SLAM mode (Mem/IncrementalMemory=true)
+[INFO] [1733559801.101920579] [rtabmap]: Setup callbacks
+[INFO] [1733559801.102078289] [rtabmap]: rtabmap: subscribe_depth = true
+[INFO] [1733559801.102102272] [rtabmap]: rtabmap: subscribe_rgb = true
+[INFO] [1733559801.102110730] [rtabmap]: rtabmap: subscribe_stereo = false
+[INFO] [1733559801.102117078] [rtabmap]: rtabmap: subscribe_rgbd = false (rgbd_cameras=1)
+[INFO] [1733559801.102123915] [rtabmap]: rtabmap: subscribe_sensor_data = false
+[INFO] [1733559801.102129714] [rtabmap]: rtabmap: subscribe_odom_info = false
+[INFO] [1733559801.102135125] [rtabmap]: rtabmap: subscribe_user_data = false
+[INFO] [1733559801.102140415] [rtabmap]: rtabmap: subscribe_scan = false
+[INFO] [1733559801.102146111] [rtabmap]: rtabmap: subscribe_scan_cloud = false
+[INFO] [1733559801.102151399] [rtabmap]: rtabmap: subscribe_scan_descriptor = false
+[INFO] [1733559801.102189919] [rtabmap]: rtabmap: topic_queue_size = 1
+[INFO] [1733559801.102198950] [rtabmap]: rtabmap: sync_queue_size  = 256
+[INFO] [1733559801.102204969] [rtabmap]: rtabmap: qos_image       = 0
+[INFO] [1733559801.102210961] [rtabmap]: rtabmap: qos_camera_info = 0
+[INFO] [1733559801.102216239] [rtabmap]: rtabmap: qos_scan        = 0
+[INFO] [1733559801.102221813] [rtabmap]: rtabmap: qos_odom        = 0
+[INFO] [1733559801.102227281] [rtabmap]: rtabmap: qos_user_data   = 0
+[INFO] [1733559801.102232508] [rtabmap]: rtabmap: approx_sync     = true
+[INFO] [1733559801.102250863] [rtabmap]: Setup depth callback
+[INFO] [1733559801.115880435] [rtabmap]: 
+rtabmap subscribed to (approx sync):
+   /odom \
+   /camera \
+   /depth_camera \
+   /rgb_info
+[INFO] [1733559815.942258137] [rtabmap]: rtabmap (1514): Rate=0.20s, Limit=0.000s, Conversion=0.0099s, RTAB-Map=0.5646s, Maps update=0.0098s pub=0.0008s (local map=771, WM=771)
+[INFO] [1733559818.704770349] [rtabmap]: rtabmap (1515): Rate=0.20s, Limit=0.000s, Conversion=0.0024s, RTAB-Map=0.5374s, Maps update=0.0089s pub=0.0016s (local map=771, WM=771)
+[INFO] [1733559820.955287407] [rtabmap]: rtabmap (1516): Rate=0.20s, Limit=0.000s, Conversion=0.0033s, RTAB-Map=0.1138s, Maps update=0.0109s pub=0.0004s (local map=771, WM=771)
+[INFO] [1733559823.610583138] [rtabmap]: rtabmap (1517): Rate=0.20s, Limit=0.000s, Conversion=0.0087s, RTAB-Map=0.1141s, Maps update=0.0121s pub=0.0004s (local map=771, WM=771)
+[INFO] [1733559823.722639282] [rclcpp]: signal_handler(signum=2)

@@ -1,0 +1,8 @@
+[INFO] [1733481599.613217407] [rviz2]: Stereo is NOT SUPPORTED
+[INFO] [1733481599.613375642] [rviz2]: OpenGl version: 4.6 (GLSL 4.6)
+[INFO] [1733481599.629409340] [rviz2]: Stereo is NOT SUPPORTED
+[INFO] [1733481671.637850188] [rviz2]: Trying to create a map of size 401 x 282 using 1 swatches
+[ERROR] [1733481671.643803207] [rviz2]: Vertex Program:rviz/glsl120/indexed_8bit_image.vert Fragment Program:rviz/glsl120/indexed_8bit_image.frag GLSL link result : 
+active samplers with a different type refer to the same texture image unit
+[INFO] [1733481830.905151694] [rviz2]: Message Filter dropping message: frame 'map' at time 0.067 for reason 'the timestamp on the message is earlier than all the data in the transform cache'
+[INFO] [1733482035.240341696] [rclcpp]: signal_handler(signum=2)

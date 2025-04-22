@@ -1,0 +1,6 @@
+[WARN] [1733481622.941561939] []: Old-style arguments are deprecated; see --help for new-style arguments
+[INFO] [1733481622.963545650] [static_transform_publisher_xQNulJkgU00r7ojL]: Spinning until stopped - publishing transform
+translation: ('0.133300', '0.000000', '0.260720')
+rotation: ('-0.500000', '0.500000', '-0.500000', '0.500000')
+from 'base_link' to 'firebird_vi/OakD-Lite/base_link/IMX214'
+[INFO] [1733482040.416024447] [rclcpp]: signal_handler(signum=2)

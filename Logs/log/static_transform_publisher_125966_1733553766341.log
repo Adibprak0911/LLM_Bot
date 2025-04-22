@@ -1,0 +1,6 @@
+[WARN] [1733553766.341823442] []: Old-style arguments are deprecated; see --help for new-style arguments
+[INFO] [1733553766.355417059] [static_transform_publisher_MyxvzsTyvghJivtl]: Spinning until stopped - publishing transform
+translation: ('0.133300', '0.000000', '0.260720')
+rotation: ('-0.500000', '0.500000', '-0.500000', '0.500000')
+from 'base_link' to 'firebird_vi/OakD-Lite/base_link/StereoOV7251'
+[INFO] [1733554721.117034525] [rclcpp]: signal_handler(signum=2)

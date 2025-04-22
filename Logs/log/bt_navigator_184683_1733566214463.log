@@ -1,0 +1,78 @@
+[INFO] [1733566214.882716259] [bt_navigator]: 
+	bt_navigator lifecycle node launched. 
+	Waiting on external lifecycle transitions to activate
+	See https://design.ros2.org/articles/node_lifecycle.html for more information.
+[INFO] [1733566214.887362673] [bt_navigator]: Creating
+[INFO] [1733566216.814076421] [bt_navigator]: Configuring
+[INFO] [1733566225.238795221] [bt_navigator]: Activating
+[INFO] [1733566225.412763778] [bt_navigator]: Creating bond (bt_navigator) to lifecycle manager.
+[INFO] [1733566230.487878656] [bt_navigator]: Begin navigating from current location (0.00, 0.00) to (4.00, 0.00)
+[INFO] [1733566231.498111424] [bt_navigator]: Received goal preemption request
+[INFO] [1733566231.498322965] [bt_navigator]: Begin navigating from current location (0.00, -0.00) to (4.00, 0.00)
+[INFO] [1733566232.498135799] [bt_navigator]: Received goal preemption request
+[INFO] [1733566232.498303603] [bt_navigator]: Begin navigating from current location (0.01, -0.01) to (4.00, 0.00)
+[INFO] [1733566233.489593926] [bt_navigator]: Received goal preemption request
+[INFO] [1733566233.489728758] [bt_navigator]: Begin navigating from current location (0.03, -0.02) to (4.00, 0.00)
+[INFO] [1733566234.498123383] [bt_navigator]: Received goal preemption request
+[INFO] [1733566234.498296696] [bt_navigator]: Begin navigating from current location (0.05, -0.02) to (4.00, 0.00)
+[INFO] [1733566235.488156997] [bt_navigator]: Received goal preemption request
+[INFO] [1733566235.488507079] [bt_navigator]: Begin navigating from current location (0.07, -0.02) to (4.00, 0.00)
+[INFO] [1733566236.488092375] [bt_navigator]: Received goal preemption request
+[INFO] [1733566236.488220749] [bt_navigator]: Begin navigating from current location (0.09, -0.01) to (4.00, 0.00)
+[INFO] [1733566237.488161565] [bt_navigator]: Received goal preemption request
+[INFO] [1733566237.488496382] [bt_navigator]: Begin navigating from current location (0.11, -0.01) to (4.00, 0.00)
+[INFO] [1733566238.488165146] [bt_navigator]: Received goal preemption request
+[INFO] [1733566238.488411578] [bt_navigator]: Begin navigating from current location (0.13, -0.01) to (4.00, 0.00)
+[INFO] [1733566239.488125651] [bt_navigator]: Received goal preemption request
+[INFO] [1733566239.488247866] [bt_navigator]: Begin navigating from current location (0.15, -0.01) to (4.00, 0.00)
+[WARN] [1733566239.768153413] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733566240.488103676] [bt_navigator]: Received goal preemption request
+[INFO] [1733566240.488228393] [bt_navigator]: Begin navigating from current location (0.17, -0.01) to (4.00, 0.00)
+[INFO] [1733566241.488046517] [bt_navigator]: Received goal preemption request
+[INFO] [1733566241.488192934] [bt_navigator]: Begin navigating from current location (0.19, -0.01) to (4.00, 0.00)
+[INFO] [1733566242.488140717] [bt_navigator]: Received goal preemption request
+[INFO] [1733566242.488407901] [bt_navigator]: Begin navigating from current location (0.20, -0.01) to (4.00, 0.00)
+[INFO] [1733566243.488055790] [bt_navigator]: Received goal preemption request
+[INFO] [1733566243.488184441] [bt_navigator]: Begin navigating from current location (0.23, -0.01) to (4.00, 0.00)
+[INFO] [1733566244.488062920] [bt_navigator]: Received goal preemption request
+[INFO] [1733566244.488200469] [bt_navigator]: Begin navigating from current location (0.25, -0.01) to (4.00, 0.00)
+[INFO] [1733566245.488017707] [bt_navigator]: Received goal preemption request
+[INFO] [1733566245.488149487] [bt_navigator]: Begin navigating from current location (0.27, -0.01) to (4.00, 0.00)
+[INFO] [1733566246.488079541] [bt_navigator]: Received goal preemption request
+[INFO] [1733566246.488219464] [bt_navigator]: Begin navigating from current location (0.28, -0.01) to (4.00, 0.00)
+[INFO] [1733566247.488108242] [bt_navigator]: Received goal preemption request
+[INFO] [1733566247.488228004] [bt_navigator]: Begin navigating from current location (0.31, -0.01) to (4.00, 0.00)
+[INFO] [1733566248.488577055] [bt_navigator]: Received goal preemption request
+[INFO] [1733566248.488803800] [bt_navigator]: Begin navigating from current location (0.33, -0.00) to (4.00, 0.00)
+[INFO] [1733566249.488052721] [bt_navigator]: Received goal preemption request
+[INFO] [1733566249.488285244] [bt_navigator]: Begin navigating from current location (0.35, -0.00) to (4.00, 0.00)
+[INFO] [1733566250.488071369] [bt_navigator]: Received goal preemption request
+[INFO] [1733566250.488205649] [bt_navigator]: Begin navigating from current location (0.37, -0.00) to (4.00, 0.00)
+[WARN] [1733566251.150916927] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733566251.488097830] [bt_navigator]: Received goal preemption request
+[INFO] [1733566251.488237732] [bt_navigator]: Begin navigating from current location (0.39, -0.00) to (4.00, 0.00)
+[INFO] [1733566252.498098855] [bt_navigator]: Received goal preemption request
+[INFO] [1733566252.498242118] [bt_navigator]: Begin navigating from current location (0.42, 0.00) to (4.00, 0.00)
+[INFO] [1733566253.488126610] [bt_navigator]: Received goal preemption request
+[INFO] [1733566253.488288614] [bt_navigator]: Begin navigating from current location (0.44, 0.00) to (4.00, 0.00)
+[INFO] [1733566254.488091643] [bt_navigator]: Received goal preemption request
+[INFO] [1733566254.488245009] [bt_navigator]: Begin navigating from current location (0.45, 0.00) to (4.00, 0.00)
+[INFO] [1733566255.488104821] [bt_navigator]: Received goal preemption request
+[INFO] [1733566255.488249793] [bt_navigator]: Begin navigating from current location (0.48, 0.00) to (4.00, 0.00)
+[INFO] [1733566256.488182690] [bt_navigator]: Received goal preemption request
+[INFO] [1733566256.488619187] [bt_navigator]: Begin navigating from current location (0.50, 0.00) to (4.00, 0.00)
+[INFO] [1733566257.488119053] [bt_navigator]: Received goal preemption request
+[INFO] [1733566257.488288441] [bt_navigator]: Begin navigating from current location (0.52, 0.00) to (4.00, 0.00)
+[INFO] [1733566258.488123067] [bt_navigator]: Received goal preemption request
+[INFO] [1733566258.488307719] [bt_navigator]: Begin navigating from current location (0.54, 0.01) to (4.00, 0.00)
+[INFO] [1733566260.602911221] [rclcpp]: signal_handler(signum=2)
+[INFO] [1733566260.603204964] [bt_navigator]: Running Nav2 LifecycleNode rcl preshutdown (bt_navigator)
+[INFO] [1733566260.603354623] [bt_navigator]: Deactivating
+[WARN] [1733566260.603384321] [bt_navigator]: [navigate_to_pose] [ActionServer] Requested to deactivate server but goal is still executing. Should check if action server is running before deactivating.
+[INFO] [1733566260.608083294] [bt_navigator]: Goal canceled
+[WARN] [1733566260.608123507] [bt_navigator]: [navigate_to_pose] [ActionServer] Aborting handle.
+[WARN] [1733566260.608172492] [bt_navigator]: [navigate_to_pose] [ActionServer] Stopping the thread per request.
+[INFO] [1733566260.608318719] [bt_navigator]: Destroying bond (bt_navigator) to lifecycle manager.
+[INFO] [1733566260.618562659] [bt_navigator]: Cleaning up
+[INFO] [1733566261.019624101] [bt_navigator]: Completed Cleaning up
+[INFO] [1733566261.019782445] [bt_navigator]: Destroying bond (bt_navigator) to lifecycle manager.

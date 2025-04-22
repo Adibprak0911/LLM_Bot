@@ -1,0 +1,37 @@
+[INFO] [1733553760.571087646] [rviz2]: Stereo is NOT SUPPORTED
+[INFO] [1733553760.572251777] [rviz2]: OpenGl version: 4.6 (GLSL 4.6)
+[INFO] [1733553760.602947252] [rviz2]: Stereo is NOT SUPPORTED
+[INFO] [1733553782.884434317] [rviz2]: Trying to create a map of size 270 x 274 using 1 swatches
+[ERROR] [1733553782.891283823] [rviz2]: Vertex Program:rviz/glsl120/indexed_8bit_image.vert Fragment Program:rviz/glsl120/indexed_8bit_image.frag GLSL link result : 
+active samplers with a different type refer to the same texture image unit
+[INFO] [1733553798.450360064] [rviz2]: Setting goal pose: Frame:base_link, Position(-0.24241, 1.12512, 0), Orientation(0, 0, -0.988287, 0.152604) = Angle: -2.83519
+[INFO] [1733553831.371930488] [rviz2]: Setting goal pose: Frame:base_link, Position(-0.139071, 1.53003, 0), Orientation(0, 0, 0.981918, 0.189308) = Angle: 2.76068
+[INFO] [1733553843.500399751] [rviz2]: Setting goal pose: Frame:base_link, Position(-0.244069, 1.1859, 0), Orientation(0, 0, -0.999626, 0.0273455) = Angle: -3.08689
+[INFO] [1733553891.290073777] [rviz2]: Message Filter dropping message: frame 'map' at time 0.232 for reason 'the timestamp on the message is earlier than all the data in the transform cache'
+[INFO] [1733553891.556669064] [rviz2]: Setting goal pose: Frame:base_link, Position(2.18565, 1.9841, 0), Orientation(0, 0, 0.359718, 0.933061) = Angle: 0.735931
+[INFO] [1733553907.632885937] [rviz2]: Trying to create a map of size 299 x 274 using 1 swatches
+[INFO] [1733553919.977137657] [rviz2]: Setting goal pose: Frame:base_link, Position(-1.67887, -1.31593, 0), Orientation(0, 0, -0.94769, 0.319193) = Angle: -2.49184
+[INFO] [1733553938.394181518] [rviz2]: Trying to create a map of size 308 x 274 using 1 swatches
+[INFO] [1733553944.280580272] [rviz2]: Trying to create a map of size 311 x 274 using 1 swatches
+[INFO] [1733553958.871652427] [rviz2]: Setting goal pose: Frame:base_link, Position(1.9273, 1.26091, 0), Orientation(0, 0, 0.0277728, 0.999614) = Angle: 0.0555528
+[INFO] [1733553993.758409985] [rviz2]: Setting goal pose: Frame:base_link, Position(2.45304, -1.41156, 0), Orientation(0, 0, -0.179407, 0.983775) = Angle: -0.360768
+[INFO] [1733554014.079929299] [rviz2]: Trying to create a map of size 310 x 274 using 1 swatches
+[INFO] [1733554048.338425613] [rviz2]: Setting goal pose: Frame:base_link, Position(1.47988, -1.8844, 0), Orientation(0, 0, -0.602453, 0.798154) = Angle: -1.29314
+[INFO] [1733554082.765440966] [rviz2]: Setting goal pose: Frame:base_link, Position(0.468862, -1.23389, 0), Orientation(0, 0, -0.44376, 0.896146) = Angle: -0.91958
+[INFO] [1733554105.810471377] [rviz2]: Setting goal pose: Frame:base_link, Position(2.57652, 0.184146, 0), Orientation(0, 0, 0.0765685, 0.997064) = Angle: 0.153287
+[INFO] [1733554134.732973559] [rviz2]: Setting goal pose: Frame:base_link, Position(3.29981, 1.1447, 0), Orientation(0, 0, 0.0765685, 0.997064) = Angle: 0.153287
+[INFO] [1733554159.222761002] [rviz2]: Setting goal pose: Frame:base_link, Position(0.33179, -0.799323, 0), Orientation(0, 0, -0.815265, 0.579087) = Angle: -1.90637
+[INFO] [1733554185.329697763] [rviz2]: Setting goal pose: Frame:base_link, Position(0.297725, -1.61051, 0), Orientation(0, 0, -0.642605, 0.766198) = Angle: -1.39579
+[INFO] [1733554232.961352060] [rviz2]: Setting goal pose: Frame:base_link, Position(2.52818, -1.95323, 0), Orientation(0, 0, -0.26, 0.965609) = Angle: -0.526045
+[INFO] [1733554280.843083767] [rviz2]: Setting goal pose: Frame:base_link, Position(-0.154933, -1.20531, 0), Orientation(0, 0, -0.658257, 0.752793) = Angle: -1.437
+[INFO] [1733554296.617165714] [rviz2]: Setting goal pose: Frame:base_link, Position(1.38084, -0.121527, 0), Orientation(0, 0, 0.436913, 0.899504) = Angle: 0.904328
+[INFO] [1733554310.340643894] [rviz2]: Setting goal pose: Frame:base_link, Position(2.85222, 0.708514, 0), Orientation(0, 0, 0.344442, 0.938808) = Angle: 0.703289
+[INFO] [1733554348.590351843] [rviz2]: Setting goal pose: Frame:base_link, Position(3.19574, 0.193341, 0), Orientation(0, 0, 0.369359, 0.929287) = Angle: 0.756639
+[INFO] [1733554407.720675903] [rviz2]: Setting goal pose: Frame:base_link, Position(2.32964, -0.711523, 0), Orientation(0, 0, -0.143649, 0.989629) = Angle: -0.288296
+[INFO] [1733554428.515934978] [rviz2]: Setting goal pose: Frame:base_link, Position(1.79387, -0.429143, 0), Orientation(0, 0, 0.181467, 0.983397) = Angle: 0.364955
+[INFO] [1733554500.229203705] [rviz2]: Setting goal pose: Frame:base_link, Position(-2.03498, -2.36767, 0), Orientation(0, 0, -0.974767, 0.223224) = Angle: -2.69135
+[INFO] [1733554535.918602559] [rviz2]: Setting goal pose: Frame:base_link, Position(-0.261233, 2.61426, 0), Orientation(0, 0, 0.744998, 0.667067) = Angle: 1.68106
+[INFO] [1733554547.731878788] [rviz2]: Trying to create a map of size 310 x 294 using 1 swatches
+[INFO] [1733554550.491541221] [rviz2]: Trying to create a map of size 309 x 294 using 1 swatches
+[INFO] [1733554575.398562297] [rviz2]: Setting goal pose: Frame:base_link, Position(2.57979, 1.09102, 0), Orientation(0, 0, 0.3001, 0.953908) = Angle: 0.609594
+[INFO] [1733554719.877794835] [rclcpp]: signal_handler(signum=2)

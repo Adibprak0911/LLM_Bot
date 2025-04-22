@@ -1,0 +1,15 @@
+[INFO] [1733554738.735012859] [waypoint_follower]: 
+	waypoint_follower lifecycle node launched. 
+	Waiting on external lifecycle transitions to activate
+	See https://design.ros2.org/articles/node_lifecycle.html for more information.
+[INFO] [1733554738.735519825] [waypoint_follower]: Creating
+[INFO] [1733554740.068583674] [waypoint_follower]: Configuring
+[INFO] [1733554740.102716021] [waypoint_follower]: Created waypoint_task_executor : wait_at_waypoint of type nav2_waypoint_follower::WaitAtWaypoint
+[INFO] [1733554750.607775165] [waypoint_follower]: Activating
+[INFO] [1733554750.607832481] [waypoint_follower]: Creating bond (waypoint_follower) to lifecycle manager.
+[INFO] [1733557851.115410997] [rclcpp]: signal_handler(signum=2)
+[INFO] [1733557851.115616666] [waypoint_follower]: Running Nav2 LifecycleNode rcl preshutdown (waypoint_follower)
+[INFO] [1733557851.115696278] [waypoint_follower]: Deactivating
+[INFO] [1733557851.115725524] [waypoint_follower]: Destroying bond (waypoint_follower) to lifecycle manager.
+[INFO] [1733557851.134151716] [waypoint_follower]: Cleaning up
+[INFO] [1733557851.136039902] [waypoint_follower]: Destroying bond (waypoint_follower) to lifecycle manager.

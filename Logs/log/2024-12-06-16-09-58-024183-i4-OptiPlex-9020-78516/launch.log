@@ -1,0 +1,23 @@
+1733481598.0249817 [INFO] [launch]: All log files can be found below /home/abc/.ros/log/2024-12-06-16-09-58-024183-i4-OptiPlex-9020-78516
+1733481598.0251203 [INFO] [launch]: Default logging verbosity is set to INFO
+1733481598.2118294 [INFO] [ruby $(which gz) sim-1]: process started with pid [78517]
+1733481598.2120085 [INFO] [joint_state_publisher_gui-2]: process started with pid [78519]
+1733481598.2120941 [INFO] [robot_state_publisher-3]: process started with pid [78522]
+1733481598.2121682 [INFO] [rviz2-4]: process started with pid [78525]
+1733481598.2122381 [INFO] [parameter_bridge-5]: process started with pid [78527]
+1733481598.7627645 [robot_state_publisher-3] [1;31mError [Converter.cc:156][0m Unable to convert from SDF version 1.10 to 1.9
+1733481598.8698466 [robot_state_publisher-3] [WARN] [1733481598.869571719] [kdl_parser]: The root link base_link has an inertia specified in the URDF, but KDL does not support a root link with an inertia.  As a workaround, you can add an extra dummy link to your URDF.
+1733481598.8743904 [robot_state_publisher-3] [INFO] [1733481598.874106662] [robot_state_publisher]: got segment base_link
+1733481598.8745396 [robot_state_publisher-3] [INFO] [1733481598.874194123] [robot_state_publisher]: got segment front_left_wheel
+1733481598.8748415 [robot_state_publisher-3] [INFO] [1733481598.874202247] [robot_state_publisher]: got segment front_right_wheel
+1733481598.8749063 [robot_state_publisher-3] [INFO] [1733481598.874208136] [robot_state_publisher]: got segment rear_left_wheel
+1733481598.8749754 [robot_state_publisher-3] [INFO] [1733481598.874213513] [robot_state_publisher]: got segment rear_right_wheel
+1733482028.1668715 [INFO] [joint_state_publisher_gui-2]: process has finished cleanly [pid 78519]
+1733482035.2403893 [WARNING] [launch]: user interrupted with ctrl-c (SIGINT)
+1733482035.2570398 [robot_state_publisher-3] [INFO] [1733482035.240116957] [rclcpp]: signal_handler(signum=2)
+1733482035.3845541 [INFO] [robot_state_publisher-3]: process has finished cleanly [pid 78522]
+1733482035.4968936 [INFO] [rviz2-4]: process has finished cleanly [pid 78525]
+1733482037.6084142 [ERROR] [ruby $(which gz) sim-1]: process has died [pid 78517, exit code -2, cmd 'ruby $(which gz) sim /home/abc/Firebird-VI/install/mapping_gazebo/share/mapping_gazebo/worlds/empty.sdf --force-version 7'].
+1733482040.2603076 [ERROR] [parameter_bridge-5]: process[parameter_bridge-5] failed to terminate '5' seconds after receiving 'SIGINT', escalating to 'SIGTERM'
+1733482040.2611995 [INFO] [parameter_bridge-5]: sending signal 'SIGTERM' to process[parameter_bridge-5]
+1733482040.3816607 [INFO] [parameter_bridge-5]: process has finished cleanly [pid 78527]

@@ -1,0 +1,7 @@
+[WARN] [1733553760.320614546] [kdl_parser]: The root link base_link has an inertia specified in the URDF, but KDL does not support a root link with an inertia.  As a workaround, you can add an extra dummy link to your URDF.
+[INFO] [1733553760.325862345] [robot_state_publisher]: got segment base_link
+[INFO] [1733553760.325948238] [robot_state_publisher]: got segment front_left_wheel
+[INFO] [1733553760.325956475] [robot_state_publisher]: got segment front_right_wheel
+[INFO] [1733553760.325961934] [robot_state_publisher]: got segment rear_left_wheel
+[INFO] [1733553760.325966841] [robot_state_publisher]: got segment rear_right_wheel
+[INFO] [1733554719.872150176] [rclcpp]: signal_handler(signum=2)

@@ -1,0 +1,44 @@
+[WARN] [1733549355.706924189] [rtabmap]: Parameter "queue_size" has been renamed to "sync_queue_size" and will be removed in future versions! The value (256) is copied to "sync_queue_size".
+[INFO] [1733549355.708807459] [rtabmap]: rtabmap(maps): latch                      = true
+[INFO] [1733549355.708847393] [rtabmap]: rtabmap(maps): map_filter_radius          = 0.000000
+[INFO] [1733549355.708874428] [rtabmap]: rtabmap(maps): map_filter_angle           = 30.000000
+[INFO] [1733549355.708885673] [rtabmap]: rtabmap(maps): map_cleanup                = true
+[INFO] [1733549355.708893494] [rtabmap]: rtabmap(maps): map_always_update          = true
+[INFO] [1733549355.708901212] [rtabmap]: rtabmap(maps): map_empty_ray_tracing      = true
+[INFO] [1733549355.708908229] [rtabmap]: rtabmap(maps): cloud_output_voxelized     = true
+[INFO] [1733549355.708914979] [rtabmap]: rtabmap(maps): cloud_subtract_filtering   = false
+[INFO] [1733549355.708921942] [rtabmap]: rtabmap(maps): cloud_subtract_filtering_min_neighbors = 2
+[INFO] [1733549355.708948123] [rtabmap]: rtabmap(maps): octomap_tree_depth         = 16
+[INFO] [1733549355.742427307] [rtabmap]: rtabmap: frame_id      = base_link
+[INFO] [1733549355.742461550] [rtabmap]: rtabmap: map_frame_id  = map
+[INFO] [1733549355.742469114] [rtabmap]: rtabmap: log_to_rosout_level  = 4
+[INFO] [1733549355.742475632] [rtabmap]: rtabmap: initial_pose  = 
+[INFO] [1733549355.742481226] [rtabmap]: rtabmap: use_action_for_goal  = false
+[INFO] [1733549355.742487028] [rtabmap]: rtabmap: tf_delay      = 0.050000
+[INFO] [1733549355.742496912] [rtabmap]: rtabmap: tf_tolerance  = 0.100000
+[INFO] [1733549355.742503153] [rtabmap]: rtabmap: odom_sensor_sync   = false
+[INFO] [1733549355.742508958] [rtabmap]: rtabmap: pub_loc_pose_only_when_localizing = false
+[INFO] [1733549355.742514632] [rtabmap]: rtabmap: gen_scan  = true
+[INFO] [1733549355.742520112] [rtabmap]: rtabmap: gen_scan_max_depth  = 4.000000
+[INFO] [1733549355.742526346] [rtabmap]: rtabmap: gen_scan_min_depth  = 0.000000
+[INFO] [1733549355.742532271] [rtabmap]: rtabmap: gen_depth  = false
+[INFO] [1733549355.774462472] [rtabmap]: Update RTAB-Map parameter "Rtabmap/DetectionRate"="5" from arguments
+[WARN] [1733549355.774733504] [rtabmap]: Setting "Grid/Sensor" parameter to 0 (default 1) as "subscribe_scan" or "subscribe_scan_cloud" or "gen_scan" is true. The occupancy grid map will be constructed from laser scans. To get occupancy grid map from cloud projection, set "Grid/Sensor" to true. To suppress this warning, add <param name="Grid/Sensor" type="string" value="0"/>
+[INFO] [1733549355.774774420] [rtabmap]: Setting "Grid/RangeMax" parameter to 0 (default 5.000000) as "subscribe_scan" or "subscribe_scan_cloud" or "gen_scan" is true and Grid/Sensor is 0.
+[INFO] [1733549355.776768752] [rtabmap]: RTAB-Map detection rate = 5.000000 Hz
+[INFO] [1733549355.776955816] [rtabmap]: rtabmap: Using database from "/home/abc/.ros/rtabmap.db" (5190 MB).
+[INFO] [1733549375.925326014] [rtabmap]: rtabmap: 2D occupancy grid map loaded (401x282).
+[INFO] [1733549378.152238542] [rtabmap]: rtabmap: Working Memory = 1640, Local map = 1367.
+[INFO] [1733549378.152375314] [rtabmap]: rtabmap: Database version = "0.21.6".
+[INFO] [1733549378.152395827] [rtabmap]: rtabmap: SLAM mode (Mem/IncrementalMemory=true)
+[INFO] [1733549378.193406144] [rtabmap]: Setup callbacks
+[INFO] [1733549378.194175916] [rtabmap]: rtabmap: subscribe_depth = true
+[INFO] [1733549378.194652994] [rtabmap]: rtabmap: subscribe_rgb = true
+[INFO] [1733549378.195013861] [rtabmap]: rtabmap: subscribe_stereo = false
+[INFO] [1733549378.195327786] [rtabmap]: rtabmap: subscribe_rgbd = false (rgbd_cameras=1)
+[INFO] [1733549378.195630330] [rtabmap]: rtabmap: subscribe_sensor_data = false
+[INFO] [1733549378.195908952] [rtabmap]: rtabmap: subscribe_odom_info = false
+[INFO] [1733549378.196252597] [rtabmap]: rtabmap: subscribe_user_data = false
+[INFO] [1733549378.196535754] [rtabmap]: rtabmap: subscribe_scan = false
+[INFO] [1733549378.196847293] [rtabmap]: rtabmap: subscribe_scan_cloud = false
+[INFO] [1733549378.197142722] [rtabma

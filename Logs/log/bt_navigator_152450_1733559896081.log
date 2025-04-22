@@ -1,0 +1,461 @@
+[INFO] [1733559896.836094233] [bt_navigator]: 
+	bt_navigator lifecycle node launched. 
+	Waiting on external lifecycle transitions to activate
+	See https://design.ros2.org/articles/node_lifecycle.html for more information.
+[INFO] [1733559896.836297263] [bt_navigator]: Creating
+[INFO] [1733559898.248236625] [bt_navigator]: Configuring
+[INFO] [1733559900.210433536] [bt_navigator]: Activating
+[INFO] [1733559900.480838721] [bt_navigator]: Creating bond (bt_navigator) to lifecycle manager.
+[INFO] [1733559931.069224290] [bt_navigator]: Begin navigating from current location (-0.00, -0.00) to (3.20, 1.41)
+[INFO] [1733559943.119568533] [bt_navigator]: Received goal preemption request
+[INFO] [1733559943.119862732] [bt_navigator]: Begin navigating from current location (0.21, 0.05) to (1.58, 1.33)
+[WARN] [1733559962.191268605] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733559963.509478800] [bt_navigator]: Received goal preemption request
+[INFO] [1733559963.509638498] [bt_navigator]: Begin navigating from current location (0.54, 0.30) to (2.02, 1.78)
+[WARN] [1733560062.502027866] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733560071.520388180] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733560073.069499708] [bt_navigator]: Received goal preemption request
+[INFO] [1733560073.069685330] [bt_navigator]: Begin navigating from current location (0.46, 1.56) to (2.62, -1.82)
+[WARN] [1733560077.072911616] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733560136.960736113] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[ERROR] [1733560139.369446909] [bt_navigator]: Goal failed
+[WARN] [1733560139.369506141] [bt_navigator]: [navigate_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733560151.371296921] [bt_navigator]: Begin navigating from current location (0.58, 2.29) to (2.56, -1.64)
+[WARN] [1733560172.271469170] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733560215.571867184] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733560219.812842562] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733560220.224514154] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733560222.104941556] [bt_navigator]: Received goal preemption request
+[INFO] [1733560222.105751031] [bt_navigator]: Begin navigating from current location (0.86, 3.02) to (1.17, -2.76)
+[WARN] [1733560233.683215771] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733560241.884993354] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733560249.612791515] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733560261.531863726] [bt_navigator]: Received goal preemption request
+[INFO] [1733560261.532258199] [bt_navigator]: Begin navigating from current location (1.13, 3.48) to (-1.14, -1.84)
+[INFO] [1733560276.451547517] [bt_navigator]: Received goal preemption request
+[INFO] [1733560276.451733015] [bt_navigator]: Begin navigating from current location (1.26, 3.55) to (-0.34, -2.53)
+[INFO] [1733560295.761465918] [bt_navigator]: Received goal preemption request
+[INFO] [1733560295.761744389] [bt_navigator]: Begin navigating from current location (1.41, 3.53) to (0.92, -2.77)
+[WARN] [1733560298.293957794] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733560308.801533418] [bt_navigator]: Received goal preemption request
+[INFO] [1733560308.801685882] [bt_navigator]: Begin navigating from current location (1.52, 3.39) to (3.47, -0.50)
+[WARN] [1733560313.395477959] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733560315.461869653] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733560318.812131535] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733560340.993143200] [bt_navigator]: Received goal preemption request
+[INFO] [1733560340.993356781] [bt_navigator]: Begin navigating from current location (1.54, 3.01) to (2.71, 0.90)
+[INFO] [1733560349.781542343] [bt_navigator]: Received goal preemption request
+[INFO] [1733560349.781798280] [bt_navigator]: Begin navigating from current location (1.60, 3.02) to (1.70, -1.89)
+[ERROR] [1733560349.982905718] [bt_navigator]: Goal failed
+[WARN] [1733560349.982992037] [bt_navigator]: [navigate_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733560365.621334557] [bt_navigator]: Begin navigating from current location (1.61, 3.02) to (2.10, -1.91)
+[WARN] [1733560375.311862071] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733560378.281521430] [bt_navigator]: Received goal preemption request
+[INFO] [1733560378.281682879] [bt_navigator]: Begin navigating from current location (1.58, 3.05) to (1.77, -1.94)
+[WARN] [1733560388.554380238] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733560390.851921708] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733560391.741576318] [bt_navigator]: Received goal preemption request
+[INFO] [1733560391.741751775] [bt_navigator]: Begin navigating from current location (1.60, 3.11) to (-0.66, -2.62)
+[WARN] [1733560400.745447269] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733560414.501603156] [bt_navigator]: Received goal preemption request
+[INFO] [1733560414.502042745] [bt_navigator]: Begin navigating from current location (1.80, 2.83) to (3.03, 0.69)
+[INFO] [1733560424.261643681] [bt_navigator]: Received goal preemption request
+[INFO] [1733560424.261905990] [bt_navigator]: Begin navigating from current location (1.78, 2.86) to (3.32, 0.40)
+[INFO] [1733560438.081542227] [bt_navigator]: Received goal preemption request
+[INFO] [1733560438.081682910] [bt_navigator]: Begin navigating from current location (1.70, 2.62) to (1.94, 2.60)
+[INFO] [1733560451.521580038] [bt_navigator]: Received goal preemption request
+[INFO] [1733560451.521790342] [bt_navigator]: Begin navigating from current location (1.66, 2.48) to (3.33, 3.53)
+[INFO] [1733560458.262620724] [bt_navigator]: Received goal preemption request
+[INFO] [1733560458.262803315] [bt_navigator]: Begin navigating from current location (1.85, 2.54) to (3.39, 0.14)
+[WARN] [1733560464.526028512] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733560470.871768879] [bt_navigator]: Received goal preemption request
+[INFO] [1733560470.872325418] [bt_navigator]: Begin navigating from current location (1.73, 2.30) to (2.49, 2.94)
+[WARN] [1733560475.142488267] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733560480.922426269] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733560481.161687783] [bt_navigator]: Received goal preemption request
+[INFO] [1733560481.162180178] [bt_navigator]: Begin navigating from current location (1.70, 2.11) to (2.15, 3.50)
+[WARN] [1733560509.005005578] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733560523.131655193] [bt_navigator]: Received goal preemption request
+[INFO] [1733560523.132080413] [bt_navigator]: Begin navigating from current location (1.70, 1.77) to (4.33, 1.69)
+[WARN] [1733560525.871833309] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[ERROR] [1733560528.382177322] [bt_navigator_navigate_to_pose_rclcpp_node]: Failed to get result for compute_path_to_pose in node halt!
+[WARN] [1733560528.382465663] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[ERROR] [1733560528.382510092] [bt_navigator]: Goal failed
+[WARN] [1733560528.382532900] [bt_navigator]: [navigate_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733560535.047418938] [bt_navigator]: Begin navigating from current location (1.73, 1.71) to (3.18, 2.73)
+[WARN] [1733560549.469616262] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733560557.109040274] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733560565.457794507] [bt_navigator]: Received goal preemption request
+[INFO] [1733560565.458166173] [bt_navigator]: Begin navigating from current location (1.76, 1.80) to (3.88, -1.44)
+[ERROR] [1733560578.559537635] [bt_navigator_navigate_to_pose_rclcpp_node]: Failed to get result for compute_path_to_pose in node halt!
+[WARN] [1733560578.560690595] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733560581.851039808] [bt_navigator]: Received goal preemption request
+[INFO] [1733560581.851413031] [bt_navigator]: Begin navigating from current location (1.94, 1.58) to (3.84, 1.57)
+[WARN] [1733560585.317113530] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733560585.322851003] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733560597.472718263] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733560600.863052569] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[ERROR] [1733560633.980766223] [bt_navigator]: Goal failed
+[WARN] [1733560633.980831592] [bt_navigator]: [navigate_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733560714.382212164] [bt_navigator]: Begin navigating from current location (1.89, 1.74) to (0.14, -3.33)
+[WARN] [1733560788.616132858] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733560789.928500968] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733560805.564698697] [bt_navigator]: Received goal preemption request
+[INFO] [1733560805.564891038] [bt_navigator]: Begin navigating from current location (1.37, 1.44) to (1.55, 3.41)
+[ERROR] [1733560856.373146574] [bt_navigator]: Goal failed
+[WARN] [1733560856.373201922] [bt_navigator]: [navigate_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733560868.178960845] [bt_navigator]: Begin navigating from current location (1.98, 1.19) to (3.26, -0.54)
+[INFO] [1733560872.929125247] [bt_navigator]: Received goal preemption request
+[INFO] [1733560872.929272529] [bt_navigator]: Begin navigating from current location (2.05, 1.17) to (4.09, -1.20)
+[WARN] [1733560917.894291621] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733560929.438381617] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733560929.441151438] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733560981.431023699] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733560990.675867589] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733561009.832669536] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[ERROR] [1733561029.279164227] [bt_navigator]: Goal failed
+[WARN] [1733561029.279299496] [bt_navigator]: [navigate_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733561045.479777660] [bt_navigator]: Begin navigating from current location (3.37, 0.94) to (-0.68, -2.31)
+[WARN] [1733561056.116721689] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733561072.991067593] [bt_navigator]: Received goal preemption request
+[INFO] [1733561072.991393232] [bt_navigator]: Begin navigating from current location (3.70, 1.02) to (2.91, -2.05)
+[WARN] [1733561077.320912906] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733561087.690964941] [bt_navigator]: Received goal preemption request
+[INFO] [1733561087.691287689] [bt_navigator]: Begin navigating from current location (3.86, 0.94) to (3.25, -1.14)
+[INFO] [1733561095.922406004] [bt_navigator]: Received goal preemption request
+[INFO] [1733561095.923555305] [bt_navigator]: Begin navigating from current location (4.02, 0.85) to (3.25, 0.03)
+[INFO] [1733561104.171046846] [bt_navigator]: Received goal preemption request
+[INFO] [1733561104.171413252] [bt_navigator]: Begin navigating from current location (4.04, 0.86) to (2.07, -1.01)
+[INFO] [1733561113.410983851] [bt_navigator]: Received goal preemption request
+[INFO] [1733561113.411155624] [bt_navigator]: Begin navigating from current location (4.06, 0.90) to (1.99, -2.46)
+[WARN] [1733561119.031654385] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733561133.631294035] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733561134.930960365] [bt_navigator]: Received goal preemption request
+[INFO] [1733561134.931131565] [bt_navigator]: Begin navigating from current location (4.39, 0.73) to (3.16, -0.46)
+[INFO] [1733561151.341237854] [bt_navigator]: Received goal preemption request
+[INFO] [1733561151.342011930] [bt_navigator]: Begin navigating from current location (4.47, 0.63) to (3.57, -0.18)
+[WARN] [1733561155.251586729] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733561160.869629253] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733561160.874191975] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733561164.880973810] [bt_navigator]: Received goal preemption request
+[INFO] [1733561164.881141530] [bt_navigator]: Begin navigating from current location (4.64, 0.45) to (2.98, -0.30)
+[WARN] [1733561165.533782177] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733561170.022172352] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733561181.711031040] [bt_navigator]: Received goal preemption request
+[INFO] [1733561181.711210761] [bt_navigator]: Begin navigating from current location (4.74, 0.48) to (2.15, -2.59)
+[INFO] [1733561192.590991448] [bt_navigator]: Received goal preemption request
+[INFO] [1733561192.591198631] [bt_navigator]: Begin navigating from current location (4.91, 0.34) to (2.69, -0.35)
+[INFO] [1733561201.151028703] [bt_navigator]: Received goal preemption request
+[INFO] [1733561201.151515404] [bt_navigator]: Begin navigating from current location (5.02, 0.28) to (2.58, -0.46)
+[WARN] [1733561203.536004615] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733561213.911044589] [bt_navigator]: Received goal preemption request
+[INFO] [1733561213.911309762] [bt_navigator]: Begin navigating from current location (5.05, 0.23) to (2.51, 0.01)
+[WARN] [1733561216.955063930] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733561221.332480812] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733561225.911043048] [bt_navigator]: Received goal preemption request
+[INFO] [1733561225.911229638] [bt_navigator]: Begin navigating from current location (5.22, 0.06) to (0.86, -0.51)
+[WARN] [1733561233.136686596] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733561235.371081537] [bt_navigator]: Received goal preemption request
+[INFO] [1733561235.371490816] [bt_navigator]: Begin navigating from current location (5.29, 0.01) to (2.56, 0.24)
+[WARN] [1733561236.863277300] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733561238.195060220] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733561246.151060278] [bt_navigator]: Received goal preemption request
+[INFO] [1733561246.151468325] [bt_navigator]: Begin navigating from current location (5.35, 0.03) to (0.88, -1.97)
+[INFO] [1733561254.350934937] [bt_navigator]: Received goal preemption request
+[INFO] [1733561254.351136539] [bt_navigator]: Begin navigating from current location (5.62, 0.03) to (0.29, -0.98)
+[ERROR] [1733561263.360903030] [bt_navigator]: Goal failed
+[WARN] [1733561263.361927222] [bt_navigator]: [navigate_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733561263.992068263] [bt_navigator]: Begin navigating from current location (5.56, -0.23) to (2.51, 1.18)
+[WARN] [1733561264.232171676] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733561271.032273579] [bt_navigator]: Received goal preemption request
+[INFO] [1733561271.032512744] [bt_navigator]: Begin navigating from current location (5.57, -0.36) to (2.79, 1.27)
+[WARN] [1733561276.682771379] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733561281.266662906] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733561282.733712193] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733561286.962262326] [bt_navigator]: Received goal preemption request
+[INFO] [1733561286.962687143] [bt_navigator]: Begin navigating from current location (5.57, -0.67) to (3.14, 1.27)
+[INFO] [1733561292.442271434] [bt_navigator]: Received goal preemption request
+[INFO] [1733561292.442432596] [bt_navigator]: Begin navigating from current location (5.58, -0.66) to (3.66, 0.91)
+[ERROR] [1733561296.462878347] [bt_navigator_navigate_to_pose_rclcpp_node]: Failed to get result for compute_path_to_pose in node halt!
+[WARN] [1733561296.466055052] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733561299.976164573] [bt_navigator]: Received goal preemption request
+[INFO] [1733561299.976333412] [bt_navigator]: Begin navigating from current location (5.57, -0.77) to (3.80, -0.23)
+[INFO] [1733561317.336309246] [bt_navigator]: Received goal preemption request
+[INFO] [1733561317.336537675] [bt_navigator]: Begin navigating from current location (5.70, -0.77) to (1.69, -0.87)
+[INFO] [1733561331.846219655] [bt_navigator]: Received goal preemption request
+[INFO] [1733561331.846495025] [bt_navigator]: Begin navigating from current location (5.81, -1.04) to (-0.71, -1.94)
+[INFO] [1733561341.196158647] [bt_navigator]: Received goal preemption request
+[INFO] [1733561341.196347064] [bt_navigator]: Begin navigating from current location (5.82, -1.07) to (0.95, -4.29)
+[WARN] [1733561385.027224019] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733561395.936257794] [bt_navigator]: Received goal preemption request
+[INFO] [1733561395.936430571] [bt_navigator]: Begin navigating from current location (5.82, -1.75) to (2.86, -3.77)
+[WARN] [1733561408.086422393] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733561410.446344980] [bt_navigator]: Received goal preemption request
+[INFO] [1733561410.446834233] [bt_navigator]: Begin navigating from current location (5.80, -1.81) to (0.78, -4.06)
+[INFO] [1733561414.616211056] [bt_navigator]: Received goal preemption request
+[INFO] [1733561414.616349227] [bt_navigator]: Begin navigating from current location (5.76, -1.87) to (4.65, -3.39)
+[WARN] [1733561428.396692758] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[ERROR] [1733561430.166148115] [bt_navigator]: Goal failed
+[WARN] [1733561430.167114468] [bt_navigator]: [navigate_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733561455.015515474] [bt_navigator]: Begin navigating from current location (5.55, -2.15) to (4.18, -3.13)
+[WARN] [1733561458.576784144] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733561469.605789595] [bt_navigator]: Received goal preemption request
+[INFO] [1733561469.605969304] [bt_navigator]: Begin navigating from current location (5.42, -2.38) to (2.76, -2.85)
+[WARN] [1733561472.367326677] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733561473.547527235] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733561480.428340012] [bt_navigator]: Received goal preemption request
+[INFO] [1733561480.428570885] [bt_navigator]: Begin navigating from current location (5.35, -2.50) to (2.69, -1.54)
+[INFO] [1733561490.410591060] [bt_navigator]: Received goal preemption request
+[INFO] [1733561490.410945990] [bt_navigator]: Begin navigating from current location (5.42, -2.51) to (0.01, -2.33)
+[INFO] [1733561502.907687187] [bt_navigator]: Received goal preemption request
+[INFO] [1733561502.907809010] [bt_navigator]: Begin navigating from current location (5.34, -2.73) to (2.19, -3.11)
+[INFO] [1733561510.227811433] [bt_navigator]: Received goal preemption request
+[INFO] [1733561510.228232164] [bt_navigator]: Begin navigating from current location (5.26, -2.85) to (2.09, -1.73)
+[WARN] [1733561513.238232190] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733561520.458829919] [bt_navigator]: Received goal preemption request
+[INFO] [1733561520.459317105] [bt_navigator]: Begin navigating from current location (5.26, -2.83) to (3.65, -2.61)
+[INFO] [1733561525.079383740] [bt_navigator]: Received goal preemption request
+[INFO] [1733561525.079719273] [bt_navigator]: Begin navigating from current location (5.22, -2.86) to (-0.40, -4.11)
+[WARN] [1733561525.820982789] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733561528.139029954] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733561548.307846303] [bt_navigator]: Received goal preemption request
+[INFO] [1733561548.308246178] [bt_navigator]: Begin navigating from current location (4.96, -2.84) to (1.92, -1.87)
+[WARN] [1733561551.069040123] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733561556.328772770] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733561561.838471590] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[ERROR] [1733561570.698283253] [bt_navigator_navigate_to_pose_rclcpp_node]: Failed to get result for compute_path_to_pose in node halt!
+[WARN] [1733561570.699108466] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733561580.909350846] [bt_navigator]: Received goal preemption request
+[INFO] [1733561580.909785445] [bt_navigator]: Begin navigating from current location (4.84, -2.64) to (2.54, -0.03)
+[INFO] [1733561594.310638390] [bt_navigator]: Received goal preemption request
+[INFO] [1733561594.310776531] [bt_navigator]: Begin navigating from current location (4.83, -2.42) to (-0.89, 4.61)
+[WARN] [1733561602.531714842] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733561620.729260350] [bt_navigator]: Received goal preemption request
+[INFO] [1733561620.729439476] [bt_navigator]: Begin navigating from current location (4.68, -2.35) to (5.65, 1.69)
+[WARN] [1733561624.020693633] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733561635.370270931] [bt_navigator]: Received goal preemption request
+[INFO] [1733561635.370545960] [bt_navigator]: Begin navigating from current location (4.40, -2.46) to (3.40, 0.35)
+[INFO] [1733561642.279255750] [bt_navigator]: Received goal preemption request
+[INFO] [1733561642.279502455] [bt_navigator]: Begin navigating from current location (4.34, -2.49) to (3.91, 0.24)
+[INFO] [1733561648.979658659] [bt_navigator]: Received goal preemption request
+[INFO] [1733561648.979782144] [bt_navigator]: Begin navigating from current location (4.36, -2.48) to (4.35, 0.70)
+[INFO] [1733561663.370971849] [bt_navigator]: Received goal preemption request
+[INFO] [1733561663.371165523] [bt_navigator]: Begin navigating from current location (4.12, -2.61) to (3.79, -0.06)
+[ERROR] [1733561668.149236847] [bt_navigator]: Goal failed
+[WARN] [1733561668.149382241] [bt_navigator]: [navigate_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733561682.469488372] [bt_navigator]: Begin navigating from current location (4.02, -2.65) to (4.67, -0.65)
+[WARN] [1733561682.481352587] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[ERROR] [1733561686.890482764] [bt_navigator_navigate_to_pose_rclcpp_node]: Failed to get result for compute_path_to_pose in node halt!
+[WARN] [1733561686.891363070] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733561697.352476871] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733561697.771605083] [bt_navigator]: Received goal preemption request
+[INFO] [1733561697.771933991] [bt_navigator]: Begin navigating from current location (4.02, -2.70) to (3.11, -2.34)
+[INFO] [1733561719.051837832] [bt_navigator]: Received goal preemption request
+[INFO] [1733561719.052076150] [bt_navigator]: Begin navigating from current location (3.89, -2.97) to (3.69, -2.17)
+[INFO] [1733561729.155018006] [bt_navigator]: Received goal preemption request
+[INFO] [1733561729.155512253] [bt_navigator]: Begin navigating from current location (3.83, -3.03) to (4.16, -2.99)
+[INFO] [1733561748.601614119] [bt_navigator]: Received goal preemption request
+[INFO] [1733561748.601981291] [bt_navigator]: Begin navigating from current location (3.62, -3.21) to (4.01, -1.09)
+[INFO] [1733561755.281590280] [bt_navigator]: Received goal preemption request
+[INFO] [1733561755.282130357] [bt_navigator]: Begin navigating from current location (3.52, -3.28) to (4.93, -2.90)
+[INFO] [1733561774.582364946] [bt_navigator]: Received goal preemption request
+[INFO] [1733561774.582597686] [bt_navigator]: Begin navigating from current location (3.52, -3.39) to (1.81, -3.42)
+[INFO] [1733561792.762355208] [bt_navigator]: Received goal preemption request
+[INFO] [1733561792.762750986] [bt_navigator]: Begin navigating from current location (3.29, -3.59) to (1.72, -1.39)
+[WARN] [1733561806.836534406] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733561817.501661553] [bt_navigator]: Received goal preemption request
+[INFO] [1733561817.502113264] [bt_navigator]: Begin navigating from current location (3.01, -3.73) to (4.22, -0.95)
+[INFO] [1733561827.181665394] [bt_navigator]: Received goal preemption request
+[INFO] [1733561827.183347591] [bt_navigator]: Begin navigating from current location (2.96, -3.77) to (3.16, -1.82)
+[WARN] [1733561837.073305697] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733561837.961906052] [bt_navigator]: Received goal preemption request
+[INFO] [1733561837.962679571] [bt_navigator]: Begin navigating from current location (2.96, -3.80) to (1.68, -2.67)
+[WARN] [1733561843.534406123] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733561861.592613384] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733561872.271568206] [bt_navigator]: Received goal preemption request
+[INFO] [1733561872.271746826] [bt_navigator]: Begin navigating from current location (2.60, -4.05) to (3.11, -2.47)
+[WARN] [1733561882.444867768] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[ERROR] [1733561885.151490976] [bt_navigator]: Goal failed
+[WARN] [1733561885.151590427] [bt_navigator]: [navigate_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733561912.482414793] [bt_navigator]: Begin navigating from current location (2.32, -4.15) to (3.66, -0.63)
+[WARN] [1733561919.343665833] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[ERROR] [1733561926.143964858] [bt_navigator_navigate_to_pose_rclcpp_node]: Failed to get result for compute_path_to_pose in node halt!
+[WARN] [1733561926.145250655] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733561931.275457564] [bt_navigator]: Received goal preemption request
+[INFO] [1733561931.275844645] [bt_navigator]: Begin navigating from current location (2.09, -4.30) to (4.75, -0.59)
+[WARN] [1733561955.143658507] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733561976.005641000] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[ERROR] [1733561989.975335592] [bt_navigator]: Goal failed
+[WARN] [1733561989.975403222] [bt_navigator]: [navigate_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733562039.298963201] [bt_navigator]: Begin navigating from current location (2.26, -4.24) to (-3.17, -1.04)
+[INFO] [1733562049.379248014] [bt_navigator]: Received goal preemption request
+[INFO] [1733562049.379446444] [bt_navigator]: Begin navigating from current location (2.23, -4.22) to (-2.90, -0.49)
+[WARN] [1733562066.333262749] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733562076.560863090] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733562097.799394123] [bt_navigator]: Received goal preemption request
+[INFO] [1733562097.799635788] [bt_navigator]: Begin navigating from current location (1.95, -4.02) to (3.60, 1.54)
+[INFO] [1733562111.139283588] [bt_navigator]: Received goal preemption request
+[INFO] [1733562111.139476654] [bt_navigator]: Begin navigating from current location (1.72, -4.03) to (3.62, -0.88)
+[WARN] [1733562121.931001290] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733562137.990224957] [bt_navigator]: Received goal preemption request
+[INFO] [1733562137.990706757] [bt_navigator]: Begin navigating from current location (1.20, -4.14) to (3.28, -1.36)
+[INFO] [1733562156.079364061] [bt_navigator]: Received goal preemption request
+[INFO] [1733562156.079733737] [bt_navigator]: Begin navigating from current location (0.83, -4.20) to (2.87, -1.15)
+[INFO] [1733562169.919384445] [bt_navigator]: Received goal preemption request
+[INFO] [1733562169.919890001] [bt_navigator]: Begin navigating from current location (0.80, -4.25) to (1.33, -3.13)
+[INFO] [1733562184.609812615] [bt_navigator]: Received goal preemption request
+[INFO] [1733562184.610156265] [bt_navigator]: Begin navigating from current location (0.60, -4.33) to (2.14, -2.28)
+[INFO] [1733562192.119297182] [bt_navigator]: Received goal preemption request
+[INFO] [1733562192.119504264] [bt_navigator]: Begin navigating from current location (0.45, -4.35) to (2.81, -2.88)
+[WARN] [1733562223.243106143] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733562227.779301201] [bt_navigator]: Received goal preemption request
+[INFO] [1733562227.779511939] [bt_navigator]: Begin navigating from current location (-0.05, -4.36) to (2.62, -3.08)
+[ERROR] [1733562228.149197504] [bt_navigator]: Goal failed
+[WARN] [1733562228.149255912] [bt_navigator]: [navigate_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733562239.060259966] [bt_navigator]: Begin navigating from current location (-0.09, -4.36) to (2.11, -2.26)
+[WARN] [1733562247.661335487] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733562254.520453348] [bt_navigator]: Received goal preemption request
+[INFO] [1733562254.520678219] [bt_navigator]: Begin navigating from current location (-0.36, -4.34) to (1.41, -1.14)
+[INFO] [1733562268.570478276] [bt_navigator]: Received goal preemption request
+[INFO] [1733562268.570655279] [bt_navigator]: Begin navigating from current location (-0.65, -4.29) to (2.19, -2.61)
+[WARN] [1733562268.670580063] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733562280.743907505] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733562283.740536319] [bt_navigator]: Received goal preemption request
+[INFO] [1733562283.740737546] [bt_navigator]: Begin navigating from current location (-0.90, -4.21) to (3.22, -3.15)
+[WARN] [1733562293.387757670] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733562294.360584849] [bt_navigator]: Received goal preemption request
+[INFO] [1733562294.360885218] [bt_navigator]: Begin navigating from current location (-0.90, -4.26) to (0.54, -3.00)
+[INFO] [1733562319.981188817] [bt_navigator]: Received goal preemption request
+[INFO] [1733562319.982867377] [bt_navigator]: Begin navigating from current location (-1.26, -4.11) to (3.35, -2.27)
+[INFO] [1733562335.760554971] [bt_navigator]: Received goal preemption request
+[INFO] [1733562335.762727114] [bt_navigator]: Begin navigating from current location (-1.34, -3.99) to (3.32, -0.60)
+[INFO] [1733562343.520515652] [bt_navigator]: Received goal preemption request
+[INFO] [1733562343.520765712] [bt_navigator]: Begin navigating from current location (-1.41, -3.85) to (4.08, 0.20)
+[ERROR] [1733562344.531712998] [bt_navigator_navigate_to_pose_rclcpp_node]: Failed to get result for compute_path_to_pose in node halt!
+[WARN] [1733562344.536644921] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733562357.916817765] [bt_navigator]: Received goal preemption request
+[INFO] [1733562357.917053336] [bt_navigator]: Begin navigating from current location (-1.47, -3.85) to (1.34, -1.68)
+[INFO] [1733562377.986901507] [bt_navigator]: Received goal preemption request
+[INFO] [1733562377.987246342] [bt_navigator]: Begin navigating from current location (-1.66, -3.60) to (3.95, 0.54)
+[INFO] [1733562386.676815429] [bt_navigator]: Received goal preemption request
+[INFO] [1733562386.677007787] [bt_navigator]: Begin navigating from current location (-1.67, -3.53) to (4.05, 0.46)
+[INFO] [1733562397.656910951] [bt_navigator]: Received goal preemption request
+[INFO] [1733562397.657330761] [bt_navigator]: Begin navigating from current location (-1.67, -3.35) to (3.83, 1.78)
+[INFO] [1733562409.516914468] [bt_navigator]: Received goal preemption request
+[INFO] [1733562409.517298351] [bt_navigator]: Begin navigating from current location (-1.65, -3.11) to (5.17, 2.70)
+[WARN] [1733562415.945420673] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733562420.583900437] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[ERROR] [1733562427.166864951] [bt_navigator]: Goal failed
+[WARN] [1733562427.166954860] [bt_navigator]: [navigate_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733562428.330991337] [bt_navigator]: Begin navigating from current location (-1.63, -2.71) to (2.81, 1.43)
+[INFO] [1733562447.831538769] [bt_navigator]: Received goal preemption request
+[INFO] [1733562447.833323657] [bt_navigator]: Begin navigating from current location (-1.70, -2.37) to (3.98, 1.53)
+[WARN] [1733562451.732815659] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733562453.451501987] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733562456.818486686] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[ERROR] [1733562467.854990166] [bt_navigator_navigate_to_pose_rclcpp_node]: Failed to get result for compute_path_to_pose in node halt!
+[WARN] [1733562467.856439016] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[ERROR] [1733562499.297217204] [bt_navigator_navigate_to_pose_rclcpp_node]: Failed to get result for compute_path_to_pose in node halt!
+[WARN] [1733562499.298047317] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733562503.618372364] [bt_navigator]: Received goal preemption request
+[INFO] [1733562503.618756406] [bt_navigator]: Begin navigating from current location (-1.91, -2.38) to (3.26, -0.29)
+[ERROR] [1733562503.668834605] [bt_navigator_navigate_to_pose_rclcpp_node]: Failed to get result for compute_path_to_pose in node halt!
+[WARN] [1733562503.672701218] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733562509.102811887] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733562513.066041369] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733562519.684107482] [bt_navigator]: Received goal preemption request
+[INFO] [1733562519.684272260] [bt_navigator]: Begin navigating from current location (-1.92, -2.36) to (3.11, 1.15)
+[INFO] [1733562532.852894283] [bt_navigator]: Received goal preemption request
+[INFO] [1733562532.853045752] [bt_navigator]: Begin navigating from current location (-1.92, -2.39) to (2.78, -0.29)
+[ERROR] [1733562560.382786365] [bt_navigator]: Goal failed
+[WARN] [1733562560.382856619] [bt_navigator]: [navigate_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733562561.496681368] [bt_navigator]: Begin navigating from current location (-2.14, -2.36) to (2.48, -1.43)
+[INFO] [1733562582.336885907] [bt_navigator]: Received goal preemption request
+[INFO] [1733562582.337144609] [bt_navigator]: Begin navigating from current location (-2.42, -2.03) to (3.24, 0.28)
+[WARN] [1733562586.836856517] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733562592.519243086] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733562597.046892687] [bt_navigator]: Received goal preemption request
+[INFO] [1733562597.047041315] [bt_navigator]: Begin navigating from current location (-2.42, -1.98) to (3.23, -0.17)
+[INFO] [1733562606.356840786] [bt_navigator]: Received goal preemption request
+[INFO] [1733562606.357016714] [bt_navigator]: Begin navigating from current location (-2.48, -1.82) to (4.31, 0.18)
+[WARN] [1733562615.424079524] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733562626.967696852] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733562627.232880326] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733562639.151438351] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733562639.746828409] [bt_navigator]: Received goal preemption request
+[INFO] [1733562639.746988029] [bt_navigator]: Begin navigating from current location (-2.72, -1.54) to (3.73, -0.87)
+[WARN] [1733562639.870998128] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733562681.038514057] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733562684.449471691] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733562689.548538624] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733562691.051472669] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733562751.889159200] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[ERROR] [1733562756.788285535] [bt_navigator_navigate_to_pose_rclcpp_node]: Failed to get result for compute_path_to_pose in node halt!
+[WARN] [1733562756.788505747] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[ERROR] [1733562756.788530425] [bt_navigator]: Goal failed
+[WARN] [1733562756.788544183] [bt_navigator]: [navigate_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733562794.679822466] [bt_navigator]: Begin navigating from current location (-3.39, -0.11) to (0.86, 2.59)
+[WARN] [1733562809.750865105] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733562810.241139587] [bt_navigator]: Received goal preemption request
+[INFO] [1733562810.241339517] [bt_navigator]: Begin navigating from current location (-3.44, -0.13) to (3.52, 0.84)
+[INFO] [1733562828.580826782] [bt_navigator]: Received goal preemption request
+[INFO] [1733562828.580982923] [bt_navigator]: Begin navigating from current location (-3.42, -0.73) to (4.28, 1.27)
+[INFO] [1733562840.460901776] [bt_navigator]: Received goal preemption request
+[INFO] [1733562840.461087442] [bt_navigator]: Begin navigating from current location (-3.37, -0.38) to (3.71, -2.31)
+[ERROR] [1733562858.980793919] [bt_navigator]: Goal failed
+[WARN] [1733562858.980858560] [bt_navigator]: [navigate_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733562881.066557934] [bt_navigator]: Begin navigating from current location (-3.32, -0.43) to (0.58, -3.74)
+[WARN] [1733562909.948807601] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733562914.526744385] [bt_navigator]: Received goal preemption request
+[INFO] [1733562914.526910043] [bt_navigator]: Begin navigating from current location (-3.80, -0.50) to (4.29, -0.04)
+[ERROR] [1733562918.578484608] [bt_navigator_navigate_to_pose_rclcpp_node]: Failed to get result for compute_path_to_pose in node halt!
+[WARN] [1733562918.581590081] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733562928.081713392] [bt_navigator]: Received goal preemption request
+[INFO] [1733562928.081899101] [bt_navigator]: Begin navigating from current location (-3.90, -0.59) to (3.15, -1.98)
+[INFO] [1733562935.151693000] [bt_navigator]: Received goal preemption request
+[INFO] [1733562935.151838876] [bt_navigator]: Begin navigating from current location (-3.90, -0.63) to (3.10, -2.95)
+[WARN] [1733562936.056989834] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[ERROR] [1733562994.191685966] [bt_navigator]: Goal failed
+[WARN] [1733562994.192230751] [bt_navigator]: [navigate_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733562997.375671690] [bt_navigator]: Begin navigating from current location (-4.59, -0.74) to (3.32, -0.10)
+[ERROR] [1733563015.018761659] [bt_navigator_navigate_to_pose_rclcpp_node]: Failed to get result for compute_path_to_pose in node halt!
+[WARN] [1733563015.019430927] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733563019.749573402] [bt_navigator]: Received goal preemption request
+[INFO] [1733563019.755183456] [bt_navigator]: Begin navigating from current location (-4.98, -0.61) to (3.59, -0.05)
+[WARN] [1733563026.579435679] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733563036.549721707] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733563045.659787649] [bt_navigator]: Received goal preemption request
+[INFO] [1733563045.659973297] [bt_navigator]: Begin navigating from current location (-5.48, -0.44) to (3.22, 0.36)
+[INFO] [1733563077.629614252] [bt_navigator]: Received goal preemption request
+[INFO] [1733563077.629918235] [bt_navigator]: Begin navigating from current location (-5.79, -0.46) to (0.69, -1.99)
+[ERROR] [1733563101.240689182] [bt_navigator_navigate_to_pose_rclcpp_node]: Failed to get result for compute_path_to_pose in node halt!
+[WARN] [1733563101.243703599] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733563123.093944249] [bt_navigator]: Received goal preemption request
+[INFO] [1733563123.094422611] [bt_navigator]: Begin navigating from current location (-4.14, -0.55) to (3.24, -1.35)
+[WARN] [1733563127.965951823] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[ERROR] [1733563128.983798792] [bt_navigator]: Goal failed
+[WARN] [1733563128.983857010] [bt_navigator]: [navigate_to_pose] [ActionServer] Aborting handle.
+[INFO] [1733563143.317713121] [bt_navigator]: Begin navigating from current location (-4.12, -0.55) to (3.88, -0.48)
+[INFO] [1733563159.987967058] [bt_navigator]: Received goal preemption request
+[INFO] [1733563159.988153754] [bt_navigator]: Begin navigating from current location (-4.09, -0.62) to (1.76, -4.08)
+[INFO] [1733563182.348513904] [bt_navigator]: Received goal preemption request
+[INFO] [1733563182.348684970] [bt_navigator]: Begin navigating from current location (-4.24, -0.65) to (2.28, -1.80)
+[INFO] [1733563202.979988794] [bt_navigator]: Received goal preemption request
+[INFO] [1733563202.980165675] [bt_navigator]: Begin navigating from current location (-4.62, -0.55) to (2.30, -0.55)
+[WARN] [1733563210.041699239] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733563241.598067460] [bt_navigator]: Received goal preemption request
+[INFO] [1733563241.598603506] [bt_navigator]: Begin navigating from current location (-5.02, -0.53) to (1.25, 0.61)
+[WARN] [1733563246.052466700] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[WARN] [1733563258.160724316] [BehaviorTreeEngine]: Behavior Tree tick rate 100.00 was exceeded!
+[INFO] [1733563266.495308977] [rclcpp]: signal_handler(signum=2)
+[INFO] [1733563266.495538714] [bt_navigator]: Running Nav2 LifecycleNode rcl preshutdown (bt_navigator)
+[INFO] [1733563266.495610884] [bt_navigator]: Deactivating
+[WARN] [1733563266.495627673] [bt_navigator]: [navigate_to_pose] [ActionServer] Requested to deactivate server but goal is still executing. Should check if action server is running before deactivating.
+[ERROR] [1733563266.532946406] [bt_navigator_navigate_to_pose_rclcpp_node]: Failed to get result for follow_path in node halt!
+[INFO] [1733563266.533125501] [bt_navigator]: Goal canceled
+[WARN] [1733563266.533170950] [bt_navigator]: [navigate_to_pose] [ActionServer] Aborting handle.
+[WARN] [1733563266.533311508] [bt_navigator]: [navigate_to_pose] [ActionServer] Stopping the thread per request.
+[INFO] [1733563266.533718559] [bt_navigator]: Destroying bond (bt_navigator) to lifecycle manager.
+[INFO] [1733563266.553985808] [bt_navigator]: Cleaning up
+[INFO] [1733563266.821935034] [bt_navigator]: Completed Cleaning up
+[INFO] [1733563266.821992052] [bt_navigator]: Destroying bond (bt_navigator) to lifecycle manager.
